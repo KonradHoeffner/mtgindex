@@ -1,0 +1,25 @@
+{
+	"name": "mtgslides",
+	"description": "MTG single file card index from Scryfall",
+	"version": "0.1.0",
+	"scripts": {
+		"download": "sh ./download",
+		"build": "node src/createIndex.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KonradHoeffner/mtgindex.git"
+	},
+	"keywords": [
+		"mtg"
+	],
+	"author": "Konrad Höffner",
+	"bugs": {
+		"url": "https://github.com/KonradHoeffner/mtgindex/issues"
+	},
+	"homepage": "https://github.com/KonradHoeffner/mtgindex#readme",
+	"devDependencies": {
+		"prettier": "~2.5.1"
+	}
+}
