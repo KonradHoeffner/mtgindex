@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Magic: The Gathering Card Index</title>
+</head>
+<body>
+<ul>
+	<li>
+		<a href="mtgimg.js" target="blank">image only (~3 MB)</a>
+		<pre>&lt;script src="https://konradhoeffner.github.io/mtgindex/mtgimg.js"&gt;&lt;/script&gt;</pre>
+		<pre>
+var mtgimg = {
+	"+2 Mace": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221",
+	  "Abandon Hope": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/4/942cf220-472c-48f6-8f60-993939ea5ab8.jpg?1562055436",
+	  "Abandon Reason": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/8/18c0b3b3-bb62-42c5-9869-386af0540a9b.jpg?1576384496",
+	  ...
+		</pre>
+	</li>
+	<li>
+		<a href="mtgindex.js" target="blank">image and basic attributes (~6 MB)</a>
+		<pre>&lt;script src="https://konradhoeffner.github.io/mtgindex/mtgindex.js"&gt;&lt;/script&gt;</pre>
+		<pre>
+var mtgindex = {
+  "+2 Mace": {
+    "img": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Artifact — Equipment",
+    "color_identity": [
+      "W"
+    ]
+  },
+  ...
+		</pre>
+	</li>
+	<li><a href="https://github.com/konradhoeffner/mtgindex" target="blank">GitHub Project</a></li>
+</ul>
+</body>
+</html>
