@@ -70,5 +70,5 @@ function write(obj,filename,varname)
 	fs.writeFile(filename, "var "+varname+" =" + JSON.stringify(obj, null, 2) + ";", "utf8", (error)=>{if(error) console.error(error);});
 }
 
-write(index,"cards.js","cards");
-write(index2,"cards2.js","cards2");
+write(index,"index/mtgimg.js","mtgimg");
+write(index2,"index/mtgindex.js","mtgindex");
