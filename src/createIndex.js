@@ -64,11 +64,16 @@ for (let key in indexBase) {
 	const ib = indexBase[key];
 	index2[key] = { img: ib.url, colors: ib.colors, mana_cost: ib.mana_cost, cmc: ib.cmc, type_line: ib.type_line, color_identity: ib.color_identity };
 }
-function write(obj,filename,varname)
-{
+function write(obj, filename, varname) {
 	obj = Object.fromEntries(Object.entries(obj).sort()); // reduce diff size
-	fs.writeFile(filename, "var "+varname+" =" + JSON.stringify(obj, null, 2) + ";", "utf8", (error)=>{if(error) console.error(error);});
+	let content = JSON.stringify(obj, null, 2);
+	if (varname) content = "var " + varname + " = \n" + content + ";";
+	fs.writeFile(filename, content, "utf8", (error) => {
+		if (error) console.error(error);
+	});
 }
 
-write(index,"index/mtgimg.js","mtgimg");
-write(index2,"index/mtgindex.js","mtgindex");
+write(index, "index/mtgimg.js", "mtgimg");
+write(index, "index/mtgimg.json");
+write(index2, "index/mtgindex.js", "mtgindex");
+write(index2, "index/mtgindex.json");

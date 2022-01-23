@@ -1,5 +1,7 @@
 node_modules
 scryfall-default-cards.json
 index/mtgimg.js
+index/mtgimg.json
 index/mtgindex.js
+index/mtgindex.json
 .vscode
