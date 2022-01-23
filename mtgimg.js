@@ -1,4 +1,5 @@
-var mtgimg ={
+var mtgimg = 
+{
   "+2 Mace": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221",
   "Abandon Hope": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/4/942cf220-472c-48f6-8f60-993939ea5ab8.jpg?1562055436",
   "Abandon Reason": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/8/18c0b3b3-bb62-42c5-9869-386af0540a9b.jpg?1576384496",
