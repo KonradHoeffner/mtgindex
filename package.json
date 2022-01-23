@@ -3,6 +3,8 @@
 	"description": "MTG single file card index from Scryfall",
 	"version": "0.2.0",
 	"scripts": {
+		"prepare": "husky install",
+		"pretty-quick": "pretty-quick",
 		"download": "sh ./download",
 		"build": "node src/createIndex.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +22,8 @@
 	},
 	"homepage": "https://github.com/KonradHoeffner/mtgindex#readme",
 	"devDependencies": {
-		"prettier": "~2.5.1"
+		"husky": "^7.0.4",
+		"prettier": "~2.5.1",
+		"pretty-quick": "^3.1.3"
 	}
 }
