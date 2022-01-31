@@ -536,7 +536,7 @@ var mtgimg =
   "Ancestor's Prophet": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/d/cdee956e-76b1-4ba7-a387-2fbfb853507d.jpg?1562943650",
   "Ancestral Anger": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/d/5dee47ab-d603-4346-97f4-a25dc3f47765.jpg?1636115944",
   "Ancestral Blade": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/b/2ba18114-af6c-48cd-82c9-eb6541d566bf.jpg?1592515941",
-  "Ancestral Katana": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9b1ed43-ee6c-43a2-ba94-5bf71c63e070.jpg?1643493546",
+  "Ancestral Katana": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9b1ed43-ee6c-43a2-ba94-5bf71c63e070.jpg?1643532766",
   "Ancestral Knowledge": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/5/05b90d72-00ac-4423-8cdf-e1471c6cd0ae.jpg?1562799164",
   "Ancestral Mask": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/1203f98a-fb6e-4f16-88e3-553eba177450.jpg?1562379417",
   "Ancestral Memories": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1d1298b-9f56-4540-8d6b-7eecfe38cf62.jpg?1562721416",
