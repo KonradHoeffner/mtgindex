@@ -5,10 +5,44 @@ Suitable for applications that do not discern between different printings of a c
 
 ## Variants
 
-- image only [image.js](https://konradhoeffner.github.io/mtgindex/image.js)
-- detailed [detail.js](https://konradhoeffner.github.io/mtgindex/detail.js) includes type\_line, colors, color\_identity and cmc
+- image only [image.js](https://konradhoeffner.github.io/mtgindex/mtgimg.js)
+- detailed [detail.js](https://konradhoeffner.github.io/mtgindex/mtgindex.js) includes type\_line, colors, color\_identity and cmc
+
+## Structure
+
+```js
+var mtgimg = 
+{
+  "+2 Mace": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221",
+  "A Little Chat": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/d/4d7424b6-b56a-47b7-8204-294d3dca925f.jpg?1649366594",
+  "Aarakocra Sneak": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/a/2a83882c-3e03-4e85-aaac-97fa1d08a772.jpg?1652832662",
+[...]
+```
+
+```js
+var mtgindex = 
+{
+  "+2 Mace": {
+    "img": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.jpg?1627701221",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Artifact — Equipment",
+    "color_identity": [
+      "W"
+    ]
+    ...
+```
+
 
 ## Direct Usage from your JavaScript code
+
+```js
+<script src="https://konradhoeffner.github.io/mtgindex/mtgimg.js"></script> <!-- image only -->
+<script src="https://konradhoeffner.github.io/mtgindex/mtgindex.js"></script>  <!-- detailed -->
+```
 
 ## Setup
 
