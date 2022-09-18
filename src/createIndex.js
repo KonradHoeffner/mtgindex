@@ -31,24 +31,23 @@ cards = tmp;
 
 // sorting by release date and then stable sorting by frame would be simpler but didn't work in practise and changed the order creating large diffs on cards.js
 for (let card of cards) {
-	// prefer first printing
-	// exception: new printing has older frame
-	if (
-		indexBase[card.name] &&
-		(parseInt(indexBase[card.name].frame) < parseInt(card.frame) ||
-			(parseInt(indexBase[card.name].frame) == parseInt(card.frame) && indexBase[card.name].released_at < card.released_at))
-	) {
-		continue;
+	if (indexBase[card.name]) {
+		if (card.released_at < indexBase[card.name].first_release) {indexBase[card.name].first_release = card.released_at}
+		// prefer first printing
+		// exception: new printing has older frame
+		if (parseInt(indexBase[card.name].frame) < parseInt(card.frame) || (parseInt(indexBase[card.name].frame) == parseInt(card.frame) && indexBase[card.name].released_at < card.released_at)) {continue;}
 	}
-
 	const uris = card.image_uris;
 	if (!uris) {
 		console.error("No images for card " + card.name + " " + card.uri);
 		continue;
 	}
+	first_release = card.released_at
+	if (indexBase[card.name] && indexBase[card.name].first_release < first_release) {first_release = indexBase[card.name].first_release}
 	indexBase[card.name] = {
 		url: card.image_uris.large,
 		released_at: card.released_at,
+		first_release,
 		frame: card.frame,
 		colors: card.colors,
 		cmc: card.cmc,
@@ -64,7 +63,7 @@ let index2 = {};
 for (let key in indexBase) {
 	index[key] = indexBase[key].url;
 	const ib = indexBase[key];
-	index2[key] = { img: ib.url, colors: ib.colors, mana_cost: ib.mana_cost, cmc: ib.cmc, type_line: ib.type_line, color_identity: ib.color_identity, power: ib.power, toughness: ib.toughness };
+	index2[key] = { img: ib.url, date: ib.first_release, colors: ib.colors, mana_cost: ib.mana_cost, cmc: ib.cmc, type_line: ib.type_line, color_identity: ib.color_identity, power: ib.power, toughness: ib.toughness };
 }
 function write(obj, filename, varname) {
 	obj = Object.fromEntries(Object.entries(obj).sort()); // reduce diff size
