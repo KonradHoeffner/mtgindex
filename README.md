@@ -1,5 +1,7 @@
 # MTG Index
 
+[![build](https://github.com/KonradHoeffner/mtgindex/actions/workflows/build.yml/badge.svg)](https://github.com/KonradHoeffner/mtgindex/actions/workflows/build.yml)
+
 A transformation of the [Scryfall bulk data](https://scryfall.com/docs/api/bulk-data) to smaller files where each file occurs only once that you can directly include in your JavaScript code.
 Suitable for applications that do not discern between different printings of a card, such as commander decklists.
 
