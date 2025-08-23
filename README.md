@@ -6,8 +6,10 @@ A transformation of the [Scryfall bulk data](https://scryfall.com/docs/api/bulk-
 Suitable for applications that do not discern between different printings of a card, such as commander decklists.
 
 ## Variants
+All variants contain the 'large' 672 × 936 JPG image format from Scryfall, you can replace 'large' with 'png', 'normal' or 'small' for the others, see <https://scryfall.com/docs/api/images>. 
 
 - image only [image.js](https://konradhoeffner.github.io/mtgindex/mtgimg.js)
+- image only [image.json](https://konradhoeffner.github.io/mtgindex/mtgimg.json)
 - detailed [detail.js](https://konradhoeffner.github.io/mtgindex/mtgindex.js) includes type\_line, colors, color\_identity and cmc
 
 ## Structure
@@ -46,9 +48,32 @@ var mtgindex =
 <script src="https://konradhoeffner.github.io/mtgindex/mtgindex.js"></script>  <!-- detailed -->
 ```
 
-## Setup
+## JSON using Fetch API
+
+```js
+<script>                      
+const mtgIndex = fetch('https://konradhoeffner.github.io/mtgindex/mtgimg.json').then(i=>i.json());
+[...]
+async myFunction(cardName) {
+  const imgUrl = (await mtgIndex)[cardName];
+}
+</script>
+```
+
+Or if you don't need to reuse the index (else you waste a lot of time and bandwidth):
+
+```js
+async myFunction() {
+  const mtgIndex = await (await fetch('https://konradhoeffner.github.io/mtgindex/mtgimg.json')).json();
+  const imgUrl1 = mtgIndex["Kird Ape"];
+  const imgUrl2 = mtgIndex["Lightning Bolt"];
+}
+```
+
+## Developer Maintenance
 
 Run `npm run download` and `npm run build` to recreate the index in cards.js after a new edition is published on Scryfall. Requires node.
+This is done automatically using a GitHub action, [currently at 1:00 AM every Monday](https://github.com/KonradHoeffner/mtgindex/blob/master/.github/workflows/build.yml).
 
 ## Motivation
 
