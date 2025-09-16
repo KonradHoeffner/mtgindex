@@ -14994,7 +14994,7 @@ var mtgimg =
   "Livonya Silone": "https://cards.scryfall.io/large/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853",
   "Lizard Blades": "https://cards.scryfall.io/large/front/f/0/f0cadc1b-3434-4c38-b414-0f5ab4ca52a0.jpg?1654570029",
   "Lizard Warrior": "https://cards.scryfall.io/large/front/0/5/053cd970-5b79-410b-8420-82d9a490b897.jpg?1562445663",
-  "Lizard, Connors's Curse": "https://cards.scryfall.io/large/front/6/3/6361ffac-ad30-4b6a-aea2-c804ad51c773.jpg?1757545266",
+  "Lizard, Connors's Curse": "https://cards.scryfall.io/large/front/6/3/6361ffac-ad30-4b6a-aea2-c804ad51c773.jpg?1757947551",
   "Llanowar Augur": "https://cards.scryfall.io/large/front/1/c/1c8c9473-97f4-4875-8f06-d3a70d4cbe6d.jpg?1562900665",
   "Llanowar Behemoth": "https://cards.scryfall.io/large/front/3/d/3d5d9bd0-7ce9-4a1e-a8b2-5c1dbb014917.jpg?1562800362",
   "Llanowar Cavalry": "https://cards.scryfall.io/large/front/2/1/21d92191-a743-4916-bbe4-5e207e964d9b.jpg?1562901760",
