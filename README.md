@@ -80,3 +80,11 @@ This is done automatically using a GitHub action, [currently at 1:00 AM every Mo
 While Scryfall has a [well documented REST API](https://scryfall.com/docs/api), it is limited to around 10 requests per second.
 Its bulk data on the other hand is too large with around 251 MB as it includes all printings of all cards, including tokens, and attributes like image links of different sizes, the oracle text and shopping website identifiers.
 This index is an opinionated selection of attributes and between different prints based on my asthetic preferences, generally preferring old borders and original printings.
+
+## Licensing and Usage
+
+You can download, link, copy, modify, and distribute the generated data files however you want without asking permission.
+The code is not licensed yet because it's just a small script, if you need a license for some reason (e.g. I could add CC0 or MIT), please create an issue.
+The data is processed output of the [Scryfall API](https://scryfall.com/docs/api), please be considerate and don't overuse their API (e.g. by by automatically running this script every minute).
+The images themselves are © Wizards of the Coast.
+
