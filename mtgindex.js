@@ -5344,7 +5344,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Agent 13, Sharon Carter": {
-    "img": "https://cards.scryfall.io/large/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1782681915",
+    "img": "https://cards.scryfall.io/large/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1783725255",
     "date": "2026-06-26",
     "colors": [
       "W"
@@ -9070,8 +9070,8 @@ var mtgindex =
     "toughness": "6"
   },
   "Alms Collector": {
-    "img": "https://cards.scryfall.io/large/front/2/7/27057e88-fd59-453d-8f3a-136ec6c8c40a.jpg?1782749568",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/f/9fe88f96-fd3a-44e5-aa05-3bc63581e33d.jpg?1782710690",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -15218,8 +15218,8 @@ var mtgindex =
     "toughness": "5"
   },
   "Arahbo, Roar of the World": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0a41876-5f70-48e8-b311-e171bba11c74.jpg?1782749546",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/b/2/b298584e-eab0-41c6-a868-3bf72f41bf2c.jpg?1782748627",
+    "date": "2017-08-25",
     "colors": [
       "G",
       "W"
@@ -17857,7 +17857,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Arena Rector": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1782723386",
+    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1783800004",
     "date": "2018-06-08",
     "colors": [
       "W"
@@ -27068,8 +27068,8 @@ var mtgindex =
     "toughness": "6"
   },
   "Balan, Wandering Knight": {
-    "img": "https://cards.scryfall.io/large/front/7/0/70b202fc-3846-4585-a68a-74492e2ce9fb.jpg?1782749538",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/5/d/5d0b279c-9a6d-4a56-878e-0ebf3f609f65.jpg?1782710691",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -35177,7 +35177,7 @@ var mtgindex =
     ]
   },
   "Biophagus": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cfd188ec-5e63-414e-a949-20a0daa82690.jpg?1782700144",
+    "img": "https://cards.scryfall.io/large/front/c/f/cfd188ec-5e63-414e-a949-20a0daa82690.jpg?1783365464",
     "date": "2022-10-07",
     "colors": [
       "G"
@@ -40300,8 +40300,8 @@ var mtgindex =
     "toughness": "1"
   },
   "Bloodforged Battle-Axe": {
-    "img": "https://cards.scryfall.io/large/front/d/9/d9a5219e-f0f3-4fbe-b162-9a03c7019056.jpg?1782749555",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/b/7/b7f22249-579f-433d-9422-29d4e82ddc49.jpg?1782710660",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{1}",
     "cmc": 1,
@@ -40510,8 +40510,8 @@ var mtgindex =
     ]
   },
   "Bloodline Necromancer": {
-    "img": "https://cards.scryfall.io/large/front/b/d/bdebe386-d297-4911-ac9c-1b53dad33acf.jpg?1782749539",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/4/2/42bffd03-3821-4b0f-9535-2eb455154587.jpg?1782710682",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -40948,8 +40948,8 @@ var mtgindex =
     ]
   },
   "Bloodsworn Steward": {
-    "img": "https://cards.scryfall.io/large/front/9/2/92282279-075f-4169-8f2f-af7bc2d388f0.jpg?1782749560",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/e/1/e185f493-57c3-47dd-8dac-de8690ce8fbc.jpg?1782710677",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -43812,8 +43812,8 @@ var mtgindex =
     ]
   },
   "Boneyard Scourge": {
-    "img": "https://cards.scryfall.io/large/front/3/1/31acbf9f-f33c-4f3a-b5e7-bff41f4b5b26.jpg?1782749564",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/5/5/55a3a094-48c5-4da5-8626-e30a0e8d8f3a.jpg?1782710681",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -77975,8 +77975,8 @@ var mtgindex =
     "toughness": "6"
   },
   "Crimson Honor Guard": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fd337666-8bbb-41f8-aabe-87743b7b3973.jpg?1782749562",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/5/9597255c-2657-40e4-855f-c8701a70aa39.jpg?1782710676",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -81357,8 +81357,8 @@ var mtgindex =
     ]
   },
   "Curse of Bounty": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f38fd4a3-f098-4dfc-80a3-251e25324ce7.jpg?1782749543",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/2/f/2f497641-b73a-4399-bc89-5274c42e17cc.jpg?1782710673",
+    "date": "2017-08-25",
     "colors": [
       "G"
     ],
@@ -81437,8 +81437,8 @@ var mtgindex =
     ]
   },
   "Curse of Disturbance": {
-    "img": "https://cards.scryfall.io/large/front/8/d/8d75f383-08cf-440d-b46f-6a6e4d69d09d.jpg?1782749544",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/d/0/d022b7d7-e9f5-4f58-8010-331baaa4e3c4.jpg?1782710681",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -81576,8 +81576,8 @@ var mtgindex =
     ]
   },
   "Curse of Opulence": {
-    "img": "https://cards.scryfall.io/large/front/c/4/c422baca-909f-4fc4-a4ee-c305e9778f4d.jpg?1782749544",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/e/2/e23db9d3-d11f-4b2c-8349-687bc0e9d4c2.jpg?1782710676",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -81706,8 +81706,8 @@ var mtgindex =
     ]
   },
   "Curse of Verbosity": {
-    "img": "https://cards.scryfall.io/large/front/9/7/97d8c559-f32b-4870-963e-8233e7ffa4a0.jpg?1782749535",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/7/9/7999e631-efd0-4901-a43d-9a10d2379684.jpg?1782710684",
+    "date": "2017-08-25",
     "colors": [
       "U"
     ],
@@ -81719,8 +81719,8 @@ var mtgindex =
     ]
   },
   "Curse of Vitality": {
-    "img": "https://cards.scryfall.io/large/front/3/0/30ff281f-c567-44e9-8156-4e803787864d.jpg?1782749536",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/c/1/c1a80504-d991-4eef-8407-2acf444401f0.jpg?1782710689",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -84061,7 +84061,7 @@ var mtgindex =
     "toughness": "5"
   },
   "Darien, King of Kjeldor": {
-    "img": "https://cards.scryfall.io/large/front/7/9/79500fc8-de0a-4a7b-a0e4-41e3b21ab576.jpg?1782723220",
+    "img": "https://cards.scryfall.io/large/front/7/9/79500fc8-de0a-4a7b-a0e4-41e3b21ab576.jpg?1783517024",
     "date": "2006-07-21",
     "colors": [
       "W"
@@ -87517,7 +87517,7 @@ var mtgindex =
     ]
   },
   "Deadpool, Trading Card": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1782723582",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783800028",
     "date": "2025-04-01",
     "colors": [
       "B",
@@ -97430,8 +97430,8 @@ var mtgindex =
     ]
   },
   "Disrupt Decorum": {
-    "img": "https://cards.scryfall.io/large/front/5/c/5c907e23-c637-4984-84f7-b06db90d26df.jpg?1782749562",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/3/9/397de47f-02e8-4ccd-8de0-a37971cab3b0.jpg?1782710676",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -109834,7 +109834,7 @@ var mtgindex =
   },
   "Edgar Markov": {
     "img": "https://cards.scryfall.io/large/front/9/a/9a3c8eb0-7a55-4897-8324-f3d08c707c4d.jpg?1782726537",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "R",
@@ -139579,8 +139579,8 @@ var mtgindex =
     ]
   },
   "Fortunate Few": {
-    "img": "https://cards.scryfall.io/large/front/1/5/15b601b1-3071-4cab-b5a8-c62c7b1a318a.jpg?1782749570",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/d/8/d84361bb-abc3-4b2d-9475-700fd262703b.jpg?1782710688",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -140311,8 +140311,8 @@ var mtgindex =
     ]
   },
   "Fractured Identity": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b5a11be-59a8-4710-9417-be4f0b6d541a.jpg?1782749564",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/b/2/b2f73f5d-1aad-48c2-9e74-5f7bdd87900f.jpg?1782710668",
+    "date": "2017-08-25",
     "colors": [
       "U",
       "W"
@@ -144394,8 +144394,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Galecaster Colossus": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fcf52748-a7cc-467a-ad7c-a049dd401397.jpg?1782749538",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/e/9e57f6be-44d0-4823-a130-b79dbd025994.jpg?1782710685",
+    "date": "2017-08-25",
     "colors": [
       "U"
     ],
@@ -147258,7 +147258,7 @@ var mtgindex =
     "toughness": "3"
   },
   "General's Enforcer": {
-    "img": "https://cards.scryfall.io/large/front/3/f/3fa2050a-711f-4c6e-8b01-5353bd2a4234.jpg?1782723217",
+    "img": "https://cards.scryfall.io/large/front/3/f/3fa2050a-711f-4c6e-8b01-5353bd2a4234.jpg?1783517058",
     "date": "2020-04-24",
     "colors": [
       "B",
@@ -157907,7 +157907,7 @@ var mtgindex =
     ]
   },
   "Gogo, Master of Mimicry": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1782686556",
+    "img": "https://cards.scryfall.io/large/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783365409",
     "date": "2025-06-13",
     "colors": [
       "U"
@@ -168517,8 +168517,8 @@ var mtgindex =
     ]
   },
   "Hammer of Nazahn": {
-    "img": "https://cards.scryfall.io/large/front/8/4/84da73cd-59f1-4e9c-9c60-d03c8b046a47.jpg?1782749571",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa055f1f-be94-4682-8e4f-f022c95e6d58.jpg?1782710660",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{4}",
     "cmc": 4,
@@ -173336,8 +173336,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Heirloom Blade": {
-    "img": "https://cards.scryfall.io/large/front/f/9/f956b68f-a1dc-4bc2-8e2f-cf1d2dbb4370.jpg?1782749565",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/a/a/aae598eb-871d-45af-b12c-346c344ae74b.jpg?1782710659",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{3}",
     "cmc": 3,
@@ -174721,8 +174721,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Herald's Horn": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fe32b849-2ec4-43ef-b79f-8a46c4d12f29.jpg?1782749547",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/0/7/07b06421-778a-4d23-862b-30fc5fa25928.jpg?1782710659",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{3}",
     "cmc": 3,
@@ -181813,8 +181813,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Hungry Lynx": {
-    "img": "https://cards.scryfall.io/large/front/2/2/22e3d351-62b3-4c89-bbcf-b50684d977a4.jpg?1782749555",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/c/0/c0ad6f84-8ede-4411-9979-cefee255fa70.jpg?1782710673",
+    "date": "2017-08-25",
     "colors": [
       "G"
     ],
@@ -186969,8 +186969,8 @@ var mtgindex =
     ]
   },
   "Inalla, Archmage Ritualist": {
-    "img": "https://cards.scryfall.io/large/front/a/4/a402ca8d-d4ef-45ce-be02-8b675928ff47.jpg?1782749546",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/0/90e30cc4-7d80-4180-9713-966f3028b33f.jpg?1782748626",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "R",
@@ -194832,8 +194832,8 @@ var mtgindex =
     ]
   },
   "Izzet Chemister": {
-    "img": "https://cards.scryfall.io/large/front/8/8/881a3ee1-a559-44c8-ae0e-656a2710d040.jpg?1782749545",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd672cb3-40c1-407f-889a-6cd5453067f3.jpg?1782710674",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -204819,8 +204819,8 @@ var mtgindex =
     "toughness": "3"
   },
   "Kess, Dissident Mage": {
-    "img": "https://cards.scryfall.io/large/front/0/4/04aa8c35-18d5-4973-b373-b4d3b8286bba.jpg?1782749537",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/0/1/01711ff6-475c-48c4-91f4-438433f88a95.jpg?1782710667",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "R",
@@ -205347,8 +205347,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Kheru Mind-Eater": {
-    "img": "https://cards.scryfall.io/large/front/a/7/a7fafa31-d366-4001-9180-deff7e2b7128.jpg?1782749537",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/e/6/e6246cf3-76bd-476b-9cd9-789b6ad48887.jpg?1782710681",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -206082,8 +206082,8 @@ var mtgindex =
     ]
   },
   "Kindred Boon": {
-    "img": "https://cards.scryfall.io/large/front/1/a/1ac66bf6-2958-4879-937a-37c241d98e16.jpg?1782749556",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/3/b/3b09c3dc-94ed-4d9d-8c5f-51169200de45.jpg?1782710688",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -206095,8 +206095,8 @@ var mtgindex =
     ]
   },
   "Kindred Charge": {
-    "img": "https://cards.scryfall.io/large/front/6/7/67cd1c43-a85d-44f9-9e25-cf4aeb0367af.jpg?1782749553",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/3/e/3e7dc7f0-ba05-4a13-b8e0-7f536fbf0f34.jpg?1782710674",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -206108,8 +206108,8 @@ var mtgindex =
     ]
   },
   "Kindred Discovery": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e0d80c4e-ab81-4aa4-9b89-791675afd615.jpg?1782749551",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed07b7be-bd3d-4dbc-bc92-b5478d3604c6.jpg?1782710684",
+    "date": "2017-08-25",
     "colors": [
       "U"
     ],
@@ -206121,8 +206121,8 @@ var mtgindex =
     ]
   },
   "Kindred Dominance": {
-    "img": "https://cards.scryfall.io/large/front/4/3/439f368c-44d7-4e44-bc4f-3944077ee594.jpg?1782749551",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/7/9794115a-5509-4d9a-b119-d2b61942e87b.jpg?1782710680",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -206134,8 +206134,8 @@ var mtgindex =
     ]
   },
   "Kindred Summons": {
-    "img": "https://cards.scryfall.io/large/front/6/0/602dce20-f8eb-4817-b532-1c5b1192aec4.jpg?1782749553",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/2/1/2138a618-8ee7-4965-b597-d3e6339a3a6f.jpg?1782710671",
+    "date": "2017-08-25",
     "colors": [
       "G"
     ],
@@ -208552,7 +208552,7 @@ var mtgindex =
     "toughness": "7"
   },
   "Knight of the White Orchid": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec4b5e6c-87a4-4e1b-b54a-b36bc6031af1.jpg?1782723219",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec4b5e6c-87a4-4e1b-b54a-b36bc6031af1.jpg?1783517048",
     "date": "2008-10-03",
     "colors": [
       "W"
@@ -213143,7 +213143,7 @@ var mtgindex =
     ]
   },
   "Lakeside Shack": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9367acd-393a-4966-ba60-af2ecd4e7596.jpg?1782689409",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9367acd-393a-4966-ba60-af2ecd4e7596.jpg?1783813465",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "",
@@ -217886,8 +217886,8 @@ var mtgindex =
     "toughness": "5"
   },
   "Licia, Sanguine Tribune": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f53f595f-7fca-41f3-b932-38f85c6db223.jpg?1782749547",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/6/4/64eab2ba-ed5e-4757-b42d-c0fc71a96c4c.jpg?1782710666",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "R",
@@ -228494,8 +228494,8 @@ var mtgindex =
     "toughness": "1"
   },
   "Magus of the Mind": {
-    "img": "https://cards.scryfall.io/large/front/8/8/88fa538a-f44a-484a-897a-f089548b0b30.jpg?1782749564",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/3/4/34a0d8a1-8564-4d4a-9390-06a06312e668.jpg?1782710683",
+    "date": "2017-08-25",
     "colors": [
       "U"
     ],
@@ -234494,8 +234494,8 @@ var mtgindex =
     ]
   },
   "Mathas, Fiend Seeker": {
-    "img": "https://cards.scryfall.io/large/front/0/9/09f688cd-9315-4d70-ae90-309f3e552c1f.jpg?1782749538",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/a/5/a5fc5dfc-ee07-4fd6-8d5d-55099752254a.jpg?1782710666",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "R",
@@ -242308,7 +242308,7 @@ var mtgindex =
   },
   "Mirri, Weatherlight Duelist": {
     "img": "https://cards.scryfall.io/large/front/e/8/e856be87-6f2b-4846-87f1-53e2c1c71a16.jpg?1782744938",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [
       "G",
       "W"
@@ -242559,8 +242559,8 @@ var mtgindex =
     "color_identity": []
   },
   "Mirror of the Forebears": {
-    "img": "https://cards.scryfall.io/large/front/7/a/7af172c3-03ed-4586-9fb4-490a069d9d3f.jpg?1782749540",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/8/2/82e96f29-ce98-4e2d-8035-da3994ab66db.jpg?1782710659",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{2}",
     "cmc": 2,
@@ -254586,8 +254586,8 @@ var mtgindex =
     "toughness": "0"
   },
   "Nazahn, Revered Bladesmith": {
-    "img": "https://cards.scryfall.io/large/front/3/1/31ad9cef-ff0b-4d06-ada3-04c3e4f331ab.jpg?1782749534",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/8/f/8f21a5b4-1cfa-466b-8a16-a8b11f20b818.jpg?1782710664",
+    "date": "2017-08-25",
     "colors": [
       "G",
       "W"
@@ -262845,7 +262845,7 @@ var mtgindex =
   },
   "O-Kagachi, Vengeful Kami": {
     "img": "https://cards.scryfall.io/large/front/b/c/bc6ac0e9-7419-4a77-a144-d2983fc6aa6d.jpg?1782729433",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "G",
@@ -274571,7 +274571,7 @@ var mtgindex =
   },
   "Path of Ancestry": {
     "img": "https://cards.scryfall.io/large/front/9/5/95c1557e-68dd-46be-9b1e-0a65e04fe739.jpg?1782699376",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "",
     "cmc": 0,
@@ -275155,8 +275155,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Patron of the Vein": {
-    "img": "https://cards.scryfall.io/large/front/9/b/9b83c81d-b10e-47a3-a1b9-4582f3205fca.jpg?1782749549",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/e/2/e27db39c-c4b8-46b9-afe6-1737841bdad6.jpg?1782710678",
+    "date": "2017-08-25",
     "colors": [
       "B"
     ],
@@ -291907,8 +291907,8 @@ var mtgindex =
     "toughness": "2"
   },
   "Qasali Slingers": {
-    "img": "https://cards.scryfall.io/large/front/5/a/5a7d0d6c-9e8a-4695-8759-6c0ff056aef4.jpg?1782749555",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/4/0/40e21394-146e-4648-b81e-63659c0c4764.jpg?1782710670",
+    "date": "2017-08-25",
     "colors": [
       "G"
     ],
@@ -296857,7 +296857,7 @@ var mtgindex =
   },
   "Ramos, Dragon Engine": {
     "img": "https://cards.scryfall.io/large/front/c/f/cf1d0a49-9a36-4d72-9cc7-3e469936b94d.jpg?1782699511",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{6}",
     "cmc": 6,
@@ -310079,7 +310079,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Rin and Seri, Inseparable": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1782734158",
+    "img": "https://cards.scryfall.io/large/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1783800708",
     "date": "2023-04-14",
     "colors": [
       "G",
@@ -324783,7 +324783,7 @@ var mtgindex =
   },
   "Scalelord Reckoner": {
     "img": "https://cards.scryfall.io/large/front/c/9/c91c3606-d037-4b97-a7b6-ab1ed09bc976.jpg?1782710688",
-    "date": "2016-11-16",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -333298,7 +333298,7 @@ var mtgindex =
     "toughness": "4"
   },
   "Serra Ascendant": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1782723218",
+    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1783872752",
     "date": "2010-07-16",
     "colors": [
       "W"
@@ -336745,7 +336745,7 @@ var mtgindex =
     ]
   },
   "Shatterstorm": {
-    "img": "https://cards.scryfall.io/large/front/0/9/0987461a-45c0-4956-8627-cd27a7e038d0.jpg?1782722565",
+    "img": "https://cards.scryfall.io/large/front/0/9/0987461a-45c0-4956-8627-cd27a7e038d0.jpg?1783555268",
     "date": "1994-03-04",
     "colors": [
       "R"
@@ -337862,8 +337862,8 @@ var mtgindex =
     ]
   },
   "Shifting Shadow": {
-    "img": "https://cards.scryfall.io/large/front/8/0/802211eb-f9d5-484c-952f-be73ba0b9191.jpg?1782749559",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/9/2/925b26d3-ed73-4264-a5a9-b54d05760044.jpg?1782710673",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -348723,7 +348723,7 @@ var mtgindex =
     ]
   },
   "Slice from the Shadows": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d4e49c72-0fa2-4271-aabd-38a3e2b4779c.jpg?1782693754",
+    "img": "https://cards.scryfall.io/large/front/d/4/d4e49c72-0fa2-4271-aabd-38a3e2b4779c.jpg?1783365497",
     "date": "2024-02-09",
     "colors": [
       "B"
@@ -357796,7 +357796,7 @@ var mtgindex =
     "toughness": "6"
   },
   "Sphinx Summoner": {
-    "img": "https://cards.scryfall.io/large/front/0/0/006b5000-2a8f-4020-9dbf-7170da13b54e.jpg?1782715844",
+    "img": "https://cards.scryfall.io/large/front/0/0/006b5000-2a8f-4020-9dbf-7170da13b54e.jpg?1783715673",
     "date": "2009-02-06",
     "colors": [
       "B",
@@ -363221,8 +363221,8 @@ var mtgindex =
     "toughness": "2"
   },
   "Stalking Leonin": {
-    "img": "https://cards.scryfall.io/large/front/9/1/9194919e-0876-4824-9ea7-de9b97f0e75d.jpg?1782749534",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/f/b/fb103c2d-d766-473e-a2d2-3eb75a3ad052.jpg?1782710687",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -378797,8 +378797,8 @@ var mtgindex =
     "toughness": "2"
   },
   "Taigam, Ojutai Master": {
-    "img": "https://cards.scryfall.io/large/front/6/c/6c6490a2-006e-4c1a-8896-6b5733a3feaa.jpg?1782749546",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/b/4/b47e2781-544f-442c-98d0-43b9d91bab03.jpg?1782710663",
+    "date": "2017-08-25",
     "colors": [
       "U",
       "W"
@@ -378814,8 +378814,8 @@ var mtgindex =
     "toughness": "4"
   },
   "Taigam, Sidisi's Hand": {
-    "img": "https://cards.scryfall.io/large/front/6/d/6d378caf-93e9-45ff-95ea-8d105d034021.jpg?1782749555",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/5/b/5bb846f1-9857-418d-abc9-03dfd3c10d32.jpg?1782710662",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "U"
@@ -382473,8 +382473,8 @@ var mtgindex =
     ]
   },
   "Teferi's Protection": {
-    "img": "https://cards.scryfall.io/large/front/3/8/38bf26ad-8031-41e3-902f-675682807d71.jpg?1782749559",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/7/7/77f130c7-0138-4a1a-9f67-62d2c302dc48.jpg?1782710687",
+    "date": "2017-08-25",
     "colors": [
       "W"
     ],
@@ -385361,8 +385361,8 @@ var mtgindex =
     "toughness": "3"
   },
   "Territorial Hellkite": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa2c1779-145f-4315-91ec-726ed43daa07.jpg?1782749562",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/3/c/3c44e5c2-fddb-47cb-825f-c57b49f181ba.jpg?1782710673",
+    "date": "2017-08-25",
     "colors": [
       "R"
     ],
@@ -390980,8 +390980,8 @@ var mtgindex =
     "toughness": "7"
   },
   "The Ur-Dragon": {
-    "img": "https://cards.scryfall.io/large/front/5/1/51f538ae-0ee3-4726-a888-ed9df521f322.jpg?1782749568",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/a/0/a01f9a16-fc90-49b4-8f86-e6940e4b02cf.jpg?1782748625",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "G",
@@ -403064,8 +403064,8 @@ var mtgindex =
     ]
   },
   "Traverse the Outlands": {
-    "img": "https://cards.scryfall.io/large/front/b/5/b543b569-f128-4092-a903-0b20a7eac780.jpg?1782749571",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/5/0/507590c4-fe55-404a-926b-24de387a2098.jpg?1782710670",
+    "date": "2017-08-25",
     "colors": [
       "G"
     ],
@@ -430420,8 +430420,8 @@ var mtgindex =
     ]
   },
   "Wasitora, Nekoru Queen": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0f680395-8e4f-49e9-8259-1c3ae56c8c2e.jpg?1782749556",
-    "date": "2016-11-16",
+    "img": "https://cards.scryfall.io/large/front/f/b/fb17f2bf-bd38-40da-a226-65f4c905d9e1.jpg?1782710661",
+    "date": "2017-08-25",
     "colors": [
       "B",
       "G",
