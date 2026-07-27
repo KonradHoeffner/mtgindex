@@ -26003,6 +26003,21 @@ var mtgindex =
     "power": "2",
     "toughness": "2"
   },
+  "Azog, Moria's Ruin": {
+    "img": "https://cards.scryfall.io/large/front/2/e/2e359014-f003-4dd6-bc97-ef2a5c515a23.jpg?1784760208",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Goblin Soldier",
+    "color_identity": [
+      "B"
+    ],
+    "power": "1",
+    "toughness": "3"
+  },
   "Azor's Elocutors": {
     "img": "https://cards.scryfall.io/large/front/6/1/61e82934-546b-4734-a715-b22ace4c5a9b.jpg?1783940329",
     "date": "2012-10-05",
@@ -29146,6 +29161,23 @@ var mtgindex =
     "color_identity": [
       "G"
     ]
+  },
+  "Bard's Company": {
+    "img": "https://cards.scryfall.io/large/front/d/1/d14aa2ff-7bbd-47a6-8e36-481e56302a62.jpg?1784946716",
+    "date": "2026-08-14",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{2}{W}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Human Citizen",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Bard, King of Dale": {
     "img": "https://cards.scryfall.io/large/front/f/7/f7c75c32-a24f-46e5-9128-2df9a2ec11f9.jpg?1784377154",
@@ -33011,6 +33043,21 @@ var mtgindex =
     "power": "*",
     "toughness": "5"
   },
+  "Belladonna Took": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f2522398-39d2-43d3-9019-349e22438f65.jpg?1784895062",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Halfling Citizen",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Belle of the Brawl": {
     "img": "https://cards.scryfall.io/large/front/2/c/2c3c992a-70b5-4d3c-9a96-93c3365691ac.jpg?1783932644",
     "date": "2019-10-04",
@@ -34017,6 +34064,34 @@ var mtgindex =
     "power": "5",
     "toughness": "5"
   },
+  "Beorn the Fierce": {
+    "img": "https://cards.scryfall.io/large/front/9/f/9f921e6b-12f0-4497-86ee-f2b4f4fa319a.jpg?1784632176",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Bear Shapeshifter Warrior",
+    "color_identity": [
+      "G"
+    ],
+    "power": "6",
+    "toughness": "6"
+  },
+  "Beorn's Hospitality": {
+    "img": "https://cards.scryfall.io/large/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1784902727",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "G"
+    ]
+  },
   "Bequeathal": {
     "img": "https://cards.scryfall.io/large/front/2/0/20aae577-9683-4d9b-bfd5-52702b38d3a7.jpg?1783946507",
     "date": "1998-06-15",
@@ -34822,6 +34897,19 @@ var mtgindex =
     "type_line": "Sorcery",
     "color_identity": [
       "U"
+    ]
+  },
+  "Bilbo's Gambit": {
+    "img": "https://cards.scryfall.io/large/front/f/a/fa74ca8a-8bcd-4dc5-ab2b-a2e18a70978e.jpg?1784895072",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "W"
     ]
   },
   "Bilbo's Ring": {
@@ -45362,6 +45450,21 @@ var mtgindex =
       "G",
       "U"
     ]
+  },
+  "Bothersome Noisemaker": {
+    "img": "https://cards.scryfall.io/large/front/c/b/cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6.jpg?1784894881",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Goblin Bard",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Bothersome Quasit": {
     "img": "https://cards.scryfall.io/large/front/6/e/6e9a0a23-cd62-4762-b751-ac0159a1b3c5.jpg?1783922501",
@@ -63515,6 +63618,23 @@ var mtgindex =
       "U"
     ],
     "power": "1",
+    "toughness": "3"
+  },
+  "Chief Warg's Company": {
+    "img": "https://cards.scryfall.io/large/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927",
+    "date": "2026-08-14",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Wolf",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "power": "5",
     "toughness": "3"
   },
   "Chief of the Edge": {
@@ -93346,6 +93466,21 @@ var mtgindex =
       "G"
     ]
   },
+  "Desert Were-Worm": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fc12c22a-11ff-4fb0-bc42-dd8490b8efb7.jpg?1784733924",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6,
+    "type_line": "Creature — Dragon Wurm",
+    "color_identity": [
+      "R"
+    ],
+    "power": "0",
+    "toughness": "5"
+  },
   "Desert of the Fervent": {
     "img": "https://cards.scryfall.io/large/front/f/5/f547d664-25ce-4a24-b3ae-7bf3cbdf4703.jpg?1783935999",
     "date": "2017-07-14",
@@ -100986,6 +101121,32 @@ var mtgindex =
       "B"
     ]
   },
+  "Down in the Valley": {
+    "img": "https://cards.scryfall.io/large/front/c/8/c8aa5179-475b-4cc8-b21e-205b475eb4cf.jpg?1784895042",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "G"
+    ]
+  },
+  "Down, Down to Goblin-town": {
+    "img": "https://cards.scryfall.io/large/front/b/7/b72e193c-e030-4936-9b79-c636eff750e1.jpg?1784733900",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Downdraft": {
     "img": "https://cards.scryfall.io/large/front/a/b/ab4ced80-926a-4e4d-8ebd-d4fe7374a6ad.jpg?1783946721",
     "date": "1997-06-09",
@@ -107986,6 +108147,21 @@ var mtgindex =
     "power": "3",
     "toughness": "4"
   },
+  "Dwarven Mauler": {
+    "img": "https://cards.scryfall.io/large/front/b/d/bd0f0415-43af-4f5d-8999-853c5d42780d.jpg?1784895019",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Creature — Dwarf Warrior",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "1"
+  },
   "Dwarven Mine": {
     "img": "https://cards.scryfall.io/large/front/5/c/5c83074d-0c9b-4b58-94ca-d75240485579.jpg?1783932578",
     "date": "2019-10-04",
@@ -108619,6 +108795,21 @@ var mtgindex =
       "W"
     ],
     "power": "5",
+    "toughness": "5"
+  },
+  "Eagle of the Great Shelf": {
+    "img": "https://cards.scryfall.io/large/front/3/f/3feca644-5f65-4477-bbc8-d505cec6f3a5.jpg?1784797947",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{4}{W}",
+    "cmc": 5,
+    "type_line": "Creature — Bird Soldier",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
     "toughness": "5"
   },
   "Eagle of the Watch": {
@@ -113395,6 +113586,21 @@ var mtgindex =
     "color_identity": [
       "G"
     ]
+  },
+  "Elven Raft-Steerer": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c141695c-c108-41d5-85cb-1f7485d9d533.jpg?1784632054",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Elf Pilot",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "2"
   },
   "Elven Riders": {
     "img": "https://cards.scryfall.io/large/front/a/d/ad1d349b-b5ab-4b2b-9b39-f8d8f6374aa5.jpg?1783948048",
@@ -144908,6 +145114,21 @@ var mtgindex =
     "power": "2",
     "toughness": "2"
   },
+  "Galion, Elvenking's Butler": {
+    "img": "https://cards.scryfall.io/large/front/9/8/985bd676-58c4-42c7-a570-1b413e9aa94c.jpg?1784976123",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Elf Advisor",
+    "color_identity": [
+      "G"
+    ],
+    "power": "4",
+    "toughness": "4"
+  },
   "Gallant Cavalry": {
     "img": "https://cards.scryfall.io/large/front/e/3/e388c433-3a37-45f6-825a-d13d2223b6f7.jpg?1783934607",
     "date": "2018-07-13",
@@ -145545,6 +145766,21 @@ var mtgindex =
     ],
     "power": "3",
     "toughness": "4"
+  },
+  "Gandalf, Spark Starter": {
+    "img": "https://cards.scryfall.io/large/front/c/c/ccf2923e-5358-4e40-bc64-2953ac2d1692.jpg?1784895060",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Avatar Wizard",
+    "color_identity": [
+      "R"
+    ],
+    "power": "4",
+    "toughness": "3"
   },
   "Gandalf, Westward Voyager": {
     "img": "https://cards.scryfall.io/large/front/c/1/c17f714a-d36a-42b7-9bea-897ad5cfd5c3.jpg?1783916007",
@@ -146732,6 +146968,19 @@ var mtgindex =
     ],
     "power": "3",
     "toughness": "1"
+  },
+  "Gathering of Darkness": {
+    "img": "https://cards.scryfall.io/large/front/2/c/2ce066be-e5ad-4b93-8245-1b5018990d03.jpg?1784733910",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
   },
   "Gatstaf Arsonists": {
     "img": "https://cards.scryfall.io/large/front/6/a/6ab67098-d3d5-4799-ae03-c734244f370e.jpg?1783937760",
@@ -155203,6 +155452,19 @@ var mtgindex =
     "power": "1",
     "toughness": "1"
   },
+  "Gnashing of Teeth": {
+    "img": "https://cards.scryfall.io/large/front/5/d/5d485d70-c7b9-40a4-9089-5e7f1c2b9213.jpg?1784734464",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Gnat Alley Creeper": {
     "img": "https://cards.scryfall.io/large/front/0/c/0ccf9c8b-8a03-4ef8-8267-af57ac35fe02.jpg?1783943420",
     "date": "2006-05-05",
@@ -159414,6 +159676,21 @@ var mtgindex =
     "power": "2",
     "toughness": "2"
   },
+  "Gollum the Abandoned": {
+    "img": "https://cards.scryfall.io/large/front/5/0/50d91ef3-6f5d-4255-8d47-be731b5dad30.jpg?1784733916",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Halfling Horror",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Gollum's Bite": {
     "img": "https://cards.scryfall.io/large/front/1/b/1b1e790e-ff82-4888-8aee-9986c646241a.jpg?1783916304",
     "date": "2023-06-23",
@@ -162343,6 +162620,21 @@ var mtgindex =
     "color_identity": [
       "R"
     ]
+  },
+  "Great Gilded Boat": {
+    "img": "https://cards.scryfall.io/large/front/d/2/d2b59872-0e11-41c3-9858-3e2dd5a1c3c3.jpg?1784801389",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Artifact — Vehicle",
+    "color_identity": [
+      "U"
+    ],
+    "power": "4",
+    "toughness": "4"
   },
   "Great Hall of Starnheim": {
     "img": "https://cards.scryfall.io/large/front/a/2/a23c757e-5944-47ce-b06f-27b4c403044c.jpg?1783928176",
@@ -190099,7 +190391,7 @@ var mtgindex =
     "toughness": "4"
   },
   "Innkeeper's Talent": {
-    "img": "https://cards.scryfall.io/large/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1783910807",
+    "img": "https://cards.scryfall.io/large/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1784634092",
     "date": "2024-08-02",
     "colors": [
       "G"
@@ -193661,6 +193953,21 @@ var mtgindex =
     "color_identity": [],
     "power": "5",
     "toughness": "3"
+  },
+  "Iron Hills Blacksmith": {
+    "img": "https://cards.scryfall.io/large/front/8/b/8b592de0-0bf9-4972-9f43-c8ac1c3a1299.jpg?1784631804",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Dwarf Artificer",
+    "color_identity": [
+      "W"
+    ],
+    "power": "1",
+    "toughness": "1"
   },
   "Iron Lad, Diverging Destiny": {
     "img": "https://cards.scryfall.io/large/front/3/5/355e7197-2f20-43b6-9305-73c4e1fd4a3c.jpg?1783902957",
@@ -210740,7 +211047,7 @@ var mtgindex =
     "toughness": "4"
   },
   "Kozilek's Command": {
-    "img": "https://cards.scryfall.io/large/front/9/2/92585587-cfdc-406a-9114-4f6dd8802c37.jpg?1783911307",
+    "img": "https://cards.scryfall.io/large/front/9/2/92585587-cfdc-406a-9114-4f6dd8802c37.jpg?1784634156",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{X}{C}{C}",
@@ -214557,6 +214864,19 @@ var mtgindex =
     "type_line": "Enchantment",
     "color_identity": [
       "B"
+    ]
+  },
+  "Last Light of Durin's Day": {
+    "img": "https://cards.scryfall.io/large/front/d/f/df29484b-de4b-4bab-995a-7605745780d9.jpg?1784798201",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "R"
     ]
   },
   "Last March of the Ents": {
@@ -234915,6 +235235,21 @@ var mtgindex =
       "W"
     ]
   },
+  "Master's Councillors": {
+    "img": "https://cards.scryfall.io/large/front/a/d/addcefdd-e012-4adf-9052-e60376a8d2d3.jpg?1784798124",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Human Advisor",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "3"
+  },
   "Master's Guidance": {
     "img": "https://cards.scryfall.io/large/front/9/8/98319aec-f95b-4343-beb9-7804551369f3.jpg?1783904811",
     "date": "2025-11-21",
@@ -244768,6 +245103,21 @@ var mtgindex =
     ],
     "power": "3",
     "toughness": "1"
+  },
+  "Misty Mountains Raider": {
+    "img": "https://cards.scryfall.io/large/front/6/d/6dff14cd-b60b-48f4-9d9f-c9019b55df4c.jpg?1784909437",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Creature — Goblin Soldier",
+    "color_identity": [
+      "R"
+    ],
+    "power": "4",
+    "toughness": "4"
   },
   "Misty Palms Oasis": {
     "img": "https://cards.scryfall.io/large/front/7/c/7cc29ddb-8f44-4493-985d-2fac35f9f34d.jpg?1783904909",
@@ -258904,6 +259254,21 @@ var mtgindex =
       "B"
     ]
   },
+  "Nighthowl Pursuer": {
+    "img": "https://cards.scryfall.io/large/front/d/3/d3cbe830-7e95-4019-89c4-cfb36bcf00f8.jpg?1784894860",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Creature — Wolf",
+    "color_identity": [
+      "B"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Nighthowler": {
     "img": "https://cards.scryfall.io/large/front/2/5/2527a490-6c56-41ba-949c-c78905a128ba.jpg?1783939774",
     "date": "2013-09-27",
@@ -262272,7 +262637,7 @@ var mtgindex =
     ]
   },
   "Nowhere to Run": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fee60e9d-9ee7-444a-88f3-c1929e1888fb.jpg?1783909476",
+    "img": "https://cards.scryfall.io/large/front/f/e/fee60e9d-9ee7-444a-88f3-c1929e1888fb.jpg?1784634606",
     "date": "2024-09-27",
     "colors": [
       "B"
@@ -269316,6 +269681,15 @@ var mtgindex =
     "power": "2",
     "toughness": "2"
   },
+  "Orcrist, Goblin-cleaver": {
+    "img": "https://cards.scryfall.io/large/front/f/5/f54f1c1d-6a22-43e9-a842-0a1ae25b323c.jpg?1784798240",
+    "date": "2026-08-14",
+    "colors": [],
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Legendary Artifact — Equipment",
+    "color_identity": []
+  },
   "Orcus, Prince of Undeath": {
     "img": "https://cards.scryfall.io/large/front/9/1/91f5c6d3-fb04-4a2e-87b6-9ed2314085a8.jpg?1783926445",
     "date": "2021-07-23",
@@ -274939,6 +275313,19 @@ var mtgindex =
     "type_line": "Sorcery",
     "color_identity": [
       "U"
+    ]
+  },
+  "Part in Friendship": {
+    "img": "https://cards.scryfall.io/large/front/b/4/b4ff1eac-6d97-40ab-9b7c-c2fdca0917d9.jpg?1784632164",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}",
+    "cmc": 5,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "G"
     ]
   },
   "Part the Veil": {
@@ -299765,6 +300152,21 @@ var mtgindex =
       "U"
     ]
   },
+  "Ravenhill Flock": {
+    "img": "https://cards.scryfall.io/large/front/a/c/acbb4d32-2771-469e-a6de-0df15155cc62.jpg?1784714603",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Bird",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "2"
+  },
   "Ravenloft Adventurer": {
     "img": "https://cards.scryfall.io/large/front/a/5/a5e27c36-d883-4681-8430-b4d0ad7f1df0.jpg?1783922756",
     "date": "2022-06-10",
@@ -313148,6 +313550,19 @@ var mtgindex =
     "color_identity": [],
     "power": "2",
     "toughness": "1"
+  },
+  "Roads Go Ever, Ever On": {
+    "img": "https://cards.scryfall.io/large/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784673434",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "W"
+    ]
   },
   "Roadside Assistance": {
     "img": "https://cards.scryfall.io/large/front/8/f/8f2a9154-7b43-4b8d-9d81-d11cfda5d597.jpg?1783907914",
@@ -355979,6 +356394,19 @@ var mtgindex =
       "G"
     ]
   },
+  "Sound the Trumpets": {
+    "img": "https://cards.scryfall.io/large/front/d/d/dd32a1dd-3541-4572-a717-1deabc14b827.jpg?1784760160",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Soundwave, Sonic Spy": {
     "img": "https://cards.scryfall.io/large/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1783919896",
     "date": "2022-11-18",
@@ -364690,15 +365118,6 @@ var mtgindex =
     "power": "3",
     "toughness": "5"
   },
-  "Stardew Valley": {
-    "img": "https://cards.scryfall.io/large/front/9/9/9979db80-83f6-41ed-aea2-0c222e923add.jpg?1784277922",
-    "date": "2026-07-27",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Land",
-    "color_identity": []
-  },
   "Starfall Invocation": {
     "img": "https://cards.scryfall.io/large/front/2/a/2aea38e6-ec58-4091-b27c-2761bdd12b13.jpg?1783910855",
     "date": "2024-08-02",
@@ -368179,6 +368598,19 @@ var mtgindex =
     ],
     "power": "4",
     "toughness": "3"
+  },
+  "Stone by Sunlight": {
+    "img": "https://cards.scryfall.io/large/front/c/5/c5752731-253c-4b41-bdd8-94c26d715206.jpg?1784631953",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "W"
+    ]
   },
   "Stone of Erech": {
     "img": "https://cards.scryfall.io/large/front/b/c/bc02e193-df33-4eb1-adc1-b51ee931218a.jpg?1783916234",
@@ -377746,7 +378178,7 @@ var mtgindex =
     "color_identity": []
   },
   "Sword of Wealth and Power": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed9e5041-3c05-4a8a-9f00-081b01685d0c.jpg?1783911995",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed9e5041-3c05-4a8a-9f00-081b01685d0c.jpg?1784634311",
     "date": "2024-04-19",
     "colors": [],
     "mana_cost": "{3}",
@@ -388767,7 +389199,7 @@ var mtgindex =
     "toughness": "1"
   },
   "The Eagles Are Coming!": {
-    "img": "https://cards.scryfall.io/large/front/6/2/62a7ff97-b940-4745-9e2e-3258fb51b846.jpg?1784377066",
+    "img": "https://cards.scryfall.io/large/front/6/2/62a7ff97-b940-4745-9e2e-3258fb51b846.jpg?1784797988",
     "date": "2026-08-14",
     "colors": [
       "W"
@@ -389596,6 +390028,23 @@ var mtgindex =
       "G"
     ]
   },
+  "The Great Goblin": {
+    "img": "https://cards.scryfall.io/large/front/7/8/78d8f53e-537d-4eaa-99e3-cac57fa53d22.jpg?1784798171",
+    "date": "2026-08-14",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{1}{B/R}{B/R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Goblin Noble",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "3",
+    "toughness": "2"
+  },
   "The Great Henge": {
     "img": "https://cards.scryfall.io/large/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1783932528",
     "date": "2019-10-04",
@@ -390105,7 +390554,9 @@ var mtgindex =
     "mana_cost": "",
     "cmc": 0,
     "type_line": "Land — Mountain",
-    "color_identity": []
+    "color_identity": [
+      "R"
+    ]
   },
   "The Long Reach of Night": {
     "img": "https://cards.scryfall.io/large/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1783923888",
@@ -390142,6 +390593,21 @@ var mtgindex =
     ],
     "power": "5",
     "toughness": "5"
+  },
+  "The Lord of the Eagles": {
+    "img": "https://cards.scryfall.io/large/front/f/a/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4.jpg?1784636060",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{7}{U}{U}",
+    "cmc": 9,
+    "type_line": "Legendary Creature — Bird Noble",
+    "color_identity": [
+      "U"
+    ],
+    "power": "8",
+    "toughness": "8"
   },
   "The Lost and the Damned": {
     "img": "https://cards.scryfall.io/large/front/d/3/d3db07a7-cc44-443c-bd38-ed3be3f2d776.jpg?1783920844",
@@ -390237,6 +390703,21 @@ var mtgindex =
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "The Master of Lake-town": {
+    "img": "https://cards.scryfall.io/large/front/d/3/d36d9c58-2bfe-418c-8512-fc4a3f229535.jpg?1784631816",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Advisor",
+    "color_identity": [
+      "B"
+    ],
+    "power": "3",
+    "toughness": "2"
   },
   "The Master, Formed Anew": {
     "img": "https://cards.scryfall.io/large/front/a/8/a85edffb-37ce-45ca-b8d2-ddbbbee3b571.jpg?1783914628",
@@ -390491,6 +390972,19 @@ var mtgindex =
       "U"
     ]
   },
+  "The Misty Mountains Cold": {
+    "img": "https://cards.scryfall.io/large/front/3/d/3d5f35ff-4146-4844-9da5-031461cc8c05.jpg?1784673451",
+    "date": "2026-08-14",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "R"
+    ]
+  },
   "The Modern Age": {
     "img": "https://cards.scryfall.io/large/front/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.jpg?1783923907",
     "date": "2022-02-18",
@@ -390549,6 +391043,19 @@ var mtgindex =
     ],
     "power": "5",
     "toughness": "5"
+  },
+  "The Mountain-king's Return": {
+    "img": "https://cards.scryfall.io/large/front/6/8/68f4893d-e9a5-4f89-ade3-9ab78a834ad5.jpg?1784631780",
+    "date": "2026-08-14",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "W"
+    ]
   },
   "The Mouth of Sauron": {
     "img": "https://cards.scryfall.io/large/front/7/6/76a88814-aa30-4297-b338-3d851bfe7256.jpg?1783916249",
@@ -391124,6 +391631,21 @@ var mtgindex =
     "color_identity": [
       "B",
       "R"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "The Sackville-Bagginses": {
+    "img": "https://cards.scryfall.io/large/front/e/d/ed87b471-79f9-45ec-9188-69e970f6121e.jpg?1784894871",
+    "date": "2026-08-14",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Halfling Citizen",
+    "color_identity": [
+      "B"
     ],
     "power": "2",
     "toughness": "2"
@@ -394899,6 +395421,19 @@ var mtgindex =
     "type_line": "Artifact",
     "color_identity": []
   },
+  "Thranduil's Decree": {
+    "img": "https://cards.scryfall.io/large/front/e/4/e4ded4c1-0e3e-47c5-8fdc-e7c187f68b12.jpg?1784760181",
+    "date": "2026-08-14",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6,
+    "type_line": "Instant",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Thranduil, the Elvenking": {
     "img": "https://cards.scryfall.io/large/front/f/e/fe2fe8fa-3b99-44c1-bab9-922e5c864952.jpg?1784377043",
     "date": "2026-08-14",
@@ -395829,6 +396364,19 @@ var mtgindex =
     "type_line": "Instant — Arcane",
     "color_identity": [
       "R"
+    ]
+  },
+  "Through the Forest Gate": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f4408b22-c2b0-46ff-8d10-81d150c992ca.jpg?1784894981",
+    "date": "2026-08-14",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{6}{G}{G}",
+    "cmc": 8,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "G"
     ]
   },
   "Throw from the Saddle": {
