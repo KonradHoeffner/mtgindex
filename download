@@ -1,2 +1,9 @@
-URI=`curl https://api.scryfall.com/bulk-data/default_cards | grep -oP '"download_uri":"\K[^"]*'`;
-wget $W $URI --progress=dot:giga -O scryfall-default-cards.json
+#!/bin/bash
+set -euo pipefail
+CARDS=`curl --no-progress-meter --fail-with-body https://api.scryfall.com/bulk-data/default_cards`
+URI=$(grep -oP '"jsonl_download_uri":"\K[^"]*' <<< "$CARDS") || {
+    echo "Error: grep could not find 'jsonl_download_uri' in the API response." >&2
+    echo "Raw API Response: $CARDS" >&2
+    exit 1
+}
+wget "$URI" --progress=dot:giga -O - | gunzip > scryfall-default-cards.jsonl

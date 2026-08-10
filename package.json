@@ -4,7 +4,7 @@
 	"version": "0.2.0",
 	"type": "module",
 	"scripts": {
-		"download": "sh ./download",
+		"download": "./download",
 		"build": "node src/createIndex.js",
 		"fmt": "NODE_OPTIONS='--no-warnings' prettier -w src",
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -22,9 +22,9 @@
 	},
 	"homepage": "https://github.com/KonradHoeffner/mtgindex#readme",
 	"devDependencies": {
-		"prettier": "~2.5.1"
+		"prettier": "~3.9.6"
 	},
 	"dependencies": {
-		"stream-json": "^3.4.0"
+		"stream-json": "^3.5.0"
 	}
 }

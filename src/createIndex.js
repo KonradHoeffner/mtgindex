@@ -1,12 +1,12 @@
 /** Requires that "scryfall-default-cards.json" is available.
 Read Scryfall JSON and transform it into a data structure that can be accessed more quickly and that only contains card name and image URL for the first print.*/
 import fs from "node:fs";
-import { streamArray } from "stream-json/streamers/stream-array.js";
+import { parser } from "stream-json/jsonl/parser.js";
 import chain from "stream-chain";
 // old synchronous approach fails with ERR_STRING_TOO_LONG since 2026 because the file went over the max v8 String limit of 512 MB
 // const data = fs.readFileSync("scryfall-default-cards.json"); // max buffer size 2 GB
 // let cards = JSON.parse(data);
-const filename = "scryfall-default-cards.json";
+const filename = "scryfall-default-cards.jsonl";
 
 async function createIndex() {
 	const indexBase = {};
@@ -14,7 +14,7 @@ async function createIndex() {
 	const cards = [100_000];
 	let count = 0;
 
-	const pipeline = chain([fs.createReadStream(filename), streamArray.withParser()]);
+	const pipeline = chain([fs.createReadStream(filename), parser()]);
 
 	// split double faced cards and filter out ignored cards
 	for await (const { key, value } of pipeline) {
