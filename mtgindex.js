@@ -162472,7 +162472,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Gran-Gran": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1783904988",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1786359981",
     "date": "2025-11-21",
     "colors": [
       "U"
@@ -373306,7 +373306,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Stormchaser's Talent": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a36e682d-b43d-4e08-bf5b-70d7e924dbe5.jpg?1783910842",
+    "img": "https://cards.scryfall.io/large/front/a/3/a36e682d-b43d-4e08-bf5b-70d7e924dbe5.jpg?1786359983",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -393053,7 +393053,7 @@ var mtgindex =
     "toughness": "4"
   },
   "The Fantasticar": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed0beb69-8441-4104-9990-81bd82f81f9a.jpg?1785161503",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed0beb69-8441-4104-9990-81bd82f81f9a.jpg?1786359919",
     "date": "2026-06-26",
     "colors": [],
     "mana_cost": "{3}",
