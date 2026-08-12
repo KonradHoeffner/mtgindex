@@ -8,4 +8,22 @@ updates:
       include: 'scope'
     assignees: ["KonradHoeffner"]
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      time: "07:30"
+      timezone: "Europe/Berlin"
+  - package-ecosystem: "github-actions"
+    directory: "/.github/workflows"
+    commit-message:
+      prefix: 'ci'
+      include: 'scope'
+    assignees: ["KonradHoeffner"]
+    schedule:
+      interval: "weekly"
+      time: "07:30"
+      timezone: "Europe/Berlin"
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      time: "07:30"
+      timezone: "Europe/Berlin"
