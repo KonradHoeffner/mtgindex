@@ -5638,7 +5638,7 @@ var mtgindex =
     ]
   },
   "Agent's Toolkit": {
-    "img": "https://cards.scryfall.io/large/front/6/4/64cbb81d-3444-4491-963f-8ce9a9430788.jpg?1783923352",
+    "img": "https://cards.scryfall.io/large/front/6/4/64cbb81d-3444-4491-963f-8ce9a9430788.jpg?1786423257",
     "date": "2022-04-29",
     "colors": [
       "G",
@@ -12755,7 +12755,7 @@ var mtgindex =
     "toughness": "4"
   },
   "Angelic Sleuth": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b0d044fe-9a6b-4994-9fad-2cc52696f90d.jpg?1783923378",
+    "img": "https://cards.scryfall.io/large/front/b/0/b0d044fe-9a6b-4994-9fad-2cc52696f90d.jpg?1786423236",
     "date": "2022-04-29",
     "colors": [
       "W"
@@ -65306,6 +65306,21 @@ var mtgindex =
     "color_identity": [
       "B"
     ]
+  },
+  "Christine Chapel, Combat Medic": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f2efcab5-3aad-4edd-87d1-289978e8855e.jpg?1786395991",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Doctor",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Chromanticore": {
     "img": "https://cards.scryfall.io/large/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1783939526",
@@ -117887,15 +117902,6 @@ var mtgindex =
     "power": "2",
     "toughness": "2"
   },
-  "Enduring Story": {
-    "img": "https://cards.scryfall.io/large/front/5/3/53bfaac7-07cf-4637-8f64-aba93ec7fd1a.jpg?1785534385",
-    "date": "2026-08-14",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Card",
-    "color_identity": []
-  },
   "Enduring Tenacity": {
     "img": "https://cards.scryfall.io/large/front/e/7/e74a0fbc-7150-4c44-983f-ac31e74644fd.jpg?1783909388",
     "date": "2024-09-27",
@@ -149226,6 +149232,21 @@ var mtgindex =
     "power": "1",
     "toughness": "3"
   },
+  "General Chang, Cold Warrior": {
+    "img": "https://cards.scryfall.io/large/front/c/4/c46a0910-215c-4757-8bfe-7eca479157a5.jpg?1786396042",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Legendary Creature — Klingon Warrior Officer",
+    "color_identity": [
+      "B"
+    ],
+    "power": "1",
+    "toughness": "2"
+  },
   "General Ferrous Rokiric": {
     "img": "https://cards.scryfall.io/large/front/b/0/b0a0636e-cf3c-4bf2-8d01-b830bed999ef.jpg?1783926748",
     "date": "2021-06-18",
@@ -162472,7 +162493,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Gran-Gran": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1786359981",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1786399175",
     "date": "2025-11-21",
     "colors": [
       "U"
@@ -270304,15 +270325,6 @@ var mtgindex =
       "W"
     ]
   },
-  "On an Adventure": {
-    "img": "https://cards.scryfall.io/large/front/5/e/5e289bb3-f6de-450d-9f7e-77e2e70cb7cc.jpg?1785534329",
-    "date": "2026-08-14",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Card",
-    "color_identity": []
-  },
   "On the Job": {
     "img": "https://cards.scryfall.io/large/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1783912813",
     "date": "2024-02-09",
@@ -271199,6 +271211,19 @@ var mtgindex =
     "color_identity": [],
     "power": "1",
     "toughness": "2"
+  },
+  "Open Communications": {
+    "img": "https://cards.scryfall.io/large/front/8/e/8eeec269-13f0-4923-9f13-e995acd73e00.jpg?1786396013",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U"
+    ]
   },
   "Open Fire": {
     "img": "https://cards.scryfall.io/large/front/4/4/448f9fb5-ffb5-4325-9f81-ce8782e5f9e9.jpg?1783936023",
@@ -274784,7 +274809,7 @@ var mtgindex =
     ]
   },
   "Overcooked": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fdfdf736-45c5-4ce7-838c-dd9900627fa5.jpg?1785759258",
+    "img": "https://cards.scryfall.io/large/front/f/d/fdfdf736-45c5-4ce7-838c-dd9900627fa5.jpg?1786870763",
     "date": "2026-11-09",
     "colors": [
       "R"
@@ -373306,7 +373331,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Stormchaser's Talent": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a36e682d-b43d-4e08-bf5b-70d7e924dbe5.jpg?1786359983",
+    "img": "https://cards.scryfall.io/large/front/a/3/a36e682d-b43d-4e08-bf5b-70d7e924dbe5.jpg?1786399178",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -393053,7 +393078,7 @@ var mtgindex =
     "toughness": "4"
   },
   "The Fantasticar": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed0beb69-8441-4104-9990-81bd82f81f9a.jpg?1786359919",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed0beb69-8441-4104-9990-81bd82f81f9a.jpg?1786399169",
     "date": "2026-06-26",
     "colors": [],
     "mana_cost": "{3}",
@@ -393387,7 +393412,7 @@ var mtgindex =
     "toughness": "4"
   },
   "The Gaffer": {
-    "img": "https://cards.scryfall.io/large/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1783916035",
+    "img": "https://cards.scryfall.io/large/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1786423840",
     "date": "2023-06-23",
     "colors": [
       "W"
@@ -420359,7 +420384,7 @@ var mtgindex =
     ]
   },
   "Valko Indorian": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1785759202",
+    "img": "https://cards.scryfall.io/large/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1786407094",
     "date": "2026-11-09",
     "colors": [
       "B"
