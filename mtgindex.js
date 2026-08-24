@@ -9178,7 +9178,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Along the Crooked Way": {
-    "img": "https://cards.scryfall.io/large/front/e/3/e340aa1c-a497-4fc4-9be9-26e7c982f893.jpg?1785412602",
+    "img": "https://cards.scryfall.io/large/front/e/3/e340aa1c-a497-4fc4-9be9-26e7c982f893.jpg?1787202429",
     "date": "2026-08-14",
     "colors": [
       "B"
@@ -10336,7 +10336,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Amok Time": {
-    "img": "https://cards.scryfall.io/large/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1784065822",
+    "img": "https://cards.scryfall.io/large/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1787205814",
     "date": "2026-11-13",
     "colors": [
       "G"
@@ -10678,7 +10678,7 @@ var mtgindex =
     ]
   },
   "An Unexpected Party // At the Door": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1783902777",
+    "img": "https://cards.scryfall.io/large/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
     "date": "2026-08-14",
     "colors": [
       "W"
@@ -27746,7 +27746,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Balin, Loremaster": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f3a8e4e3-58c5-4380-94b6-6252f8ccb285.jpg?1785497252",
+    "img": "https://cards.scryfall.io/large/front/f/3/f3a8e4e3-58c5-4380-94b6-6252f8ccb285.jpg?1787203005",
     "date": "2026-08-14",
     "colors": [
       "R"
@@ -35183,7 +35183,7 @@ var mtgindex =
     ]
   },
   "Bilbo's Gambit": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa74ca8a-8bcd-4dc5-ab2b-a2e18a70978e.jpg?1784895072",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa74ca8a-8bcd-4dc5-ab2b-a2e18a70978e.jpg?1787201221",
     "date": "2026-08-14",
     "colors": [
       "W"
@@ -51777,7 +51777,7 @@ var mtgindex =
     ]
   },
   "Burn, Burn, Tree and Fern": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fceb1a2d-121e-49ad-acf2-1bb5aebec116.jpg?1784376970",
+    "img": "https://cards.scryfall.io/large/front/f/c/fceb1a2d-121e-49ad-acf2-1bb5aebec116.jpg?1787200962",
     "date": "2026-08-14",
     "colors": [
       "R"
@@ -62253,7 +62253,7 @@ var mtgindex =
     ]
   },
   "Chandra, Chill of Compliance": {
-    "img": "https://cards.scryfall.io/large/front/5/4/549cd466-d726-4ac9-a9e8-c1cd3ecda998.jpg?1784337471",
+    "img": "https://cards.scryfall.io/large/front/5/4/549cd466-d726-4ac9-a9e8-c1cd3ecda998.jpg?1787205342",
     "date": "2026-10-02",
     "colors": [
       "U"
@@ -108798,7 +108798,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Dwalin, Weaponmaster": {
-    "img": "https://cards.scryfall.io/large/front/6/8/6833cb81-a373-4b83-93b4-b1ed5f82ce54.jpg?1785497273",
+    "img": "https://cards.scryfall.io/large/front/6/8/6833cb81-a373-4b83-93b4-b1ed5f82ce54.jpg?1787204816",
     "date": "2026-08-14",
     "colors": [
       "R",
@@ -109590,7 +109590,7 @@ var mtgindex =
     ]
   },
   "Dáin Ironfoot": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff35d11c-6429-4aab-b9c8-0c0306f13db9.jpg?1785236774",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff35d11c-6429-4aab-b9c8-0c0306f13db9.jpg?1787203025",
     "date": "2026-08-14",
     "colors": [
       "R"
@@ -181088,7 +181088,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Homer, the Hermit": {
-    "img": "https://cards.scryfall.io/large/front/d/9/d9934129-11b4-4e91-b81c-9d8e5bb14523.jpg?1785793119",
+    "img": "https://cards.scryfall.io/large/front/d/9/d9934129-11b4-4e91-b81c-9d8e5bb14523.jpg?1787264310",
     "date": "2026-11-09",
     "colors": [
       "B",
@@ -215506,7 +215506,7 @@ var mtgindex =
     ]
   },
   "Kíli the Resourceful": {
-    "img": "https://cards.scryfall.io/large/front/c/2/c241a594-24bc-4fd9-ac6d-501d11dddad1.jpg?1785496260",
+    "img": "https://cards.scryfall.io/large/front/c/2/c241a594-24bc-4fd9-ac6d-501d11dddad1.jpg?1787201301",
     "date": "2026-08-14",
     "colors": [
       "W"
@@ -238007,7 +238007,7 @@ var mtgindex =
     ]
   },
   "Maular, the Next Evolution": {
-    "img": "https://cards.scryfall.io/large/front/a/c/ac8d307f-5340-4419-95b4-b0ca09f9fd89.jpg?1785758978",
+    "img": "https://cards.scryfall.io/large/front/a/c/ac8d307f-5340-4419-95b4-b0ca09f9fd89.jpg?1787065450",
     "date": "2026-11-09",
     "colors": [
       "G"
@@ -269277,7 +269277,7 @@ var mtgindex =
     ]
   },
   "Old Fat Spider Can't See Me": {
-    "img": "https://cards.scryfall.io/large/front/4/a/4a865cea-f947-4736-8ace-ba478fceeb22.jpg?1785497065",
+    "img": "https://cards.scryfall.io/large/front/4/a/4a865cea-f947-4736-8ace-ba478fceeb22.jpg?1787201066",
     "date": "2026-08-14",
     "colors": [
       "U"
@@ -312668,7 +312668,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Rhovanion Rampager": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df7bdf15-9448-4cb0-a809-c5ac128e6b02.jpg?1785413334",
+    "img": "https://cards.scryfall.io/large/front/d/f/df7bdf15-9448-4cb0-a809-c5ac128e6b02.jpg?1787202738",
     "date": "2026-08-14",
     "colors": [
       "B"
@@ -315505,7 +315505,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Rite of Belzenlok": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1ed7cca3-79be-44ca-bf10-2ae1c0835ed1.jpg?1783935004",
+    "img": "https://cards.scryfall.io/large/front/1/e/1ed7cca3-79be-44ca-bf10-2ae1c0835ed1.jpg?1787199419",
     "date": "2018-04-27",
     "colors": [
       "B"
@@ -336202,7 +336202,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Seluma, Light of Aysen": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1eb501cc-0f83-40ca-8987-424bbee5f584.jpg?1785758816",
+    "img": "https://cards.scryfall.io/large/front/1/e/1eb501cc-0f83-40ca-8987-424bbee5f584.jpg?1787065592",
     "date": "2026-11-09",
     "colors": [
       "W"
@@ -379143,7 +379143,7 @@ var mtgindex =
     ]
   },
   "Supper for Spiders": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de7a0139-ce52-4212-9514-b2daba282288.jpg?1784377174",
+    "img": "https://cards.scryfall.io/large/front/d/e/de7a0139-ce52-4212-9514-b2daba282288.jpg?1787202749",
     "date": "2026-08-14",
     "colors": [
       "B"
@@ -392366,7 +392366,7 @@ var mtgindex =
     ]
   },
   "The City on the Edge of Forever": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1784182871",
+    "img": "https://cards.scryfall.io/large/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1787205815",
     "date": "2026-11-13",
     "colors": [
       "B",
@@ -392934,7 +392934,7 @@ var mtgindex =
     ]
   },
   "The Everforger": {
-    "img": "https://cards.scryfall.io/large/front/1/d/1d1a4c67-630c-42de-b37c-1188451d4b20.jpg?1785759198",
+    "img": "https://cards.scryfall.io/large/front/1/d/1d1a4c67-630c-42de-b37c-1188451d4b20.jpg?1787065545",
     "date": "2026-11-09",
     "colors": [],
     "mana_cost": "{6}",
@@ -394252,7 +394252,7 @@ var mtgindex =
     "toughness": "3"
   },
   "The Master of Lake-town": {
-    "img": "https://cards.scryfall.io/large/front/d/3/d36d9c58-2bfe-418c-8512-fc4a3f229535.jpg?1784631816",
+    "img": "https://cards.scryfall.io/large/front/d/3/d36d9c58-2bfe-418c-8512-fc4a3f229535.jpg?1787202713",
     "date": "2026-08-14",
     "colors": [
       "B"
@@ -394592,7 +394592,7 @@ var mtgindex =
     "toughness": "5"
   },
   "The Mountain-king's Return": {
-    "img": "https://cards.scryfall.io/large/front/6/8/68f4893d-e9a5-4f89-ade3-9ab78a834ad5.jpg?1784631780",
+    "img": "https://cards.scryfall.io/large/front/6/8/68f4893d-e9a5-4f89-ade3-9ab78a834ad5.jpg?1787201116",
     "date": "2026-08-14",
     "colors": [
       "W"
@@ -396006,7 +396006,7 @@ var mtgindex =
     "color_identity": []
   },
   "The Unluckiest Planeswalker": {
-    "img": "https://cards.scryfall.io/large/front/a/b/abaa08a6-62aa-4f2f-8be9-5950c2b32dc4.jpg?1785762549",
+    "img": "https://cards.scryfall.io/large/front/a/b/abaa08a6-62aa-4f2f-8be9-5950c2b32dc4.jpg?1787066036",
     "date": "2026-11-09",
     "colors": [
       "R"
@@ -400070,7 +400070,7 @@ var mtgindex =
     ]
   },
   "Through the Forest Gate": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f4408b22-c2b0-46ff-8d10-81d150c992ca.jpg?1784894981",
+    "img": "https://cards.scryfall.io/large/front/f/4/f4408b22-c2b0-46ff-8d10-81d150c992ca.jpg?1787204767",
     "date": "2026-08-14",
     "colors": [
       "G"
@@ -404152,7 +404152,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Tolabow, Loch Rascal": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1785756065",
+    "img": "https://cards.scryfall.io/large/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1787065723",
     "date": "2026-11-09",
     "colors": [
       "U"
@@ -420384,7 +420384,7 @@ var mtgindex =
     ]
   },
   "Valko Indorian": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1786407094",
+    "img": "https://cards.scryfall.io/large/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1787065628",
     "date": "2026-11-09",
     "colors": [
       "B"
@@ -444812,7 +444812,7 @@ var mtgindex =
     ]
   },
   "Wizard's Staff": {
-    "img": "https://cards.scryfall.io/large/front/1/4/14e69ca4-5148-44ec-bb21-330e656a6833.jpg?1785152443",
+    "img": "https://cards.scryfall.io/large/front/1/4/14e69ca4-5148-44ec-bb21-330e656a6833.jpg?1787202428",
     "date": "2026-08-14",
     "colors": [
       "U"
