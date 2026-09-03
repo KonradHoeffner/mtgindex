@@ -6541,7 +6541,7 @@ var mtgindex =
     ]
   },
   "Ajani Resolute": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1784338228",
+    "img": "https://cards.scryfall.io/large/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1788329189",
     "date": "2026-10-02",
     "colors": [
       "W"
@@ -6567,7 +6567,7 @@ var mtgindex =
     ]
   },
   "Ajani Unrelenting": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1784371010",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1788329317",
     "date": "2026-10-02",
     "colors": [
       "R"
@@ -57859,6 +57859,19 @@ var mtgindex =
     "power": "4",
     "toughness": "3"
   },
+  "Cast Away Doubt": {
+    "img": "https://cards.scryfall.io/large/front/3/b/3b5b28a4-0abd-4dc2-9856-c9a8d27f6a2d.jpg?1788353191",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Cast Down": {
     "img": "https://cards.scryfall.io/large/front/1/1/116ce944-6871-4f51-a889-d9c4a5d7cff2.jpg?1783935014",
     "date": "2018-04-27",
@@ -62253,7 +62266,7 @@ var mtgindex =
     ]
   },
   "Chandra, Chill of Compliance": {
-    "img": "https://cards.scryfall.io/large/front/5/4/549cd466-d726-4ac9-a9e8-c1cd3ecda998.jpg?1787205342",
+    "img": "https://cards.scryfall.io/large/front/5/4/549cd466-d726-4ac9-a9e8-c1cd3ecda998.jpg?1788329465",
     "date": "2026-10-02",
     "colors": [
       "U"
@@ -147777,7 +147790,7 @@ var mtgindex =
     ]
   },
   "Garruk, Curse Breaker": {
-    "img": "https://cards.scryfall.io/large/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1784338249",
+    "img": "https://cards.scryfall.io/large/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1788329370",
     "date": "2026-10-02",
     "colors": [
       "G"
@@ -147844,7 +147857,7 @@ var mtgindex =
     ]
   },
   "Garruk, Veiled Butcher": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1784370980",
+    "img": "https://cards.scryfall.io/large/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1788329269",
     "date": "2026-10-02",
     "colors": [
       "B"
@@ -222687,7 +222700,7 @@ var mtgindex =
     ]
   },
   "Liliana the Faultless": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9a8ee54c-7b03-42d5-9143-f40c1016a67a.jpg?1784338260",
+    "img": "https://cards.scryfall.io/large/front/9/a/9a8ee54c-7b03-42d5-9143-f40c1016a67a.jpg?1788329450",
     "date": "2026-10-02",
     "colors": [
       "W"
@@ -222702,7 +222715,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Liliana the Repentant": {
-    "img": "https://cards.scryfall.io/large/front/d/d/ddefddbc-c769-4e53-a9b3-087578ae8bc0.jpg?1784337479",
+    "img": "https://cards.scryfall.io/large/front/d/d/ddefddbc-c769-4e53-a9b3-087578ae8bc0.jpg?1788329483",
     "date": "2026-10-02",
     "colors": [
       "B"
@@ -277275,7 +277288,7 @@ var mtgindex =
     ]
   },
   "Paradox Shaper // Omit Variables": {
-    "img": "https://cards.scryfall.io/large/front/e/6/e61b9d48-0ace-4453-afe0-a1024444bac0.jpg?1784324709",
+    "img": "https://cards.scryfall.io/large/front/e/6/e61b9d48-0ace-4453-afe0-a1024444bac0.jpg?1788329390",
     "date": "2026-10-02",
     "colors": [
       "B",
@@ -280211,6 +280224,19 @@ var mtgindex =
     "date": "2016-04-08",
     "cmc": 4,
     "type_line": "Creature — Human Insect // Creature — Insect Horror",
+    "color_identity": [
+      "U"
+    ]
+  },
+  "Perfected Theory": {
+    "img": "https://cards.scryfall.io/large/front/d/0/d0ecae06-bc5a-4886-84df-c2900816f226.jpg?1788329222",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Instant",
     "color_identity": [
       "U"
     ]
@@ -293016,7 +293042,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Prudent Fateseer // Peer Review": {
-    "img": "https://cards.scryfall.io/large/front/6/c/6c1c790b-9e0e-4964-9ea3-554843907f06.jpg?1784324759",
+    "img": "https://cards.scryfall.io/large/front/6/c/6c1c790b-9e0e-4964-9ea3-554843907f06.jpg?1788329412",
     "date": "2026-10-02",
     "colors": [
       "U",
@@ -356856,6 +356882,21 @@ var mtgindex =
     "power": "3",
     "toughness": "2"
   },
+  "Solitary Cell": {
+    "img": "https://cards.scryfall.io/large/front/5/1/5142bbb6-194c-4b12-b11a-1a21c9fe81a6.jpg?1788260690",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{R}{W}",
+    "cmc": 2,
+    "type_line": "Artifact",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
   "Solitary Confinement": {
     "img": "https://cards.scryfall.io/large/front/e/7/e7a8eb7a-eb3f-405e-8f44-d8ea64d76386.jpg?1783945133",
     "date": "2002-05-27",
@@ -370968,7 +371009,7 @@ var mtgindex =
     "toughness": "5"
   },
   "Stingerquill Voxmancer // Vicious Verse": {
-    "img": "https://cards.scryfall.io/large/front/8/4/84b1c268-3b8a-41b6-92e3-a2ce0cc3d738.jpg?1784324951",
+    "img": "https://cards.scryfall.io/large/front/8/4/84b1c268-3b8a-41b6-92e3-a2ce0cc3d738.jpg?1788329418",
     "date": "2026-10-02",
     "colors": [
       "B",
@@ -403124,7 +403165,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Tinybones, Pocket Nuisance": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.jpg?1784325073",
+    "img": "https://cards.scryfall.io/large/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.jpg?1788329294",
     "date": "2026-10-02",
     "colors": [
       "B"
@@ -403429,7 +403470,7 @@ var mtgindex =
     ]
   },
   "Titanbones, Towering Heart": {
-    "img": "https://cards.scryfall.io/large/front/e/d/edea6f70-a5a7-475d-b7f2-97933d0f32cf.jpg?1784371016",
+    "img": "https://cards.scryfall.io/large/front/e/d/edea6f70-a5a7-475d-b7f2-97933d0f32cf.jpg?1788329375",
     "date": "2026-10-02",
     "colors": [
       "G"
@@ -426378,7 +426419,7 @@ var mtgindex =
     "toughness": "6"
   },
   "Vigorbloom Vanguard // Seed Suture": {
-    "img": "https://cards.scryfall.io/large/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1784324971",
+    "img": "https://cards.scryfall.io/large/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423",
     "date": "2026-10-02",
     "colors": [
       "G",
@@ -445938,7 +445979,7 @@ var mtgindex =
     ]
   },
   "Woodwork Prodigy // Soul Tether": {
-    "img": "https://cards.scryfall.io/large/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.jpg?1784324997",
+    "img": "https://cards.scryfall.io/large/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.jpg?1788329429",
     "date": "2026-10-02",
     "colors": [
       "G",
