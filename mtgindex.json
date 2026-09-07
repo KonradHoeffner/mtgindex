@@ -63232,6 +63232,21 @@
       "W"
     ]
   },
+  "Charge the Sanctum": {
+    "img": "https://cards.scryfall.io/large/front/8/7/87b40df5-5c0a-41f5-a09c-a04f17066a91.jpg?1788521570",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{2}{R/W}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
   "Charge": {
     "img": "https://cards.scryfall.io/large/front/0/0/000eded9-854c-408a-aadf-c26209e27432.jpg?1783935049",
     "date": "2018-04-27",
@@ -72132,6 +72147,19 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Compel Brutality": {
+    "img": "https://cards.scryfall.io/large/front/b/d/bd32d736-7a58-46b9-90b4-2cac3c3e80a1.jpg?1788521235",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "G"
+    ]
   },
   "Compelled Duel": {
     "img": "https://cards.scryfall.io/large/front/2/a/2a7e501d-943e-4e6d-9d8e-6bedc32a0dd8.jpg?1783926465",
@@ -149526,6 +149554,19 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Generous Revival": {
+    "img": "https://cards.scryfall.io/large/front/f/8/f82f181b-a43b-4cec-b8f6-f6c1dd4c64fd.jpg?1788433351",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
+    ]
   },
   "Generous Soul": {
     "img": "https://cards.scryfall.io/large/back/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1783925674",
