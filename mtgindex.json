@@ -1,4 +1,21 @@
 {
+  "\"I've been pulling the strings the whole time!\"": {
+    "img": "https://cards.scryfall.io/large/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Artificer",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "\"Lifetime\" Pass Holder": {
     "img": "https://cards.scryfall.io/large/front/f/e/fede7f75-0dff-4f3e-816d-e52b43e8b33b.jpg?1783920578",
     "date": "2022-10-07",
@@ -1757,6 +1774,19 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Academic Ascent": {
+    "img": "https://cards.scryfall.io/large/front/7/3/730d8c28-1e58-4b8e-89e9-445d154d2e83.jpg?1788878081",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "W"
+    ]
   },
   "Academic Dispute": {
     "img": "https://cards.scryfall.io/large/front/4/6/4620cc3b-e401-4096-b310-fed080806344.jpg?1783927359",
@@ -3892,6 +3922,23 @@
     "power": "3",
     "toughness": "2"
   },
+  "Aerid Konstrari": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{R}{G}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Elder Sphinx",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "power": "5",
+    "toughness": "4"
+  },
   "Aerie Auxiliary": {
     "img": "https://cards.scryfall.io/large/front/5/e/5e4c134b-a416-467e-a158-def84c92c6af.jpg?1783911304",
     "date": "2024-06-14",
@@ -5139,6 +5186,17 @@
     "color_identity": [
       "R"
     ]
+  },
+  "Afterthought Sentry": {
+    "img": "https://cards.scryfall.io/large/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.jpg?1789271517",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Gargoyle",
+    "color_identity": [],
+    "power": "2",
+    "toughness": "2"
   },
   "Agadeem Occultist": {
     "img": "https://cards.scryfall.io/large/front/c/5/c592ef76-d612-4cfe-b906-0e63c44d36f8.jpg?1783942058",
@@ -15884,6 +15942,21 @@
       "U"
     ]
   },
+  "Arcane Amphisbaena": {
+    "img": "https://cards.scryfall.io/large/front/1/b/1bf923c4-f0b7-4271-978c-fd2e79fe1cc8.jpg?1788878190",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Snake",
+    "color_identity": [
+      "G"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Arcane Artisan": {
     "img": "https://cards.scryfall.io/large/front/6/b/6b2441e0-06f6-4455-8fa8-a34c3e241a56.jpg?1783934867",
     "date": "2018-06-08",
@@ -24287,6 +24360,23 @@
     "color_identity": [
       "W"
     ]
+  },
+  "Avatar of Burgeoning Echoes": {
+    "img": "https://cards.scryfall.io/large/front/5/9/5905995b-7a20-4602-a7cc-90aa5089a082.jpg?1788878208",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{G}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Avatar",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Avatar of Discord": {
     "img": "https://cards.scryfall.io/large/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1783943389",
@@ -34659,6 +34749,19 @@
     "type_line": "Enchantment — Aura",
     "color_identity": [
       "R"
+    ]
+  },
+  "Bestial Incursion": {
+    "img": "https://cards.scryfall.io/large/front/e/0/e0de5f66-f0df-4866-9f73-104ce50411b4.jpg?1789127248",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "G"
     ]
   },
   "Bestial Menace": {
@@ -46640,7 +46743,7 @@
     "color_identity": []
   },
   "Brain Freeze": {
-    "img": "https://cards.scryfall.io/large/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1783944889",
+    "img": "https://cards.scryfall.io/large/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1789015952",
     "date": "2003-05-26",
     "colors": [
       "U"
@@ -47837,6 +47940,19 @@
     "type_line": "Instant",
     "color_identity": [
       "W"
+    ]
+  },
+  "Break Under Pressure": {
+    "img": "https://cards.scryfall.io/large/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789271379",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "B"
     ]
   },
   "Break of Day": {
@@ -51052,6 +51168,21 @@
     "cmc": 0,
     "type_line": "Land — Desert",
     "color_identity": []
+  },
+  "Budding Insurgent": {
+    "img": "https://cards.scryfall.io/large/front/1/8/18c59d60-2640-4576-9375-3ba38aa3ecb7.jpg?1789127120",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Dryad Scout",
+    "color_identity": [
+      "G"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Budoka Gardener // Dokai, Weaver of Life": {
     "img": "https://cards.scryfall.io/large/front/4/9/49999b95-5e62-414c-b975-4191b9c1ab39.jpg?1783944292",
@@ -54799,6 +54930,21 @@
     "power": "3",
     "toughness": "4"
   },
+  "Campus Crier": {
+    "img": "https://cards.scryfall.io/large/front/6/0/6047b14c-91d5-4f8e-af3f-057a541e2546.jpg?1788878120",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Advisor",
+    "color_identity": [
+      "W"
+    ],
+    "power": "3",
+    "toughness": "1"
+  },
   "Campus Guide": {
     "img": "https://cards.scryfall.io/large/front/8/7/87a9a8a2-de81-441b-b501-418311b677f7.jpg?1783927282",
     "date": "2021-04-23",
@@ -56955,6 +57101,21 @@
     "color_identity": [
       "G"
     ]
+  },
+  "Carnivorous Cultivator // Enroot": {
+    "img": "https://cards.scryfall.io/large/front/e/9/e9e31f13-8a2c-4ae2-854e-27d6c62936f2.jpg?1789127852",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G} // {G}",
+    "cmc": 2,
+    "type_line": "Creature — Elf Warlock // Sorcery",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Carnivorous Moss-Beast": {
     "img": "https://cards.scryfall.io/large/front/b/d/bd814ce3-9555-4e9d-a212-e40717f4e546.jpg?1783939168",
@@ -62012,6 +62173,21 @@
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "type_line": "Creature — Elemental Cat",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "Chandra's Emberling": {
+    "img": "https://cards.scryfall.io/large/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789274152",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Gremlin Elemental",
     "color_identity": [
       "R"
     ],
@@ -67264,6 +67440,21 @@
       "W"
     ]
   },
+  "Clash of Elements": {
+    "img": "https://cards.scryfall.io/large/front/b/6/b61bcef7-5832-45e6-a2bc-26d4f23707fc.jpg?1788878210",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
   "Clash of Realities": {
     "img": "https://cards.scryfall.io/large/front/0/6/064dcfb2-6088-49c9-89b2-88d63c9add53.jpg?1783944191",
     "date": "2005-02-04",
@@ -71499,7 +71690,7 @@
     ]
   },
   "Comet, Stellar Pup": {
-    "img": "https://cards.scryfall.io/large/front/a/7/a76fa8d4-923d-4afc-ba47-ba10fc0fe46e.jpg?1783920542",
+    "img": "https://cards.scryfall.io/large/front/a/7/a76fa8d4-923d-4afc-ba47-ba10fc0fe46e.jpg?1789040645",
     "date": "2022-10-07",
     "colors": [
       "R",
@@ -76627,6 +76818,19 @@
       "U"
     ]
   },
+  "Countersculpt": {
+    "img": "https://cards.scryfall.io/large/front/1/4/145b928d-a7ff-4fe5-ae4d-bbae7b1d955b.jpg?1788878107",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Counterspell": {
     "img": "https://cards.scryfall.io/large/front/9/e/9e11bf7c-f439-4529-b29a-d711359807ef.jpg?1783948644",
     "date": "1993-08-05",
@@ -80092,6 +80296,19 @@
     "type_line": "Sorcery",
     "color_identity": [
       "B"
+    ]
+  },
+  "Cruel Calculations": {
+    "img": "https://cards.scryfall.io/large/front/f/7/f76c4d8e-3e1f-4264-99af-1b8adb9a06be.jpg?1789127482",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U"
     ]
   },
   "Cruel Celebrant": {
@@ -85053,6 +85270,36 @@
     "power": "2",
     "toughness": "2"
   },
+  "Danitha, Spear of Agony": {
+    "img": "https://cards.scryfall.io/large/front/6/4/6489814b-3d10-423e-988c-324740d36748.jpg?1789127194",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Knight",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "Danitha, Sword of Hope": {
+    "img": "https://cards.scryfall.io/large/front/d/5/d5cb9810-3c2d-4ae4-b8b6-0155ca3f47ad.jpg?1789127178",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Knight",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Danny Pink": {
     "img": "https://cards.scryfall.io/large/front/c/9/c93c9838-e041-4ca4-9a39-49df328e3dd1.jpg?1783914321",
     "date": "2023-10-13",
@@ -87963,7 +88210,7 @@
     "toughness": "3"
   },
   "Daze": {
-    "img": "https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1783945837",
+    "img": "https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1789015977",
     "date": "2000-02-14",
     "colors": [
       "U"
@@ -93522,6 +93769,23 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Denzilore Fatehold": {
+    "img": "https://cards.scryfall.io/large/front/b/7/b770dda5-d248-427b-a393-eecc0b325364.jpg?1788878401",
+    "date": "2026-10-02",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{W}{U}{U}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Elder Sphinx",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "4"
   },
   "Depala, Pilot Exemplar": {
     "img": "https://cards.scryfall.io/large/front/5/9/592f3a92-787e-4180-9d0b-06c973ce8975.jpg?1783937169",
@@ -99689,6 +99953,21 @@
     ],
     "power": "4",
     "toughness": "5"
+  },
+  "Diviner of Victory // Unwind History": {
+    "img": "https://cards.scryfall.io/large/front/8/3/83582080-bbd8-421e-80d3-66a7144f03fd.jpg?1788878435",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U} // {1}{U}",
+    "cmc": 1,
+    "type_line": "Creature — Dwarf Wizard // Sorcery",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "1"
   },
   "Diviner's Lockbox": {
     "img": "https://cards.scryfall.io/large/front/d/a/da55c6a1-1f26-4254-ac62-fdbe94278de5.jpg?1783932944",
@@ -109921,6 +110200,21 @@
     "power": "3",
     "toughness": "3"
   },
+  "Eardrum Rattler": {
+    "img": "https://cards.scryfall.io/large/front/5/f/5f8771f9-8128-4818-a11d-41ea368cf697.jpg?1789127173",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Human Bard",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Early Frost": {
     "img": "https://cards.scryfall.io/large/front/5/9/5989d4c4-bfa4-4b07-ab64-65a3aee6144e.jpg?1783944405",
     "date": "2004-06-04",
@@ -111496,6 +111790,23 @@
       "B"
     ]
   },
+  "Edgar, Ancient Bloodlord": {
+    "img": "https://cards.scryfall.io/large/front/7/c/7c619fed-2394-4efc-8cdc-6df5f51c1f57.jpg?1789127743",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{W}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Vampire Noble",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Edgar, Charmed Groom": {
     "img": "https://cards.scryfall.io/large/front/7/a/7abf10e9-6f06-4424-b156-dd03e4d3e4f6.jpg?1783924765",
     "date": "2021-11-19",
@@ -111536,6 +111847,21 @@
       "W"
     ],
     "power": "2",
+    "toughness": "4"
+  },
+  "Edgar, Moonlit Sovereign": {
+    "img": "https://cards.scryfall.io/large/front/d/a/dad6afc9-8505-4cdd-bf79-e9ba4670f2bb.jpg?1789127966",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Werewolf Noble",
+    "color_identity": [
+      "G"
+    ],
+    "power": "4",
     "toughness": "4"
   },
   "Edge Rover": {
@@ -116278,6 +116604,23 @@
     "power": "0",
     "toughness": "1"
   },
+  "Emergency Phytomedic // Seed Suture": {
+    "img": "https://cards.scryfall.io/large/front/d/e/de94d388-919d-44ff-baef-8c90a417ac6d.jpg?1789127295",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{G/W} // {G/W}",
+    "cmc": 1,
+    "type_line": "Creature — Dryad Cleric // Sorcery",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Emergency Powers": {
     "img": "https://cards.scryfall.io/large/front/6/4/6473a93f-879f-4f44-8650-ee05a647c763.jpg?1783933652",
     "date": "2019-01-25",
@@ -117093,6 +117436,17 @@
     "color_identity": [],
     "power": "15",
     "toughness": "15"
+  },
+  "Emrakul, the Exigent Doom": {
+    "img": "https://cards.scryfall.io/large/front/e/e/ee609b68-5c9c-43e0-aff4-eb1bbc8b2911.jpg?1789060230",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "{10}",
+    "cmc": 10,
+    "type_line": "Legendary Creature — Eldrazi",
+    "color_identity": [],
+    "power": "12",
+    "toughness": "12"
   },
   "Emrakul, the Promised End": {
     "img": "https://cards.scryfall.io/large/front/3/1/3183897e-4f86-4020-b149-cc4c2451a6c0.jpg?1783908032",
@@ -125924,6 +126278,19 @@
     "type_line": "Artifact",
     "color_identity": []
   },
+  "Face Yourself": {
+    "img": "https://cards.scryfall.io/large/front/6/8/68930b71-d96e-4e08-9547-7f8160d7ab73.jpg?1789127819",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{5}{R}{R}",
+    "cmc": 7,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "R"
+    ]
+  },
   "Face of Divinity": {
     "img": "https://cards.scryfall.io/large/front/1/4/14167f33-00e2-41f9-b545-b476562881c6.jpg?1783933165",
     "date": "2019-06-14",
@@ -129133,6 +129500,38 @@
       "R"
     ]
   },
+  "Fatehold Charm": {
+    "img": "https://cards.scryfall.io/large/front/c/f/cfc54011-647e-4428-bcdb-59400e1da49d.jpg?1789127637",
+    "date": "2026-10-02",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{W}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  "Fatehold Chronologist // Peer Review": {
+    "img": "https://cards.scryfall.io/large/front/2/9/29e7ec16-0c16-48aa-8e09-ce6e0d5bd40b.jpg?1789060173",
+    "date": "2026-10-02",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{W/U} // {2}{W/U}",
+    "cmc": 2,
+    "type_line": "Creature — Bird Wizard // Sorcery",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "1",
+    "toughness": "2"
+  },
   "Fates' Reversal": {
     "img": "https://cards.scryfall.io/large/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.jpg?1783926496",
     "date": "2021-07-23",
@@ -129506,6 +129905,36 @@
       "W"
     ],
     "power": "2",
+    "toughness": "2"
+  },
+  "Fblthp, Impossibly Lost": {
+    "img": "https://cards.scryfall.io/large/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.jpg?1789127697",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Homunculus",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
+  "Fblthp, Knows the Way": {
+    "img": "https://cards.scryfall.io/large/front/2/8/28fbb55a-5c9d-45ee-bf42-a84b1048f5d2.jpg?1789127976",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{X}{G}{G}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Homunculus Scout",
+    "color_identity": [
+      "G"
+    ],
+    "power": "*",
     "toughness": "2"
   },
   "Fblthp, Lost on the Range": {
@@ -146648,6 +147077,36 @@
     "power": "2",
     "toughness": "2"
   },
+  "Gallia, Tragic Host": {
+    "img": "https://cards.scryfall.io/large/front/4/9/498fa810-8522-4020-b773-52ad404c9f65.jpg?1789275452",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Zombie Satyr",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "1"
+  },
+  "Gallia, the Merrymaker": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1789275444",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Satyr",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "1"
+  },
   "Gallifrey Council Chamber": {
     "img": "https://cards.scryfall.io/large/front/8/a/8a8e2bc9-8fa7-4112-ad66-3e5b7fa69793.jpg?1783914520",
     "date": "2023-10-13",
@@ -148835,6 +149294,21 @@
     "power": "3",
     "toughness": "5"
   },
+  "Geist of Saint Thalia": {
+    "img": "https://cards.scryfall.io/large/front/9/c/9c334530-0880-46b5-a358-9603eee3cecf.jpg?1789128026",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Spirit Cleric",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "2"
+  },
   "Geist of Saint Traft": {
     "img": "https://cards.scryfall.io/large/front/3/5/35b57113-b39a-460b-b4aa-02606b40bbd0.jpg?1783940907",
     "date": "2011-09-30",
@@ -150531,6 +151005,36 @@
     ],
     "power": "12",
     "toughness": "12"
+  },
+  "Ghalta the Immovable": {
+    "img": "https://cards.scryfall.io/large/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.jpg?1789014423",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{8}{W}",
+    "cmc": 9,
+    "type_line": "Legendary Creature — Elder Dinosaur",
+    "color_identity": [
+      "W"
+    ],
+    "power": "0",
+    "toughness": "7"
+  },
+  "Ghalta the Unstoppable": {
+    "img": "https://cards.scryfall.io/large/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.jpg?1788878290",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{8}{G}",
+    "cmc": 9,
+    "type_line": "Legendary Creature — Elder Dinosaur",
+    "color_identity": [
+      "G"
+    ],
+    "power": "8",
+    "toughness": "8"
   },
   "Ghalta, Primal Hunger": {
     "img": "https://cards.scryfall.io/large/front/0/1/0104b5b3-9376-4ad7-9a77-3e564e9c42e6.jpg?1783935288",
@@ -152606,6 +153110,21 @@
       "W"
     ]
   },
+  "Gideon the Oathless": {
+    "img": "https://cards.scryfall.io/large/front/c/9/c985b0d1-25bd-4069-aab7-a566ff27a8f6.jpg?1789127990",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Mercenary",
+    "color_identity": [
+      "B"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Gideon's Avenger": {
     "img": "https://cards.scryfall.io/large/front/b/b/bb0a0d33-8862-433b-a078-82472e5f9af0.jpg?1783941103",
     "date": "2011-07-15",
@@ -152689,6 +153208,19 @@
     ],
     "power": "1",
     "toughness": "1"
+  },
+  "Gideon's Memorial": {
+    "img": "https://cards.scryfall.io/large/front/b/6/b658f046-bacd-40f5-85ba-af2ab8071b71.jpg?1789127773",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact",
+    "color_identity": [
+      "W"
+    ]
   },
   "Gideon's Phalanx": {
     "img": "https://cards.scryfall.io/large/front/3/0/30142729-de9a-4a0b-b060-8f68e1ef234d.jpg?1783938363",
@@ -165063,6 +165595,21 @@
       "G"
     ]
   },
+  "Greenhouse Propagator": {
+    "img": "https://cards.scryfall.io/large/front/a/5/a56e0f91-b128-4693-a949-53cb403f4fbf.jpg?1789127136",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Cat Druid",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Greenseeker": {
     "img": "https://cards.scryfall.io/large/front/f/2/f2dfa231-349a-4dce-bed6-c82a136fe0a1.jpg?1783943212",
     "date": "2006-10-06",
@@ -170834,6 +171381,22 @@
     "type_line": "Land",
     "color_identity": []
   },
+  "Hallway Heckler // Vicious Verse": {
+    "img": "https://cards.scryfall.io/large/front/7/e/7e324816-552f-455d-97c4-5ea6b26d2e6e.jpg?1789127576",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R} // {B/R}",
+    "cmc": 3,
+    "type_line": "Creature — Elemental Sorcerer // Sorcery",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Halo Forager": {
     "img": "https://cards.scryfall.io/large/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg?1783916950",
     "date": "2023-04-21",
@@ -175228,6 +175791,22 @@
       "W"
     ]
   },
+  "Heartwood Crafter // Soul Tether": {
+    "img": "https://cards.scryfall.io/large/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.jpg?1789127630",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{G} // {2}{R/G}",
+    "cmc": 1,
+    "type_line": "Creature — Elf Artificer // Sorcery",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Heartwood Dryad": {
     "img": "https://cards.scryfall.io/large/front/e/2/e2b9a001-2a1e-4fc4-9b84-c776f741a858.jpg?1783946617",
     "date": "1997-10-14",
@@ -178394,6 +178973,21 @@
     ],
     "power": "2",
     "toughness": "1"
+  },
+  "Hexhaven Invigorator": {
+    "img": "https://cards.scryfall.io/large/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{G}{G}{G}{G}",
+    "cmc": 4,
+    "type_line": "Creature — Chimera Horror",
+    "color_identity": [
+      "G"
+    ],
+    "power": "6",
+    "toughness": "6"
   },
   "Hexing Squelcher": {
     "img": "https://cards.scryfall.io/large/front/6/8/68618675-3e00-4b07-b1da-0e4be5700a1c.jpg?1783904376",
@@ -184500,6 +185094,21 @@
     "power": "0",
     "toughness": "0"
   },
+  "Hungering Puppetbeast": {
+    "img": "https://cards.scryfall.io/large/front/3/d/3db2da7a-8088-4117-916b-f9c905d1b45b.jpg?1789127646",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Artifact Creature — Beast Construct",
+    "color_identity": [
+      "G"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
   "Hungering Yeti": {
     "img": "https://cards.scryfall.io/large/front/0/2/02f7c596-5633-41e8-adcd-d4dc6eae5c88.jpg?1783938687",
     "date": "2015-01-23",
@@ -187015,6 +187624,19 @@
     "mana_cost": "{U}{U}",
     "cmc": 2,
     "type_line": "Enchantment",
+    "color_identity": [
+      "U"
+    ]
+  },
+  "Icy Reception": {
+    "img": "https://cards.scryfall.io/large/front/8/d/8d754b96-5e44-45af-9c7a-b0da59fbe4c3.jpg?1788779540",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
     "color_identity": [
       "U"
     ]
@@ -191546,6 +192168,19 @@
       "W"
     ]
   },
+  "Infinite Coursework": {
+    "img": "https://cards.scryfall.io/large/front/a/5/a5988272-faaa-463d-a0a1-a8e96b946bad.jpg?1789099109",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Enchantment — Aura",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Infinite Guideline Station": {
     "img": "https://cards.scryfall.io/large/front/5/6/5688894a-bbec-476b-ae2e-94000be258d0.jpg?1783905926",
     "date": "2025-08-01",
@@ -191913,6 +192548,23 @@
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "Ingris Stingerquill": {
+    "img": "https://cards.scryfall.io/large/front/a/0/a0686b23-2220-405b-8bc5-980f18af5fef.jpg?1788878424",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{B}{R}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Elder Sphinx",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "1",
+    "toughness": "4"
   },
   "Inheritance": {
     "img": "https://cards.scryfall.io/large/front/9/f/9fe88de7-b226-4a43-9662-8b408e4281d3.jpg?1783947203",
@@ -193148,6 +193800,21 @@
       "U"
     ],
     "power": "2",
+    "toughness": "2"
+  },
+  "Inspired Tethermage": {
+    "img": "https://cards.scryfall.io/large/front/0/7/073f4998-a204-447b-93d5-746ae87fd6a1.jpg?1788878192",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Elf Warrior",
+    "color_identity": [
+      "G"
+    ],
+    "power": "3",
     "toughness": "2"
   },
   "Inspired Tinkering": {
@@ -197963,6 +198630,19 @@
       "U"
     ]
   },
+  "Jace's Machinations": {
+    "img": "https://cards.scryfall.io/large/front/a/a/aabdc0a6-5d60-44c4-96cb-692eeeac0630.jpg?1788878316",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Jace's Mindseeker": {
     "img": "https://cards.scryfall.io/large/front/f/6/f67852a6-ae75-44e7-9e2d-d458c7b9d869.jpg?1783939933",
     "date": "2013-07-19",
@@ -200551,6 +201231,36 @@
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "Jiang Yanggu, Alone": {
+    "img": "https://cards.scryfall.io/large/front/e/8/e8c1ce21-b77d-40bf-9ed1-478604e71f5f.jpg?1789014416",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Human Berserker",
+    "color_identity": [
+      "R"
+    ],
+    "power": "4",
+    "toughness": "4"
+  },
+  "Jiang Yanggu, Never Alone": {
+    "img": "https://cards.scryfall.io/large/front/f/5/f5a0bb3e-8119-4739-8684-e61d1d607dcb.jpg?1789014406",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Druid",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Jiang Yanggu, Wildcrafter": {
     "img": "https://cards.scryfall.io/large/front/1/0/10e0d47d-b13c-4d48-881f-8aaa347ef209.jpg?1783933410",
@@ -204885,6 +205595,40 @@
       "U"
     ]
   },
+  "Karn, Argent Defender": {
+    "img": "https://cards.scryfall.io/large/front/7/d/7deb091c-6fa8-44b5-a580-c0289112b6cb.jpg?1788878308",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact Creature — Golem",
+    "color_identity": [],
+    "power": "1",
+    "toughness": "3"
+  },
+  "Karn, Gilded Guardian": {
+    "img": "https://cards.scryfall.io/large/front/3/c/3c3863a1-7c9f-4884-8915-84d088ce231c.jpg?1788878307",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+    "cmc": 10,
+    "type_line": "Legendary Artifact Creature — Golem",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
   "Karn, Legacy Reforged": {
     "img": "https://cards.scryfall.io/large/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1787727976",
     "date": "2023-05-12",
@@ -206888,6 +207632,17 @@
       "U"
     ],
     "power": "1",
+    "toughness": "2"
+  },
+  "Keeper of the Quiet Hour": {
+    "img": "https://cards.scryfall.io/large/front/b/6/b6331218-dbb8-44a9-8ba5-5fb1ab41c5c0.jpg?1788878239",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact Creature — Chimera",
+    "color_identity": [],
+    "power": "3",
     "toughness": "2"
   },
   "Keepers of the Faith": {
@@ -209568,6 +210323,38 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Kiora of Fire and Ashes": {
+    "img": "https://cards.scryfall.io/large/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Merfolk Noble",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "Kiora of Salt and Sand": {
+    "img": "https://cards.scryfall.io/large/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{1}{G}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Merfolk Noble",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "4"
   },
   "Kiora's Dambreaker": {
     "img": "https://cards.scryfall.io/large/front/a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1783933460",
@@ -212490,6 +213277,21 @@
     "power": "2",
     "toughness": "2"
   },
+  "Konstrari Charm": {
+    "img": "https://cards.scryfall.io/large/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.jpg?1789127645",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{R}{G}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
   "Kookus": {
     "img": "https://cards.scryfall.io/large/front/8/f/8fb90922-99d2-4b36-9039-bb806fd01756.jpg?1783946987",
     "date": "1997-02-03",
@@ -215182,6 +215984,23 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Kwia Vigorbloom": {
+    "img": "https://cards.scryfall.io/large/front/c/5/c5ba91b6-1678-4bd5-8f83-9d7f418562f5.jpg?1788915587",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{3}{G}{W}{W}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Elder Sphinx",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "power": "6",
+    "toughness": "6"
   },
   "Kydele, Chosen of Kruphix": {
     "img": "https://cards.scryfall.io/large/front/0/f/0f961cec-2f1f-4cd5-bcc3-72e1deb8779e.jpg?1783937084",
@@ -227952,6 +228771,19 @@
     "power": "3",
     "toughness": "1"
   },
+  "Loyal Tutor": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f2d44935-2473-464f-b402-ea45b0e80c99.jpg?1788878431",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Loyal Unicorn": {
     "img": "https://cards.scryfall.io/large/front/7/d/7d2fb006-3376-4322-8473-69de9b745412.jpg?1783934344",
     "date": "2018-08-10",
@@ -229566,6 +230398,36 @@
     "power": "5",
     "toughness": "5"
   },
+  "Lyra, Archangel of Dawn": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fc4635a1-1497-4643-b3e5-954808b07a54.jpg?1789127775",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Angel Knight",
+    "color_identity": [
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
+  "Lyra, Tolarian Archangel": {
+    "img": "https://cards.scryfall.io/large/front/a/5/a5183681-447b-4023-91f7-00e9338f4417.jpg?1789128032",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Angel Wizard",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Lys Alana Bowmaster": {
     "img": "https://cards.scryfall.io/large/front/f/a/fac845bd-becd-4c58-9561-7cdf2adca058.jpg?1783942778",
     "date": "2008-02-01",
@@ -229825,6 +230687,21 @@
       "W"
     ]
   },
+  "Mabel, Bitter Recluse": {
+    "img": "https://cards.scryfall.io/large/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789128065",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Legendary Creature — Mouse Warlock",
+    "color_identity": [
+      "B"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Mabel, Heir to Cragflame": {
     "img": "https://cards.scryfall.io/large/front/c/f/cfbdaae3-acba-44e1-bdd6-9c7066143d33.jpg?1783910753",
     "date": "2024-08-02",
@@ -229841,6 +230718,23 @@
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "Mabel, Valley Hero": {
+    "img": "https://cards.scryfall.io/large/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{1}{R}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Mouse Soldier",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "power": "1",
+    "toughness": "2"
   },
   "MacCready, Lamplight Mayor": {
     "img": "https://cards.scryfall.io/large/front/e/e/eeccc970-6762-404f-a4d9-31c1aef80d22.jpg?1783912192",
@@ -237376,6 +238270,21 @@
     "power": "2",
     "toughness": "2"
   },
+  "Master of Barbs": {
+    "img": "https://cards.scryfall.io/large/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Lizard Bard",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "1"
+  },
   "Master of Ceremonies": {
     "img": "https://cards.scryfall.io/large/front/d/1/d152cfa8-00b7-4aa0-855e-bbd57a5f4b23.jpg?1783923374",
     "date": "2022-04-29",
@@ -239827,6 +240736,19 @@
     "type_line": "Sorcery",
     "color_identity": [
       "B"
+    ]
+  },
+  "Memory Trap": {
+    "img": "https://cards.scryfall.io/large/front/2/f/2f5345ae-4489-4d05-b2d5-c71285254f05.jpg?1788866058",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "W"
     ]
   },
   "Memory Vampire": {
@@ -263910,6 +264832,19 @@
       "U"
     ]
   },
+  "No Admittance": {
+    "img": "https://cards.scryfall.io/large/front/1/1/11ba4fdd-cc03-4bb6-a493-91a9785771d0.jpg?1788878170",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "R"
+    ]
+  },
   "No Escape": {
     "img": "https://cards.scryfall.io/large/front/b/c/bc9888a1-6f35-4802-b8fb-902017736d4a.jpg?1783933458",
     "date": "2019-05-03",
@@ -265667,6 +266602,23 @@
     "cmc": 2,
     "type_line": "Artifact",
     "color_identity": []
+  },
+  "Null Summoner": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fc488525-de0b-4a52-8a1a-6ee4e798474e.jpg?1789127809",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{2}{U}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Human Warlock",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "power": "4",
+    "toughness": "2"
   },
   "Nulldrifter": {
     "img": "https://cards.scryfall.io/large/front/9/1/915d5409-0375-4a77-8019-ddaade86e144.jpg?1783911178",
@@ -275529,6 +276481,19 @@
     "type_line": "Instant — Lesson",
     "color_identity": [
       "R"
+    ]
+  },
+  "Overwrite the Multiverse": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f28b1518-8347-4385-9f34-a9c48818c770.jpg?1789129837",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
     ]
   },
   "Overzealous Muscle": {
@@ -287394,6 +288359,21 @@
     "power": "5",
     "toughness": "5"
   },
+  "Pompous Battlemage // Improvised Act": {
+    "img": "https://cards.scryfall.io/large/front/d/d/dd78dea9-901c-4ff0-a155-06e2fa75b5d6.jpg?1788878434",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{R} // {R}",
+    "cmc": 1,
+    "type_line": "Creature — Goblin Sorcerer // Sorcery",
+    "color_identity": [
+      "R"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Pompous Gadabout": {
     "img": "https://cards.scryfall.io/large/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.jpg?1783912863",
     "date": "2024-02-09",
@@ -291540,6 +292520,23 @@
       "U"
     ]
   },
+  "Proctor of Potential": {
+    "img": "https://cards.scryfall.io/large/front/c/f/cf0eec8c-0475-4050-8144-481a9bb13a0f.jpg?1789127661",
+    "date": "2026-10-02",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{W}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Human Cleric",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "1"
+  },
   "Proctor's Gaze": {
     "img": "https://cards.scryfall.io/large/front/b/1/b127d543-0a90-4af6-9410-94d5cd30389e.jpg?1783903636",
     "date": "2026-04-24",
@@ -291905,6 +292902,36 @@
       "U"
     ]
   },
+  "Proft, Consulting Detective": {
+    "img": "https://cards.scryfall.io/large/front/b/8/b8466593-40fe-4557-89b2-760c1c92087b.jpg?1789127178",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Detective",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "Proft, Sinister Mastermind": {
+    "img": "https://cards.scryfall.io/large/front/d/3/d36b0e06-cb82-4c48-bf35-e76f109116f6.jpg?1789127196",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Rogue",
+    "color_identity": [
+      "B"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
   "Progenitor Exarch": {
     "img": "https://cards.scryfall.io/large/front/f/8/f86f7d03-ce71-498d-9dc5-2bd853ac0eae.jpg?1783917051",
     "date": "2023-04-21",
@@ -292222,6 +293249,19 @@
     "mana_cost": "{W}",
     "cmc": 1,
     "type_line": "Sorcery",
+    "color_identity": [
+      "W"
+    ]
+  },
+  "Prophesied End": {
+    "img": "https://cards.scryfall.io/large/front/1/f/1f95399a-9766-4f3d-aa6a-ece55e0530d9.jpg?1788951920",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
     "color_identity": [
       "W"
     ]
@@ -292727,6 +293767,19 @@
     ],
     "power": "5",
     "toughness": "5"
+  },
+  "Protege's Awakening": {
+    "img": "https://cards.scryfall.io/large/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.jpg?1788878176",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U"
+    ]
   },
   "Proteus Machine": {
     "img": "https://cards.scryfall.io/large/front/d/1/d1c8cff1-b289-41a4-9fa3-cc5e7ba70802.jpg?1783944862",
@@ -294418,7 +295471,7 @@
     ]
   },
   "Puppeteer Clique": {
-    "img": "https://cards.scryfall.io/large/front/6/f/6ff839e1-6f76-4a24-a87c-d4589b1abf66.jpg?1783942753",
+    "img": "https://cards.scryfall.io/large/front/6/f/6ff839e1-6f76-4a24-a87c-d4589b1abf66.jpg?1789037466",
     "date": "2008-05-02",
     "colors": [
       "B"
@@ -301496,6 +302549,21 @@
     ],
     "power": "1",
     "toughness": "1"
+  },
+  "Rampart Hunter": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f4a80225-7459-4151-86bb-8fdea31c39a6.jpg?1789127211",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Horror",
+    "color_identity": [
+      "B"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Rampart Smasher": {
     "img": "https://cards.scryfall.io/large/front/2/f/2fb9a632-a56b-48fb-bc24-14572b6a8a55.jpg?1783932589",
@@ -309734,6 +310802,21 @@
       "R"
     ]
   },
+  "Repurposed Enforcer": {
+    "img": "https://cards.scryfall.io/large/front/a/c/ac0bd1be-36cb-483f-9c47-2714e534cb6c.jpg?1788878316",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Soldier",
+    "color_identity": [
+      "W"
+    ],
+    "power": "3",
+    "toughness": "2"
+  },
   "Repurposing Bay": {
     "img": "https://cards.scryfall.io/large/front/5/2/5277eeef-50af-4654-9216-caf0c37c27d7.jpg?1783907784",
     "date": "2025-02-14",
@@ -310967,6 +312050,19 @@
       "W"
     ]
   },
+  "Restore with Empathy": {
+    "img": "https://cards.scryfall.io/large/front/3/5/3546b93b-a7d1-451d-a369-22cc8ddcd00d.jpg?1788865848",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "G"
+    ]
+  },
   "Restore": {
     "img": "https://cards.scryfall.io/large/front/a/8/a8664e35-a0bf-4df7-8530-91d2f7dfcc0a.jpg?1783939656",
     "date": "2013-11-01",
@@ -311610,6 +312706,19 @@
     "type_line": "Instant",
     "color_identity": [
       "G"
+    ]
+  },
+  "Return to the Light Realms": {
+    "img": "https://cards.scryfall.io/large/front/c/0/c0d25cd5-1977-4303-b83c-0dd415c13077.jpg?1788878309",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{7}{W}{W}",
+    "cmc": 9,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
     ]
   },
   "Return to the Ranks": {
@@ -312504,6 +313613,19 @@
     "type_line": "Enchantment — Plan",
     "color_identity": [
       "U"
+    ]
+  },
+  "Rewrite Regrets": {
+    "img": "https://cards.scryfall.io/large/front/4/5/453cfde7-c460-4b55-9472-b714e16f24bb.jpg?1788952087",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
     ]
   },
   "Rex, Cyber-Hound": {
@@ -321901,6 +323023,36 @@
     ],
     "power": "1",
     "toughness": "1"
+  },
+  "Ruric Thar, Biomagus": {
+    "img": "https://cards.scryfall.io/large/front/0/0/00af4e87-5576-4a43-9422-4c35b2b66775.jpg?1789127229",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Ogre Crab Wizard",
+    "color_identity": [
+      "U"
+    ],
+    "power": "4",
+    "toughness": "6"
+  },
+  "Ruric Thar, Magecrusher": {
+    "img": "https://cards.scryfall.io/large/front/e/e/eed83302-dc2c-45f4-a4bd-af9da51edef5.jpg?1789090438",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{5}{G}{G}",
+    "cmc": 7,
+    "type_line": "Legendary Creature — Ogre Warrior",
+    "color_identity": [
+      "G"
+    ],
+    "power": "7",
+    "toughness": "7"
   },
   "Ruric Thar, the Unbowed": {
     "img": "https://cards.scryfall.io/large/front/8/4/84dd3586-7c3b-4f9c-a1eb-7745b75339b0.jpg?1783940022",
@@ -336381,6 +337533,22 @@
     "type_line": "Artifact",
     "color_identity": []
   },
+  "Semester Foreseer // Peer Review": {
+    "img": "https://cards.scryfall.io/large/front/7/e/7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41.jpg?1789127516",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U} // {2}{W/U}",
+    "cmc": 4,
+    "type_line": "Creature — Human Wizard // Sorcery",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "4"
+  },
   "Semester's End": {
     "img": "https://cards.scryfall.io/large/front/e/f/ef4743f7-28db-4d72-bfce-09cfbe413514.jpg?1783927387",
     "date": "2021-04-23",
@@ -341201,6 +342369,21 @@
     "color_identity": [
       "R"
     ]
+  },
+  "Shatterwing Pegasus": {
+    "img": "https://cards.scryfall.io/large/front/e/2/e29095de-59ec-4562-ba8e-73f952e457ae.jpg?1789271761",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Pegasus",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Shauku's Minion": {
     "img": "https://cards.scryfall.io/large/front/6/e/6e9743dc-031b-4932-80a6-1c8ec1dea069.jpg?1783947048",
@@ -346353,6 +347536,19 @@
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "type_line": "Instant",
+    "color_identity": [
+      "B"
+    ]
+  },
+  "Silence the Echo": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f1d274db-751b-4414-a38d-762198168e91.jpg?1789274131",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
     "color_identity": [
       "B"
     ]
@@ -356566,6 +357762,23 @@
     "power": "0",
     "toughness": "0"
   },
+  "Solarium Sentry": {
+    "img": "https://cards.scryfall.io/large/front/8/6/860263c1-f8d9-4557-a068-6e17ef555f0c.jpg?1789127820",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{G}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Cat Soldier",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Sold Out": {
     "img": "https://cards.scryfall.io/large/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1783904965",
     "date": "2025-11-21",
@@ -356804,7 +358017,7 @@
     ]
   },
   "Solemn Recruit": {
-    "img": "https://cards.scryfall.io/large/front/5/9/5990c2f1-94d7-4d2e-b1ad-6406c25b91aa.jpg?1783936776",
+    "img": "https://cards.scryfall.io/large/front/5/9/5990c2f1-94d7-4d2e-b1ad-6406c25b91aa.jpg?1788982109",
     "date": "2017-01-20",
     "colors": [
       "W"
@@ -356923,7 +358136,7 @@
     "toughness": "2"
   },
   "Solitary Cell": {
-    "img": "https://cards.scryfall.io/large/front/5/1/5142bbb6-194c-4b12-b11a-1a21c9fe81a6.jpg?1788260690",
+    "img": "https://cards.scryfall.io/large/front/b/7/b7e8929c-416e-4649-9147-ec88001c6c1c.jpg?1788878334",
     "date": "2026-10-02",
     "colors": [
       "R",
@@ -357195,6 +358408,19 @@
     "power": "2",
     "toughness": "2"
   },
+  "Solve for Disappointment": {
+    "img": "https://cards.scryfall.io/large/front/7/b/7beaa8c9-1a2c-4c88-b579-91e371d8d9e3.jpg?1788878155",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Solve the Equation": {
     "img": "https://cards.scryfall.io/large/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
     "date": "2021-04-23",
@@ -357327,6 +358553,19 @@
     ],
     "power": "1",
     "toughness": "1"
+  },
+  "Something Worth Saving": {
+    "img": "https://cards.scryfall.io/large/front/0/2/02ee7817-40af-4fcf-a2df-eb218b669281.jpg?1788878199",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "G"
+    ]
   },
   "Somnomancer": {
     "img": "https://cards.scryfall.io/large/front/e/a/eaf51122-fd7c-40b5-b759-65e21c28e3d6.jpg?1783942735",
@@ -362496,6 +363735,21 @@
     ],
     "power": "5",
     "toughness": "5"
+  },
+  "Sphinx of False Conclusions": {
+    "img": "https://cards.scryfall.io/large/front/a/6/a62e9d0c-a802-4a14-9627-d784d6694375.jpg?1789274477",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Sphinx Illusion",
+    "color_identity": [
+      "U"
+    ],
+    "power": "4",
+    "toughness": "2"
   },
   "Sphinx of Foresight": {
     "img": "https://cards.scryfall.io/large/front/c/f/cf2386fd-edc0-4731-8f4e-7a7c45548bf3.jpg?1783933703",
@@ -371047,6 +372301,21 @@
     ],
     "power": "2",
     "toughness": "5"
+  },
+  "Stingerquill Charm": {
+    "img": "https://cards.scryfall.io/large/front/8/1/81733ff7-e611-43ee-bf38-6bb700676017.jpg?1789127652",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{B}{R}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "B",
+      "R"
+    ]
   },
   "Stingerquill Voxmancer // Vicious Verse": {
     "img": "https://cards.scryfall.io/large/front/8/4/84b1c268-3b8a-41b6-92e3-a2ce0cc3d738.jpg?1788329418",
@@ -379749,6 +381018,19 @@
       "B"
     ]
   },
+  "Surgical Precision": {
+    "img": "https://cards.scryfall.io/large/front/d/3/d3acf176-ef02-4729-88c4-0f0dfbfdada4.jpg?1789271794",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Surgical Skullbomb": {
     "img": "https://cards.scryfall.io/large/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1783917986",
     "date": "2023-02-10",
@@ -380088,6 +381370,21 @@
       "U"
     ],
     "power": "3",
+    "toughness": "3"
+  },
+  "Surveillance Phantasm": {
+    "img": "https://cards.scryfall.io/large/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.jpg?1789273544",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Bird Illusion",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
     "toughness": "3"
   },
   "Surveillance Room": {
@@ -384984,6 +386281,21 @@
     ],
     "power": "2",
     "toughness": "3"
+  },
+  "Tam's Resistance": {
+    "img": "https://cards.scryfall.io/large/front/b/3/b3d33df2-a77b-4c2e-ba7f-2cc9c1505f9b.jpg?1788878215",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{1}{G/U}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "G",
+      "U"
+    ]
   },
   "Tam, Mindful First-Year": {
     "img": "https://cards.scryfall.io/large/front/c/a/ca89fb7a-5575-4875-80d3-6a05f78ea65e.jpg?1783904357",
@@ -390650,6 +391962,19 @@
     "power": "2",
     "toughness": "2"
   },
+  "Tethermage's Advantage": {
+    "img": "https://cards.scryfall.io/large/front/3/8/38589a7c-9cfb-4bcc-845e-9dc205095853.jpg?1789129937",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "color_identity": [
+      "G"
+    ]
+  },
   "Tethmos High Priest": {
     "img": "https://cards.scryfall.io/large/front/d/9/d901b9d7-6af9-40ce-afb7-d3c9f9143c18.jpg?1783939452",
     "date": "2014-05-02",
@@ -390690,6 +392015,21 @@
     ],
     "power": "1",
     "toughness": "3"
+  },
+  "Tetsuko Umezawa, Pursuer": {
+    "img": "https://cards.scryfall.io/large/front/d/f/df818900-ce5e-4b0d-a927-c975cbef7eda.jpg?1789128002",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Mercenary",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "4"
   },
   "Tetsuo Umezawa": {
     "img": "https://cards.scryfall.io/large/front/8/3/8384f87b-26c2-45b7-98ef-352c384f205e.jpg?1783948032",
@@ -391378,6 +392718,21 @@
     ],
     "power": "3",
     "toughness": "2"
+  },
+  "Thalia, the Survivor": {
+    "img": "https://cards.scryfall.io/large/front/c/e/ce080177-aff6-41f2-b76b-c735701e6e98.jpg?1789127777",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Soldier",
+    "color_identity": [
+      "W"
+    ],
+    "power": "3",
+    "toughness": "4"
   },
   "Thalisse, Reverent Medium": {
     "img": "https://cards.scryfall.io/large/front/e/4/e4899773-c501-45e5-bf1f-8d818788d61f.jpg?1783928634",
@@ -392836,6 +394191,15 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "The Echoverse Fulcrum": {
+    "img": "https://cards.scryfall.io/large/front/d/7/d71d250f-c0e0-44b2-877c-76f3bcab4f34.jpg?1789272586",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact",
+    "color_identity": []
   },
   "The Eighth Doctor": {
     "img": "https://cards.scryfall.io/large/front/d/9/d99bf3d7-732c-4e1b-972a-efd49d2b3725.jpg?1783914397",
@@ -396694,6 +398058,47 @@
     "cmc": 3,
     "type_line": "Instant",
     "color_identity": [
+      "U"
+    ]
+  },
+  "Theorist's Proxy": {
+    "img": "https://cards.scryfall.io/large/front/a/4/a46d570d-2abb-4270-87bc-b4b3baf5ed3b.jpg?1788878316",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Illusion",
+    "color_identity": [
+      "U"
+    ],
+    "power": "0",
+    "toughness": "3"
+  },
+  "Theorist's Sanctum": {
+    "img": "https://cards.scryfall.io/large/front/e/8/e8f607b3-f37c-49e7-8eb8-a14b2153f30e.jpg?1788878342",
+    "date": "2026-10-02",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Island",
+    "color_identity": [
+      "U"
+    ]
+  },
+  "Theorix Charm": {
+    "img": "https://cards.scryfall.io/large/front/9/8/984491e5-4005-42d4-b144-29a87e388f15.jpg?1789127828",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{U}{B}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "B",
       "U"
     ]
   },
@@ -414331,6 +415736,23 @@
       "B"
     ]
   },
+  "Uldaros Theorix": {
+    "img": "https://cards.scryfall.io/large/front/c/6/c6b00951-3f30-4846-b5fa-1f1d45dfd340.jpg?1788915633",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{3}{U}{B}{B}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Elder Sphinx",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
   "Ulna Alley Shopkeep": {
     "img": "https://cards.scryfall.io/large/front/c/2/c25e1ae5-f17c-4eee-98f1-5681981af31c.jpg?1783903673",
     "date": "2026-04-24",
@@ -426458,6 +427880,21 @@
     "power": "6",
     "toughness": "6"
   },
+  "Vigorbloom Charm": {
+    "img": "https://cards.scryfall.io/large/front/8/f/8f273559-b6af-4dc1-9980-b132988c68b1.jpg?1789127830",
+    "date": "2026-10-02",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{G}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
   "Vigorbloom Vanguard // Seed Suture": {
     "img": "https://cards.scryfall.io/large/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423",
     "date": "2026-10-02",
@@ -427013,6 +428450,21 @@
     "power": "5",
     "toughness": "5"
   },
+  "Vindictive Triumph": {
+    "img": "https://cards.scryfall.io/large/front/a/8/a803dbe7-153a-4e92-ad4d-c2babebe003d.jpg?1789127665",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{W}{B}{B}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
   "Vindictive Vampire": {
     "img": "https://cards.scryfall.io/large/front/1/0/10276bc4-9640-48e0-9a88-034eee288e9e.jpg?1783913229",
     "date": "2019-01-25",
@@ -427291,6 +428743,19 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Violent Echoes": {
+    "img": "https://cards.scryfall.io/large/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.jpg?1789127599",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4,
+    "type_line": "Instant",
+    "color_identity": [
+      "R"
+    ]
   },
   "Violent Eruption": {
     "img": "https://cards.scryfall.io/large/front/f/f/ff19c870-331d-4703-a92d-c5b1d4289338.jpg?1783945144",
@@ -431554,6 +433019,19 @@
       "B"
     ]
   },
+  "Vraska's Final Mercy": {
+    "img": "https://cards.scryfall.io/large/front/c/9/c9535252-1a05-4d3a-98e1-54bfd7832ce4.jpg?1789272691",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Vraska's Finisher": {
     "img": "https://cards.scryfall.io/large/front/f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1783933435",
     "date": "2019-05-03",
@@ -431668,6 +433146,25 @@
       "B"
     ]
   },
+  "Vraska, Soul of Stone": {
+    "img": "https://cards.scryfall.io/large/front/f/3/f3869752-eade-4e7a-8dd1-68cafb9e10be.jpg?1789128008",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{U}{R}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Gorgon Wizard",
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Vraska, Swarm's Eminence": {
     "img": "https://cards.scryfall.io/large/front/5/9/59ee2974-07e9-4506-903c-457cb7327dd8.jpg?1783933375",
     "date": "2019-05-03",
@@ -431682,6 +433179,23 @@
       "B",
       "G"
     ]
+  },
+  "Vraska, the Cutting Glare": {
+    "img": "https://cards.scryfall.io/large/front/9/e/9e80737c-c228-4a69-acd8-c8bb2f6d8bd0.jpg?1789127798",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{B}{B}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Gorgon Assassin",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "power": "4",
+    "toughness": "4"
   },
   "Vraska, the Silencer": {
     "img": "https://cards.scryfall.io/large/front/b/0/b042abf2-c40b-4235-a4fa-2e4901c375c3.jpg?1783911782",
@@ -435793,6 +437307,21 @@
     "power": "2",
     "toughness": "2"
   },
+  "Warrior's Blades": {
+    "img": "https://cards.scryfall.io/large/front/c/6/c63d5b0e-ee72-42ed-aa7e-484ba84507cd.jpg?1789007648",
+    "date": "2026-10-02",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4,
+    "type_line": "Artifact — Equipment",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
   "Warrior's Charge": {
     "img": "https://cards.scryfall.io/large/front/9/2/9279d545-28b7-41c5-bb88-6dc4bbbcd71f.jpg?1783946845",
     "date": "1997-05-01",
@@ -437218,6 +438747,71 @@
     "power": "2",
     "toughness": "2"
   },
+  "Way of the Cryomancer": {
+    "img": "https://cards.scryfall.io/large/front/8/3/838b0efb-7398-4df9-8fdf-b8af43b47938.jpg?1789014637",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "U"
+    ]
+  },
+  "Way of the Deathbringer": {
+    "img": "https://cards.scryfall.io/large/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.jpg?1789112609",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "B"
+    ]
+  },
+  "Way of the Healer": {
+    "img": "https://cards.scryfall.io/large/front/5/0/50326a2a-7e10-464b-a97e-e880bda0558c.jpg?1789128071",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "W"
+    ]
+  },
+  "Way of the Necromancer": {
+    "img": "https://cards.scryfall.io/large/front/a/0/a0ff9689-ea49-4fff-b37c-4abbaeb0f73d.jpg?1789112679",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "B"
+    ]
+  },
+  "Way of the Pyromancer": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "R"
+    ]
+  },
   "Way of the Thief": {
     "img": "https://cards.scryfall.io/large/front/b/2/b249ca81-bd8d-4d3d-81d6-15e8d669c416.jpg?1783940133",
     "date": "2013-02-01",
@@ -437229,6 +438823,19 @@
     "type_line": "Enchantment — Aura",
     "color_identity": [
       "U"
+    ]
+  },
+  "Way of the Wildspeaker": {
+    "img": "https://cards.scryfall.io/large/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.jpg?1789112663",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Enchantment",
+    "color_identity": [
+      "G"
     ]
   },
   "Wayfarer's Bauble": {
@@ -439334,6 +440941,23 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Whiplash Wordsmith // Vicious Verse": {
+    "img": "https://cards.scryfall.io/large/front/8/0/8096bc9a-a610-448f-bef2-7230e17e9777.jpg?1789127692",
+    "date": "2026-10-02",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{3}{B/R} // {B/R}",
+    "cmc": 4,
+    "type_line": "Creature — Vampire Sorcerer // Sorcery",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Whiplash, Vengeful Engineer": {
     "img": "https://cards.scryfall.io/large/front/6/f/6f6e6767-4d20-469c-9f4b-7286b8cc1979.jpg?1783902935",
@@ -443610,6 +445234,36 @@
     "power": "3",
     "toughness": "4"
   },
+  "Winter, Team Player": {
+    "img": "https://cards.scryfall.io/large/front/e/8/e8d2c13b-d3b5-4f4c-825d-857710c4db76.jpg?1789036011",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Human Warrior",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
+  "Winter, Tormented Loner": {
+    "img": "https://cards.scryfall.io/large/front/9/6/9670f754-f41f-45ac-8e8b-025ad2c0f66b.jpg?1789127724",
+    "date": "2026-10-02",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Warlock",
+    "color_identity": [
+      "B"
+    ],
+    "power": "0",
+    "toughness": "3"
+  },
   "Winterflame": {
     "img": "https://cards.scryfall.io/large/front/b/8/b8924ab9-fa55-4348-b67d-b2b9e48a357a.jpg?1783939050",
     "date": "2014-09-26",
@@ -447076,6 +448730,19 @@
       "U"
     ]
   },
+  "Wrath of the Bloodmane": {
+    "img": "https://cards.scryfall.io/large/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.jpg?1789271847",
+    "date": "2026-10-02",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "R"
+    ]
+  },
   "Wrath of the Skies": {
     "img": "https://cards.scryfall.io/large/front/7/3/7325714a-bd27-4215-9826-3785089ffa23.jpg?1783911176",
     "date": "2024-06-14",
@@ -447264,6 +448931,21 @@
       "R"
     ],
     "power": "4",
+    "toughness": "5"
+  },
+  "Wrecking Gecko": {
+    "img": "https://cards.scryfall.io/large/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+    "date": "2026-10-02",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}",
+    "cmc": 5,
+    "type_line": "Artifact Creature — Lizard Construct",
+    "color_identity": [
+      "G"
+    ],
+    "power": "5",
     "toughness": "5"
   },
   "Wrecking Ogre": {
@@ -448612,6 +450294,21 @@
     ],
     "power": "9",
     "toughness": "3"
+  },
+  "Yargle, Goliath of Otaria": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.jpg?1789128043",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{4}{U}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Frog Spirit",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "9"
   },
   "Yarok's Fenlurker": {
     "img": "https://cards.scryfall.io/large/front/1/6/16b122f8-fcd9-4b2a-92f6-f0ed7307ff58.jpg?1783932986",
@@ -450290,6 +451987,36 @@
     ],
     "power": "3",
     "toughness": "5"
+  },
+  "Yuriko, Blade of the Mighty": {
+    "img": "https://cards.scryfall.io/large/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047",
+    "date": "2026-10-02",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Samurai",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
+  "Yuriko, Hope from the Shadows": {
+    "img": "https://cards.scryfall.io/large/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717",
+    "date": "2026-10-02",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Legendary Creature — Human Ninja",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "1"
   },
   "Yuriko, the Tiger's Shadow": {
     "img": "https://cards.scryfall.io/large/front/3/b/3bd81ae6-e628-447a-a36b-597e63ede295.jpg?1783934325",
