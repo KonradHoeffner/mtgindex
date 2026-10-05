@@ -6581,15 +6581,6 @@ var mtgindex =
       "W"
     ]
   },
-  "Ajani Resolute Emblem": {
-    "img": "https://cards.scryfall.io/large/front/5/9/595a628e-218b-4df2-8bd2-d84ad22d302f.jpg?1789735284",
-    "date": "2026-10-02",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Emblem",
-    "color_identity": []
-  },
   "Ajani Resolute": {
     "img": "https://cards.scryfall.io/large/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1788329189",
     "date": "2026-10-02",
@@ -27192,7 +27183,7 @@ var mtgindex =
     ]
   },
   "Baeloth Barrityl, Entertainer": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec983aac-9eda-4086-ad7e-34da9b2987cc.jpg?1783922513",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec983aac-9eda-4086-ad7e-34da9b2987cc.jpg?1790748156",
     "date": "2022-06-10",
     "colors": [
       "R"
@@ -62593,15 +62584,6 @@ var mtgindex =
       "R"
     ]
   },
-  "Chandra, Chill of Compliance Emblem": {
-    "img": "https://cards.scryfall.io/large/front/c/e/ce0ece65-ba13-4243-b343-b4da443fceff.jpg?1789735299",
-    "date": "2026-10-02",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Emblem",
-    "color_identity": []
-  },
   "Chandra, Chill of Compliance": {
     "img": "https://cards.scryfall.io/large/front/5/4/549cd466-d726-4ac9-a9e8-c1cd3ecda998.jpg?1788329465",
     "date": "2026-10-02",
@@ -62801,15 +62783,6 @@ var mtgindex =
     "color_identity": [
       "R"
     ]
-  },
-  "Chandra, Torch of Defiance Emblem": {
-    "img": "https://cards.scryfall.io/large/front/5/f/5fdc53ba-e023-4ee4-bb14-fd8c52955ee9.jpg?1789735329",
-    "date": "2026-10-02",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Emblem — Chandra",
-    "color_identity": []
   },
   "Chandra, Torch of Defiance": {
     "img": "https://cards.scryfall.io/large/front/f/f/ff8086cd-b868-4f4e-823e-2635ad7ebc07.jpg?1783937196",
@@ -111481,7 +111454,7 @@ var mtgindex =
     ]
   },
   "Ebony Fly": {
-    "img": "https://cards.scryfall.io/large/front/7/f/7f11245d-9e80-42b0-b371-21e990a2e6ef.jpg?1783926235",
+    "img": "https://cards.scryfall.io/large/front/7/f/7f11245d-9e80-42b0-b371-21e990a2e6ef.jpg?1790748070",
     "date": "2021-07-23",
     "colors": [],
     "mana_cost": "{2}",
@@ -117790,7 +117763,7 @@ var mtgindex =
     "toughness": "15"
   },
   "Emrakul, the Exigent Doom": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7fc8ddd-e165-4539-91c8-8af0e3f2b67e.jpg?1790137298",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7fc8ddd-e165-4539-91c8-8af0e3f2b67e.jpg?1790829851",
     "date": "2026-10-02",
     "colors": [],
     "mana_cost": "{10}",
@@ -121406,7 +121379,7 @@ var mtgindex =
     "toughness": "4"
   },
   "Eshki, Temur's Roar": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff9aa863-8773-452d-946c-ae334c632e11.jpg?1790528727",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff9aa863-8773-452d-946c-ae334c632e11.jpg?1790528795",
     "date": "2025-04-11",
     "colors": [
       "G",
@@ -164352,7 +164325,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Grave Endeavor": {
-    "img": "https://cards.scryfall.io/large/front/5/a/5a6b3500-45e7-4e8b-addc-e5c4914b6f1b.jpg?1783926130",
+    "img": "https://cards.scryfall.io/large/front/5/a/5a6b3500-45e7-4e8b-addc-e5c4914b6f1b.jpg?1790748103",
     "date": "2021-07-23",
     "colors": [
       "B"
@@ -272327,7 +272300,7 @@ var mtgindex =
     "toughness": "3"
   },
   "Omnipresence": {
-    "img": "https://cards.scryfall.io/large/front/e/a/eaf9dc77-c83b-49cf-84be-6bd791cb925e.jpg?1789470856",
+    "img": "https://cards.scryfall.io/large/front/e/a/eaf9dc77-c83b-49cf-84be-6bd791cb925e.jpg?1790558797",
     "date": "2026-10-02",
     "colors": [
       "G"
@@ -287769,7 +287742,7 @@ var mtgindex =
     ]
   },
   "Plan for All Outcomes": {
-    "img": "https://cards.scryfall.io/large/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+    "img": "https://cards.scryfall.io/large/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1790746542",
     "date": "2026-10-02",
     "colors": [
       "U"
@@ -294963,7 +294936,7 @@ var mtgindex =
     "toughness": "5"
   },
   "Protege's Awakening": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.jpg?1788878176",
+    "img": "https://cards.scryfall.io/large/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.jpg?1790558750",
     "date": "2026-10-02",
     "colors": [
       "U"
@@ -314710,7 +314683,7 @@ var mtgindex =
     ]
   },
   "Revivify": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dded0b4a-40b2-4576-be10-9b34e98927f6.jpg?1783926137",
+    "img": "https://cards.scryfall.io/large/front/d/d/dded0b4a-40b2-4576-be10-9b34e98927f6.jpg?1790748123",
     "date": "2021-07-23",
     "colors": [
       "W"
@@ -397625,15 +397598,6 @@ var mtgindex =
     "type_line": "Legendary Artifact",
     "color_identity": []
   },
-  "The Monarch": {
-    "img": "https://cards.scryfall.io/large/front/8/c/8c82a25a-8896-44ff-9897-5dbeabdf8f8b.jpg?1789754507",
-    "date": "2026-10-02",
-    "colors": [],
-    "mana_cost": "",
-    "cmc": 0,
-    "type_line": "Card",
-    "color_identity": []
-  },
   "The Monumental Facade": {
     "img": "https://cards.scryfall.io/large/front/d/6/d6785057-0d06-4f91-b45f-c05f7c4e2b19.jpg?1783917980",
     "date": "2023-02-10",
@@ -430374,7 +430338,7 @@ var mtgindex =
     "toughness": "5"
   },
   "Vindictive Triumph": {
-    "img": "https://cards.scryfall.io/large/front/a/8/a803dbe7-153a-4e92-ad4d-c2babebe003d.jpg?1789127665",
+    "img": "https://cards.scryfall.io/large/front/a/8/a803dbe7-153a-4e92-ad4d-c2babebe003d.jpg?1790558815",
     "date": "2026-10-02",
     "colors": [
       "B",
