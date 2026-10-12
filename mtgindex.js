@@ -72514,7 +72514,7 @@ var mtgindex =
     "toughness": "2"
   },
   "Compel Brutality": {
-    "img": "https://cards.scryfall.io/large/front/b/d/bd32d736-7a58-46b9-90b4-2cac3c3e80a1.jpg?1788521235",
+    "img": "https://cards.scryfall.io/large/front/e/8/e8f47203-40a9-4a2c-8440-c0354f894c61.jpg?1791158470",
     "date": "2026-10-02",
     "colors": [
       "G"
@@ -86598,6 +86598,16 @@ var mtgindex =
     "color_identity": [
       "B",
       "G"
+    ]
+  },
+  "Darkchild, Demon Uncaged": {
+    "img": "https://cards.scryfall.io/large/back/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412",
+    "date": "2027-04-09",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Mutant Sorcerer Hero // Legendary Creature — Mutant Demon Sorcerer",
+    "color_identity": [
+      "B",
+      "R"
     ]
   },
   "Darkest Hour": {
@@ -147593,7 +147603,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Gallia, the Merrymaker": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1789385716",
+    "img": "https://cards.scryfall.io/large/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1791192275",
     "date": "2026-10-02",
     "colors": [
       "R"
@@ -148401,6 +148411,23 @@ var mtgindex =
     ],
     "power": "7",
     "toughness": "5"
+  },
+  "Gargantos, the Endbringer": {
+    "img": "https://cards.scryfall.io/large/front/6/0/60b48730-3590-4c8c-b0e8-6007bb36d6b6.jpg?1791578335",
+    "date": "2027-04-09",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{2}{B}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Elder God Horror",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "power": "0",
+    "toughness": "0"
   },
   "Gargantuan Gorilla": {
     "img": "https://cards.scryfall.io/large/front/4/9/49f367c2-f47e-43e1-9936-4324be664475.jpg?1783947172",
@@ -161009,6 +161036,15 @@ var mtgindex =
     "color_identity": [
       "R"
     ]
+  },
+  "God Pack Celebration Card": {
+    "img": "https://cards.scryfall.io/large/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+    "date": "2027-02-05",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Card",
+    "color_identity": []
   },
   "God-Eternal Bontu": {
     "img": "https://cards.scryfall.io/large/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1783933445",
@@ -177255,6 +177291,34 @@ var mtgindex =
     ],
     "power": "2",
     "toughness": "3"
+  },
+  "Hela's Arcanum": {
+    "img": "https://cards.scryfall.io/large/front/7/3/738f0bc9-075c-45de-a1c3-7509b8bdb55b.jpg?1791578373",
+    "date": "2027-04-09",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5,
+    "type_line": "Instant — Arcane",
+    "color_identity": [
+      "B"
+    ]
+  },
+  "Hela, Mistress of Darkness // Dark Tutor": {
+    "img": "https://cards.scryfall.io/large/front/7/7/7750d4bb-0463-43fd-bdf3-a14271cace20.jpg?1791578367",
+    "date": "2027-04-09",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{4}{B}{B} // {1}{B}{B}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — God Sorcerer Villain // Sorcery — Vengeance",
+    "color_identity": [
+      "B"
+    ],
+    "power": "6",
+    "toughness": "6"
   },
   "Helbrute": {
     "img": "https://cards.scryfall.io/large/front/f/9/f9054599-f6ea-43e2-81ff-7d118e878ba1.jpg?1783920847",
@@ -200696,7 +200760,7 @@ var mtgindex =
     ]
   },
   "Jaws, Relentless Predator": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1785419997",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750",
     "date": "2025-10-13",
     "colors": [
       "R"
@@ -232689,6 +232753,16 @@ var mtgindex =
       "U"
     ]
   },
+  "Magik, Illyana Rasputin": {
+    "img": "https://cards.scryfall.io/large/front/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412",
+    "date": "2027-04-09",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Mutant Sorcerer Hero // Legendary Creature — Mutant Demon Sorcerer",
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
   "Magister Sphinx": {
     "img": "https://cards.scryfall.io/large/front/c/d/cd2abff9-6927-42cc-8cf1-a0876d3a45d7.jpg?1783942467",
     "date": "2009-02-06",
@@ -250930,7 +251004,7 @@ var mtgindex =
     "toughness": "1"
   },
   "Molecular Modifier": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7b80b9c9-a871-4c04-b8be-feb81a900591.jpg?1783905951",
+    "img": "https://cards.scryfall.io/large/front/7/b/7b80b9c9-a871-4c04-b8be-feb81a900591.jpg?1791344865",
     "date": "2025-08-01",
     "colors": [
       "R"
@@ -281874,6 +281948,19 @@ var mtgindex =
     "type_line": "Enchantment — Aura",
     "color_identity": [
       "U"
+    ]
+  },
+  "Penance Stare": {
+    "img": "https://cards.scryfall.io/large/front/7/0/7082199e-318e-4e4e-9102-61e79af8a10c.jpg?1791578351",
+    "date": "2027-04-09",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "color_identity": [
+      "W"
     ]
   },
   "Penance": {
@@ -317449,6 +317536,19 @@ var mtgindex =
       "B"
     ]
   },
+  "Rise from the Nether": {
+    "img": "https://cards.scryfall.io/large/front/b/c/bccc5d74-f9bf-4a75-9a45-e2a32f5651f1.jpg?1791578381",
+    "date": "2027-04-09",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{6}{R}",
+    "cmc": 7,
+    "type_line": "Sorcery — Arcane",
+    "color_identity": [
+      "R"
+    ]
+  },
   "Rise from the Tides": {
     "img": "https://cards.scryfall.io/large/front/5/b/5bb13007-553d-420a-a26a-fc9522bba031.jpg?1783908018",
     "date": "2016-04-08",
@@ -327322,6 +327422,21 @@ var mtgindex =
     "type_line": "Sorcery",
     "color_identity": [
       "G"
+    ]
+  },
+  "Salvaged Imitations": {
+    "img": "https://cards.scryfall.io/large/front/c/2/c2f7c018-e93e-483b-8e5b-bbd2204c2247.jpg?1791637426",
+    "date": "2026-10-13",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{X}{R}{G}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "G",
+      "R"
     ]
   },
   "Salvaged Manaworker": {
@@ -391350,6 +391465,18 @@ var mtgindex =
       "U"
     ]
   },
+  "Temple of Khonshu": {
+    "img": "https://cards.scryfall.io/large/front/2/3/2369ddb5-fa0b-46a0-a393-f213ec86818d.jpg?1791578411",
+    "date": "2027-04-09",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
   "Temple of Malady": {
     "img": "https://cards.scryfall.io/large/front/f/3/f30220f1-1992-4b5c-9e13-1762fb673155.jpg?1783939398",
     "date": "2014-05-02",
@@ -395584,6 +395711,19 @@ var mtgindex =
     ],
     "power": "6",
     "toughness": "6"
+  },
+  "The Darkhold": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fca11cb7-0896-4927-8f11-0e9dec2de416.jpg?1791578360",
+    "date": "2027-04-09",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Artifact — Book",
+    "color_identity": [
+      "B"
+    ]
   },
   "The Darkness Crystal": {
     "img": "https://cards.scryfall.io/large/front/7/4/749f2041-0eb5-42c3-b9ac-05a7575cb693.jpg?1783906529",
