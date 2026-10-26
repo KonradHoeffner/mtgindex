@@ -1,4 +1,17 @@
 {
+  "\"Coastal Ren Faire\"": {
+    "img": "https://cards.scryfall.io/large/front/9/3/93b458aa-a928-48ef-b685-1306cc65ad06.jpg?1792758528",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "U"
+    ]
+  },
   "\"Lifetime\" Pass Holder": {
     "img": "https://cards.scryfall.io/large/front/f/e/fede7f75-0dff-4f3e-816d-e52b43e8b33b.jpg?1783920578",
     "date": "2022-10-07",
@@ -27,6 +40,21 @@
       "R"
     ],
     "power": "2",
+    "toughness": "2"
+  },
+  "\"Tinkerer (Not the Urza's Saga-er one)\"": {
+    "img": "https://cards.scryfall.io/large/front/6/d/6dc34d44-397a-4dda-a8e3-0c2ff7da110f.jpg?1792758438",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
     "toughness": "2"
   },
   "+2 Mace": {
@@ -3443,6 +3471,19 @@
     ],
     "mana_cost": "{G}",
     "cmc": 1,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "G"
+    ]
+  },
+  "Adversary by Algorithm": {
+    "img": "https://cards.scryfall.io/large/front/4/1/41644f06-d08f-406c-a56a-47e1b5273982.jpg?1792808652",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
     "type_line": "Sorcery",
     "color_identity": [
       "G"
@@ -8720,6 +8761,21 @@
       "W"
     ]
   },
+  "All Good Things...": {
+    "img": "https://cards.scryfall.io/large/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.jpg?1792753779",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{3}{G}{U}",
+    "cmc": 5,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
   "All Hallow's Eve": {
     "img": "https://cards.scryfall.io/large/front/1/8/18787a2d-6688-47e9-94bc-ccf229df823f.jpg?1783948069",
     "date": "1994-06-01",
@@ -11847,6 +11903,18 @@
       "W"
     ]
   },
+  "Andoria": {
+    "img": "https://cards.scryfall.io/large/front/0/e/0e9e72ef-3e34-4d19-aec0-b5e1ba84d244.jpg?1792632926",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
   "Andradite Leech": {
     "img": "https://cards.scryfall.io/large/front/6/d/6da0d4f3-9216-406c-8f3e-b9bb0a11dc75.jpg?1783945699",
     "date": "2000-10-02",
@@ -13925,6 +13993,21 @@
     "color_identity": [
       "R"
     ]
+  },
+  "Antagonist Incorporator": {
+    "img": "https://cards.scryfall.io/large/front/b/a/baeaac4a-a004-4a6d-842a-596cb148574b.jpg?1792668365",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Borg",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Antagonize": {
     "img": "https://cards.scryfall.io/large/front/8/b/8bac1d2a-99dd-40b3-8823-ce9225efcdcf.jpg?1783923123",
@@ -27278,6 +27361,18 @@
       "U"
     ]
   },
+  "Bajor": {
+    "img": "https://cards.scryfall.io/large/front/f/f/ff5254a6-4961-4604-b65b-2eb0ce9b1c82.jpg?1792632930",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
   "Bake into a Pie": {
     "img": "https://cards.scryfall.io/large/front/4/2/42a4d090-1bb7-4334-ab22-e2527391e79b.jpg?1783932645",
     "date": "2019-10-04",
@@ -30885,7 +30980,7 @@
     "toughness": "2"
   },
   "Bat'leth": {
-    "img": "https://cards.scryfall.io/large/front/8/8/888e6e0f-43c3-4516-88ff-8a8d814478d4.jpg?1785981448",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf6c66c7-4795-4ab0-be98-65c771a7ef01.jpg?1792508834",
     "date": "2026-11-13",
     "colors": [
       "B"
@@ -37915,6 +38010,21 @@
     ],
     "power": "5",
     "toughness": "5"
+  },
+  "Blastoneuron": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c1855a4c-c7d1-407c-b134-4c43968cbdd3.jpg?1792753729",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Jellyfish Leech",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Blatant Thievery": {
     "img": "https://cards.scryfall.io/large/front/8/2/8284476c-a7c8-4a6c-8021-ee997e9270ce.jpg?1783945087",
@@ -45405,6 +45515,23 @@
     "power": "2",
     "toughness": "1"
   },
+  "Borg Cube": {
+    "img": "https://cards.scryfall.io/large/front/e/5/e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc.jpg?1792508285",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{5}{W}{B}",
+    "cmc": 7,
+    "type_line": "Artifact — Spacecraft",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "power": "6",
+    "toughness": "6"
+  },
   "Borg Queen, Perfection Manifest": {
     "img": "https://cards.scryfall.io/large/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713",
     "date": "2026-11-13",
@@ -47268,6 +47395,19 @@
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "type_line": "Enchantment",
+    "color_identity": [
+      "G"
+    ]
+  },
+  "Branching Timeline": {
+    "img": "https://cards.scryfall.io/large/front/b/6/b65e91bf-565f-4fb1-b8e6-7a7cd57f84d6.jpg?1792892109",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{6}{G}{G}",
+    "cmc": 8,
+    "type_line": "Sorcery",
     "color_identity": [
       "G"
     ]
@@ -56146,6 +56286,25 @@
     "power": "3",
     "toughness": "1"
   },
+  "Captain Benjamin Sisko": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c1344601-3f86-4910-b5ad-d7e1e58d851d.jpg?1792508639",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Captain Howler, Sea Scourge": {
     "img": "https://cards.scryfall.io/large/front/d/b/db48629b-dc1b-4609-aea2-e4833f66d894.jpg?1783907776",
     "date": "2025-02-14",
@@ -56177,6 +56336,36 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Captain Jean-Luc Picard": {
+    "img": "https://cards.scryfall.io/large/front/b/7/b7114271-eb05-41e2-ad96-a34f53492312.jpg?1792508148",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
+  "Captain Jonathan Archer": {
+    "img": "https://cards.scryfall.io/large/front/a/a/aaaeeb0f-eb6f-41d6-be1f-7f8f14c4e82a.jpg?1792508934",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "G"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Captain Kathryn Janeway": {
     "img": "https://cards.scryfall.io/large/front/e/4/e40fe4b6-81c0-4822-9668-2dac7820dcb9.jpg?1784078601",
@@ -56289,6 +56478,21 @@
     "power": "6",
     "toughness": "6"
   },
+  "Captain Michael Burnham": {
+    "img": "https://cards.scryfall.io/large/front/e/1/e10d6d71-9360-4ecf-97c8-22afb22aaeb7.jpg?1792508221",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Captain N'ghathrod": {
     "img": "https://cards.scryfall.io/large/front/f/5/f512c364-9512-4566-aa96-4a2884ec6230.jpg?1783922523",
     "date": "2022-06-10",
@@ -56305,6 +56509,21 @@
     ],
     "power": "3",
     "toughness": "6"
+  },
+  "Captain Pike, Fullness of Time": {
+    "img": "https://cards.scryfall.io/large/front/7/4/743be4c4-5c91-42bb-9942-115e903041a9.jpg?1792508262",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer Scout",
+    "color_identity": [
+      "G"
+    ],
+    "power": "*",
+    "toughness": "*"
   },
   "Captain Rex Nebula": {
     "img": "https://cards.scryfall.io/large/front/a/f/af4d354e-0485-4469-9781-fe03c78c624a.jpg?1783920375",
@@ -56792,6 +57011,18 @@
     "type_line": "Instant",
     "color_identity": [
       "R"
+    ]
+  },
+  "Cardassia Prime": {
+    "img": "https://cards.scryfall.io/large/front/d/6/d634424f-9148-46a5-95e3-4965a9226bb4.jpg?1792632933",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "B",
+      "W"
     ]
   },
   "Careening Mine Cart": {
@@ -61123,6 +61354,21 @@
       "U"
     ]
   },
+  "Cetacean Ops": {
+    "img": "https://cards.scryfall.io/large/front/a/8/a8dc7ecd-e6f0-4050-9d5b-8436f60a1395.jpg?1792672912",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Whale Officer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Cetavolver": {
     "img": "https://cards.scryfall.io/large/front/6/9/69063cc2-4f6e-4cce-bb09-ccd57b69b993.jpg?1783945354",
     "date": "2001-06-04",
@@ -61156,7 +61402,7 @@
     "toughness": "2"
   },
   "Cha'DIch Investigator": {
-    "img": "https://cards.scryfall.io/large/front/1/6/16281200-4660-4871-afd2-d4720e6a3197.jpg?1785981461",
+    "img": "https://cards.scryfall.io/large/front/8/8/8888dc53-c16f-4894-8d0b-f86a33c41cf1.jpg?1792509189",
     "date": "2026-11-13",
     "colors": [
       "B"
@@ -68147,6 +68393,23 @@
     "power": "2",
     "toughness": "2"
   },
+  "Cleveland Booker, Empath": {
+    "img": "https://cards.scryfall.io/large/front/6/b/6b2e52e2-5cb9-4360-92d6-5c0d9e435d09.jpg?1792508285",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{2}{R/G}{R/G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Kwejian Rogue",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Clever Concealment": {
     "img": "https://cards.scryfall.io/large/front/f/b/fb2f33e3-8055-4fd1-a060-c0cacc091641.jpg?1783918145",
     "date": "2023-02-10",
@@ -70654,7 +70917,7 @@
     "color_identity": []
   },
   "Cold-Blooded Crew": {
-    "img": "https://cards.scryfall.io/large/front/4/f/4f2d1830-baea-4735-b029-cb8c0b538d83.jpg?1785981563",
+    "img": "https://cards.scryfall.io/large/front/9/3/934612d6-1809-46cf-a917-5a32718bddd2.jpg?1792509204",
     "date": "2026-11-13",
     "colors": [
       "G"
@@ -71810,6 +72073,15 @@
     "type_line": "Land",
     "color_identity": []
   },
+  "Command Chair": {
+    "img": "https://cards.scryfall.io/large/front/e/4/e46c4bbc-d4b3-44ae-bf91-cad01a66f302.jpg?1792507982",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{6}",
+    "cmc": 6,
+    "type_line": "Artifact",
+    "color_identity": []
+  },
   "Command Decision": {
     "img": "https://cards.scryfall.io/large/front/9/f/9f1f789b-5c08-4a4d-b3a3-4d51ad9f1a4d.jpg?1785981318",
     "date": "2026-11-13",
@@ -71835,6 +72107,21 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Command Subadjunct": {
+    "img": "https://cards.scryfall.io/large/front/f/5/f5435570-e78b-43cb-9b77-d80b92e07c2b.jpg?1792753908",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Artifact Creature — Borg",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "1"
   },
   "Command Tower": {
     "img": "https://cards.scryfall.io/large/front/e/c/ec750874-33fb-44d6-915e-ba0ece9bef74.jpg?1783910870",
@@ -71988,6 +72275,25 @@
     ],
     "power": "1",
     "toughness": "3"
+  },
+  "Commander Spock": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f496fdd1-fb95-4294-88de-336068400861.jpg?1792551010",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{2}{G}{W}{U}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Vulcan Human Scientist",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "5"
   },
   "Commander's Authority": {
     "img": "https://cards.scryfall.io/large/front/0/8/08ef4383-11e7-4426-a04a-058570f46e47.jpg?1783940740",
@@ -73594,6 +73900,19 @@
       "W"
     ]
   },
+  "Conquest Mission": {
+    "img": "https://cards.scryfall.io/large/front/f/9/f91755d7-6fb9-4caf-b4b4-f21ed5572d52.jpg?1792750872",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Conscripted Infantry": {
     "img": "https://cards.scryfall.io/large/front/f/5/f50b0449-8ff7-4549-893b-aeca93720c64.jpg?1783920071",
     "date": "2022-11-18",
@@ -73836,6 +74155,23 @@
     "color_identity": [
       "B"
     ]
+  },
+  "Constable Odo": {
+    "img": "https://cards.scryfall.io/large/front/c/0/c0d0b4ee-72f6-45b6-8911-e3ef979e40a0.jpg?1792508661",
+    "date": "2026-11-13",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{3}{W/U}{W/U}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Shapeshifter Detective",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "4",
+    "toughness": "3"
   },
   "Constable of the Realm": {
     "img": "https://cards.scryfall.io/large/front/7/3/73b5a0a5-5486-409a-b324-668ae03fc62a.jpg?1783926894",
@@ -84426,6 +84762,53 @@
     "power": "3",
     "toughness": "2"
   },
+  "D'Ghor Bloodletter": {
+    "img": "https://cards.scryfall.io/large/front/5/0/5075645d-ef69-4559-953e-c3140153bd75.jpg?1792753733",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Klingon Assassin",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "D'Vana Tendi, Optimistic Ensign": {
+    "img": "https://cards.scryfall.io/large/front/2/0/206239ca-341a-4f07-8149-a24ccf20ee45.jpg?1792508323",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{1}{G/U}{G/U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Orion Scientist",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "4"
+  },
+  "D-7 Battle Cruiser": {
+    "img": "https://cards.scryfall.io/large/front/a/3/a30e0582-b5de-40f0-a284-3251e4092eda.jpg?1792509155",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Artifact — Spacecraft",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "DOT-7 Repair Squad": {
     "img": "https://cards.scryfall.io/large/front/f/c/fca1528c-84cc-42d2-99ae-9f10f0e28743.jpg?1786005749",
     "date": "2026-11-13",
@@ -84652,6 +85035,21 @@
     ],
     "power": "0",
     "toughness": "0"
+  },
+  "Dahar Master": {
+    "img": "https://cards.scryfall.io/large/front/1/1/1122fe1c-97f7-409d-ad37-0fed46f9f963.jpg?1792590970",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Creature — Klingon Warrior",
+    "color_identity": [
+      "R"
+    ],
+    "power": "4",
+    "toughness": "3"
   },
   "Dai Li Agents": {
     "img": "https://cards.scryfall.io/large/front/9/d/9ddb8715-341b-400a-b6eb-f3f90518157c.jpg?1783904931",
@@ -84893,6 +85291,23 @@
     ],
     "power": "1",
     "toughness": "1"
+  },
+  "Dal R'El, Augment Orphan": {
+    "img": "https://cards.scryfall.io/large/front/0/d/0da52d3a-dd83-4662-8e6d-3f4d4d389c3d.jpg?1792508298",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Mutant Rogue",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Dalakos, Crafter of Wonders": {
     "img": "https://cards.scryfall.io/large/front/7/d/7dadfb33-7082-47b8-a498-f3bb963a8d78.jpg?1783931470",
@@ -85333,6 +85748,23 @@
     "color_identity": [
       "R"
     ]
+  },
+  "Daniels, Temporal Agent": {
+    "img": "https://cards.scryfall.io/large/front/b/6/b64dd792-7dc7-4d22-9776-9b9e25e1173d.jpg?1792508309",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{2}{B/G}{B/G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Advisor",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "power": "3",
+    "toughness": "1"
   },
   "Danitha Capashen, Paragon": {
     "img": "https://cards.scryfall.io/large/front/b/2/b2a2b53c-0bf2-4d3d-91c2-57a484ae4f6b.jpg?1783935047",
@@ -87106,6 +87538,21 @@
     ],
     "power": "2",
     "toughness": "5"
+  },
+  "Data, New Life": {
+    "img": "https://cards.scryfall.io/large/front/9/6/96b7e757-c64d-48c8-bd9c-caad5f3c78fb.jpg?1792753877",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact Creature — Android Scientist",
+    "color_identity": [
+      "U"
+    ],
+    "power": "0",
+    "toughness": "1"
   },
   "Dathon and Picard at El-Adrel": {
     "img": "https://cards.scryfall.io/large/front/9/4/94e9d400-f2bb-46e7-8d41-6038ebdc6c8b.jpg?1785981571",
@@ -89378,6 +89825,19 @@
       "W"
     ]
   },
+  "Death Is Irrelevant": {
+    "img": "https://cards.scryfall.io/large/front/9/0/905277a1-ae6b-4876-a724-3d58a84f76cf.jpg?1792668416",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{6}{B}{B}",
+    "cmc": 8,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Death Kiss": {
     "img": "https://cards.scryfall.io/large/front/c/c/cc0c414b-4345-4787-8a9e-d9f82c5ba9b9.jpg?1783922529",
     "date": "2022-06-10",
@@ -90640,7 +91100,7 @@
     ]
   },
   "Deceiver Exarch": {
-    "img": "https://cards.scryfall.io/large/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1783941320",
+    "img": "https://cards.scryfall.io/large/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1792505848",
     "date": "2011-05-13",
     "colors": [
       "U"
@@ -91228,6 +91688,28 @@
     "type_line": "Sorcery",
     "color_identity": [
       "G"
+    ]
+  },
+  "Deep Space 9": {
+    "img": "https://cards.scryfall.io/large/front/7/6/76b039c5-e0a1-410a-954b-52f304e31f7f.jpg?1792508419",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{9}",
+    "cmc": 9,
+    "type_line": "Legendary Artifact — Spacecraft",
+    "color_identity": []
+  },
+  "Deep Space Scan": {
+    "img": "https://cards.scryfall.io/large/front/d/e/de52d77a-f5af-4392-b53b-60ce79328d3f.jpg?1792509028",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U"
     ]
   },
   "Deep Spawn": {
@@ -101028,7 +101510,7 @@
     ]
   },
   "Dominion Saboteur": {
-    "img": "https://cards.scryfall.io/large/front/2/0/207c4369-220a-4eff-81dc-65872d6fc264.jpg?1785981397",
+    "img": "https://cards.scryfall.io/large/front/a/a/aabf7d12-f802-422e-a57c-24f5a2858c83.jpg?1792508646",
     "date": "2026-11-13",
     "colors": [
       "U"
@@ -102639,6 +103121,21 @@
     "power": "3",
     "toughness": "6"
   },
+  "Dr. Joseph M'Benga": {
+    "img": "https://cards.scryfall.io/large/front/c/2/c27e6865-40ba-406c-9dce-d8a7a9b8035b.jpg?1792508272",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Doctor",
+    "color_identity": [
+      "G"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Dr. Madison Li": {
     "img": "https://cards.scryfall.io/large/front/c/8/c8b582ba-5216-48d7-9306-5c717e81c9b8.jpg?1783912230",
     "date": "2024-03-08",
@@ -102657,6 +103154,21 @@
     ],
     "power": "2",
     "toughness": "3"
+  },
+  "Dr. McCoy, Surly Surgeon": {
+    "img": "https://cards.scryfall.io/large/front/e/4/e4349c0f-55f8-40d5-a972-4fb655608b6a.jpg?1792668602",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Doctor",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Drach'Nyen": {
     "img": "https://cards.scryfall.io/large/front/b/7/b77507dd-18e8-4a76-85ba-a47c2699b95f.jpg?1783920854",
@@ -110672,6 +111184,18 @@
       "G"
     ]
   },
+  "Earth, Sector 001": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c1cf4918-f763-4355-abc6-abb402de8224.jpg?1792509220",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
   "Earth-Cult Elemental": {
     "img": "https://cards.scryfall.io/large/front/f/a/fa05f317-b2f8-4eea-951b-0c374774764b.jpg?1783926480",
     "date": "2021-07-23",
@@ -114253,6 +114777,21 @@
     ],
     "power": "5",
     "toughness": "6"
+  },
+  "Elim Garak, Simple Tailor": {
+    "img": "https://cards.scryfall.io/large/front/2/c/2c881def-1b77-42ed-9fdc-45f0ebbf843d.jpg?1792668613",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Cardassian Rogue",
+    "color_identity": [
+      "B"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Eliminate the Competition": {
     "img": "https://cards.scryfall.io/large/front/3/b/3bf09460-2e54-4434-ab03-95eef77265dc.jpg?1783937209",
@@ -118503,6 +119042,19 @@
     "power": "4",
     "toughness": "2"
   },
+  "Energize": {
+    "img": "https://cards.scryfall.io/large/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792668391",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Energizer": {
     "img": "https://cards.scryfall.io/large/front/9/1/914f204c-7f3d-41f2-a771-0b6227d539eb.jpg?1783946605",
     "date": "1997-10-14",
@@ -119181,6 +119733,21 @@
     "color_identity": [
       "W"
     ]
+  },
+  "Ensign Pavel Chekov": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f483991b-5291-42a8-89c3-f51629530bb1.jpg?1792753949",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Pilot",
+    "color_identity": [
+      "U"
+    ],
+    "power": "1",
+    "toughness": "5"
   },
   "Enslave": {
     "img": "https://cards.scryfall.io/large/front/6/c/6c6283e1-e4f1-4ff6-be01-b66ab623e0ac.jpg?1783943154",
@@ -120415,6 +120982,21 @@
     ],
     "power": "4",
     "toughness": "5"
+  },
+  "Erica Ortegas, Plucky Pilot": {
+    "img": "https://cards.scryfall.io/large/front/3/6/3667eb41-598e-4543-97ed-6da961f8b567.jpg?1792892279",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Pilot",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Eriette of the Charmed Apple": {
     "img": "https://cards.scryfall.io/large/front/e/c/ecead4cd-47ae-4c42-b15c-1b29b5caba18.jpg?1783915073",
@@ -123730,6 +124312,21 @@
     "power": "3",
     "toughness": "3"
   },
+  "Excalbian Gamemaster": {
+    "img": "https://cards.scryfall.io/large/front/e/6/e6227228-330d-4bf5-a5ca-d5b5839e5874.jpg?1792753923",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{5}{W}",
+    "cmc": 6,
+    "type_line": "Creature — Excalbian",
+    "color_identity": [
+      "W"
+    ],
+    "power": "6",
+    "toughness": "6"
+  },
   "Excalibur II": {
     "img": "https://cards.scryfall.io/large/front/d/4/d42e5fed-67ac-46d7-a5d4-78f661f3e8b4.jpg?1783906559",
     "date": "2025-06-13",
@@ -124891,6 +125488,19 @@
     "type_line": "Enchantment",
     "color_identity": [
       "G"
+    ]
+  },
+  "Exploratory Mission": {
+    "img": "https://cards.scryfall.io/large/front/6/1/61bb2ec5-5f04-4c34-ba72-7fa226922c5c.jpg?1792808908",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "R"
     ]
   },
   "Explore the Underdark": {
@@ -130901,6 +131511,17 @@
     "power": "3",
     "toughness": "2"
   },
+  "Federation Outpost": {
+    "img": "https://cards.scryfall.io/large/front/8/5/85859d4c-c90c-48f4-bac0-75fcccf1b1f4.jpg?1792550928",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Federation Probe": {
     "img": "https://cards.scryfall.io/large/front/f/9/f988ba84-fc78-41a2-b2f2-eebf78cee591.jpg?1785981405",
     "date": "2026-11-13",
@@ -132104,6 +132725,18 @@
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "Ferenginar": {
+    "img": "https://cards.scryfall.io/large/front/1/7/17fab75f-7ff9-4c50-a6f7-03a85cd275bf.jpg?1792632949",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "B",
+      "G"
+    ]
   },
   "Ferocification": {
     "img": "https://cards.scryfall.io/large/front/7/8/78db4260-6fc8-4500-afd7-2c845ac0d53b.jpg?1783911821",
@@ -137081,7 +137714,7 @@
     ]
   },
   "Flametongue Kavu": {
-    "img": "https://cards.scryfall.io/large/front/e/5/e5056bca-bd90-4b50-8630-105558f8ef92.jpg?1783945617",
+    "img": "https://cards.scryfall.io/large/front/e/5/e5056bca-bd90-4b50-8630-105558f8ef92.jpg?1792505876",
     "date": "2001-02-05",
     "colors": [
       "R"
@@ -147504,7 +148137,7 @@
     ]
   },
   "Galvanic Blast": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f5881bbc-8600-464d-9dcd-5a7780918d1d.jpg?1783941725",
+    "img": "https://cards.scryfall.io/large/front/f/5/f5881bbc-8600-464d-9dcd-5a7780918d1d.jpg?1792506474",
     "date": "2010-10-01",
     "colors": [
       "R"
@@ -150728,6 +151361,36 @@
     "cmc": 2,
     "type_line": "Artifact",
     "color_identity": []
+  },
+  "Geordi La Forge, Innovator": {
+    "img": "https://cards.scryfall.io/large/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
+  "Georgiou, Terran Emperor": {
+    "img": "https://cards.scryfall.io/large/front/a/6/a68361a3-83fa-44b5-92b5-b7905866fc99.jpg?1792753873",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Human Rogue Noble",
+    "color_identity": [
+      "B"
+    ],
+    "power": "4",
+    "toughness": "6"
   },
   "Geosurge": {
     "img": "https://cards.scryfall.io/large/front/1/1/118b7aa3-bb05-4691-978e-51486435bf05.jpg?1783941307",
@@ -163007,6 +163670,23 @@
       "U"
     ]
   },
+  "Gowron, Eager for Battle": {
+    "img": "https://cards.scryfall.io/large/front/d/6/d60613c2-5655-4051-babd-fc0f3a73fc77.jpg?1792508332",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{2}{B}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Klingon Warrior",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Graaz, Unstoppable Juggernaut": {
     "img": "https://cards.scryfall.io/large/front/e/0/e0e73b63-17cc-4dca-abd6-728b74bc37a8.jpg?1783917991",
     "date": "2023-02-10",
@@ -164890,6 +165570,23 @@
     ],
     "power": "4",
     "toughness": "1"
+  },
+  "Gray and Adira, Forever Joined": {
+    "img": "https://cards.scryfall.io/large/front/e/e/eede6822-c8bc-4344-81a9-bc608245d5b6.jpg?1792508333",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{2}{U/R}{U/R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Trill Human Officer",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Graypelt Hunter": {
     "img": "https://cards.scryfall.io/large/front/e/d/ed04a5a7-f7d0-4dd8-9c23-6a767814316a.jpg?1783942045",
@@ -169743,6 +170440,21 @@
     "color_identity": [
       "W"
     ]
+  },
+  "Guinan, Ancient Advisor": {
+    "img": "https://cards.scryfall.io/large/front/d/a/daf1d562-a1e4-47b5-9b63-896e7c1e7856.jpg?1792508082",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — El-Aurian Advisor",
+    "color_identity": [
+      "W"
+    ],
+    "power": "1",
+    "toughness": "4"
   },
   "Guise of Fire": {
     "img": "https://cards.scryfall.io/large/front/b/e/beb10d42-fa19-400c-bad8-ec3827f077bc.jpg?1783940684",
@@ -177838,6 +178550,23 @@
       "B"
     ]
   },
+  "Hemmer, Fixing What Is Broken": {
+    "img": "https://cards.scryfall.io/large/front/f/3/f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65.jpg?1792550956",
+    "date": "2026-11-13",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{W}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Aenar Artificer",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Hemosymbic Mite": {
     "img": "https://cards.scryfall.io/large/front/c/1/c14137a4-2d44-444c-ad50-e2edf9380571.jpg?1783905936",
     "date": "2025-08-01",
@@ -181073,6 +181802,21 @@
       "R"
     ]
   },
+  "Hit It!": {
+    "img": "https://cards.scryfall.io/large/front/6/2/6266506f-fabf-4b53-8f93-6e2115a3e5a4.jpg?1792508342",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
   "Hit the Mother Lode": {
     "img": "https://cards.scryfall.io/large/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1783913759",
     "date": "2023-11-17",
@@ -181139,7 +181883,7 @@
     "color_identity": []
   },
   "Hive Mind Coprocessor": {
-    "img": "https://cards.scryfall.io/large/front/a/4/a4734c59-ff41-47ac-bbb4-c8c3bf052fe6.jpg?1785981497",
+    "img": "https://cards.scryfall.io/large/front/b/d/bdfb5e42-1950-4dd8-b1d6-21170ec93159.jpg?1792509192",
     "date": "2026-11-13",
     "colors": [
       "B"
@@ -181925,6 +182669,21 @@
     "type_line": "Creature — Merfolk Wizard",
     "color_identity": [
       "B"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
+  "Hologram Stalker": {
+    "img": "https://cards.scryfall.io/large/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.jpg?1792668500",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6,
+    "type_line": "Creature — Hirogen Warrior",
+    "color_identity": [
+      "G"
     ],
     "power": "2",
     "toughness": "2"
@@ -190290,6 +191049,19 @@
       "R"
     ]
   },
+  "Impossible Choice": {
+    "img": "https://cards.scryfall.io/large/front/6/c/6c5a87cf-7790-4335-8497-ff793bbdcb05.jpg?1792808848",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "color_identity": [
+      "B"
+    ]
+  },
   "Impossible Inferno": {
     "img": "https://cards.scryfall.io/large/front/a/3/a35248f9-9a4e-4758-a4c1-0e0c83e3fd75.jpg?1783909469",
     "date": "2024-09-27",
@@ -192574,6 +193346,19 @@
       "U"
     ]
   },
+  "Infinite Diversity": {
+    "img": "https://cards.scryfall.io/large/front/3/3/33ade614-3593-4055-8ecc-2d9e4858ba19.jpg?1792892312",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{7}{R}{R}",
+    "cmc": 9,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "R"
+    ]
+  },
   "Infinite Guideline Station": {
     "img": "https://cards.scryfall.io/large/front/5/6/5688894a-bbec-476b-ae2e-94000be258d0.jpg?1783905926",
     "date": "2025-08-01",
@@ -194836,6 +195621,21 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Interstellar Effigy": {
+    "img": "https://cards.scryfall.io/large/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.jpg?1792672545",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{4}{U}",
+    "cmc": 5,
+    "type_line": "Artifact Creature — Construct",
+    "color_identity": [
+      "U"
+    ],
+    "power": "4",
+    "toughness": "3"
   },
   "Intervene": {
     "img": "https://cards.scryfall.io/large/front/4/b/4b0e3894-5dfe-4d03-9996-eebf96c58168.jpg?1783946246",
@@ -199281,7 +200081,7 @@
     ]
   },
   "Jace, the Mind Sculptor": {
-    "img": "https://cards.scryfall.io/large/front/0/e/0e606072-a3aa-4300-ba90-ec92a721fa76.jpg?1783942061",
+    "img": "https://cards.scryfall.io/large/front/0/e/0e606072-a3aa-4300-ba90-ec92a721fa76.jpg?1792506267",
     "date": "2010-02-05",
     "colors": [
       "U"
@@ -199797,6 +200597,21 @@
     "power": "2",
     "toughness": "4"
   },
+  "Jadzia Dax, Living Legacy": {
+    "img": "https://cards.scryfall.io/large/front/b/d/bd342f8b-9072-487d-8a33-b1bb149f1502.jpg?1792891903",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Trill Scientist",
+    "color_identity": [
+      "G"
+    ],
+    "power": "0",
+    "toughness": "1"
+  },
   "Jagged Barrens": {
     "img": "https://cards.scryfall.io/large/front/5/d/5d809f5b-d965-4cb1-a9f8-2048f8534373.jpg?1783911776",
     "date": "2024-04-19",
@@ -199922,6 +200737,21 @@
     "color_identity": [
       "W"
     ]
+  },
+  "Jake Sisko, War Correspondent": {
+    "img": "https://cards.scryfall.io/large/front/9/e/9e47c6b6-f99b-46be-98a1-92c98416aefe.jpg?1792758669",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Citizen",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Jalira, Master Polymorphist": {
     "img": "https://cards.scryfall.io/large/front/4/2/425da4aa-4374-41b0-a665-568a04f57c38.jpg?1783939191",
@@ -200494,6 +201324,25 @@
       "W"
     ],
     "power": "4",
+    "toughness": "4"
+  },
+  "Jean-Luc Picard, Luminary": {
+    "img": "https://cards.scryfall.io/large/front/9/0/901eaed9-dbea-4a31-87b0-e17e9bcabfed.jpg?1792507924",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{U}{R}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "power": "2",
     "toughness": "4"
   },
   "Jecht, Reluctant Guardian": {
@@ -202088,6 +202937,19 @@
     "type_line": "Instant",
     "color_identity": [
       "G",
+      "W"
+    ]
+  },
+  "Join the Collective": {
+    "img": "https://cards.scryfall.io/large/front/3/8/382e4d2f-7cc9-4229-9147-2d3e4af9063f.jpg?1792507962",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{5}{W}{W}",
+    "cmc": 7,
+    "type_line": "Sorcery",
+    "color_identity": [
       "W"
     ]
   },
@@ -209265,6 +210127,21 @@
       "G"
     ]
   },
+  "Khan, Vengeful Heart": {
+    "img": "https://cards.scryfall.io/large/front/a/6/a6f47b34-02fb-41d2-978a-a6d0a47ee8ba.jpg?1792551016",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Warrior",
+    "color_identity": [
+      "B"
+    ],
+    "power": "5",
+    "toughness": "3"
+  },
   "Khenra Charioteer": {
     "img": "https://cards.scryfall.io/large/front/8/a/8ab1454e-3c69-4450-bd4c-934af2ff2bcb.jpg?1783936463",
     "date": "2017-04-28",
@@ -210846,6 +211723,23 @@
     "power": "3",
     "toughness": "2"
   },
+  "Kira Nerys, Firebrand": {
+    "img": "https://cards.scryfall.io/large/front/f/4/f40be112-e41d-456b-919f-14b2dee7e6ee.jpg?1792753935",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{1}{R}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Bajoran Soldier",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "power": "4",
+    "toughness": "3"
+  },
   "Kira, Great Glass-Spinner": {
     "img": "https://cards.scryfall.io/large/front/f/c/fc73a66f-4745-40c2-9c90-96396f6e7bce.jpg?1783944206",
     "date": "2005-02-04",
@@ -210915,6 +211809,23 @@
     "color_identity": [
       "G"
     ]
+  },
+  "Kirk, Commanding Officer": {
+    "img": "https://cards.scryfall.io/large/front/8/4/84f6d529-33f7-4bdf-8ee0-43f5c4e8de6a.jpg?1792508706",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{1}{R}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
   },
   "Kirk, Enterprising Captain": {
     "img": "https://cards.scryfall.io/large/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716",
@@ -213067,6 +213978,19 @@
     "power": "3",
     "toughness": "2"
   },
+  "Kobayashi Maru Scenario": {
+    "img": "https://cards.scryfall.io/large/front/d/5/d557515e-bf1d-4781-aa44-eb2638cfe1ba.jpg?1792509118",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "U"
+    ]
+  },
   "Kobold Drill Sergeant": {
     "img": "https://cards.scryfall.io/large/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1783948055",
     "date": "1994-06-01",
@@ -213471,6 +214395,21 @@
       "W"
     ],
     "power": "2",
+    "toughness": "3"
+  },
+  "Koloth, Tribble Hunter": {
+    "img": "https://cards.scryfall.io/large/front/5/5/55a3692b-da3e-4e03-8bb3-06013232438d.jpg?1792508092",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Klingon Warrior Officer",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
     "toughness": "3"
   },
   "Kolvori, God of Kinship": {
@@ -216803,6 +217742,23 @@
     ],
     "power": "1",
     "toughness": "2"
+  },
+  "L'Rell, Fierce Visionary": {
+    "img": "https://cards.scryfall.io/large/front/7/b/7b06bbb9-7c6d-4889-b55a-1de77c27fd18.jpg?1792508377",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{1}{B}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Klingon Warrior",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "1",
+    "toughness": "4"
   },
   "La Forge, Perceptive Engineer": {
     "img": "https://cards.scryfall.io/large/front/c/2/c2412446-ddff-40fa-b180-9385c691a9fd.jpg?1785981065",
@@ -222472,6 +223428,21 @@
     "power": "5",
     "toughness": "5"
   },
+  "Lieutenant Commander Data": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f10ee26b-7ea8-4cd0-83f6-b9a8ac94cb0b.jpg?1792508695",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Artifact Creature — Android Scientist",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Lieutenant Kirtar": {
     "img": "https://cards.scryfall.io/large/front/e/5/e518750f-492d-4575-b4ee-c80c1f8e0a58.jpg?1783945276",
     "date": "2001-10-01",
@@ -225180,6 +226151,21 @@
       "B"
     ]
   },
+  "Live Long and Prosper": {
+    "img": "https://cards.scryfall.io/large/front/b/2/b2f934db-403b-4f6a-9abc-d48eb9140e49.jpg?1792509146",
+    "date": "2026-11-13",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{5}{W}{U}",
+    "cmc": 7,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
   "Live or Die": {
     "img": "https://cards.scryfall.io/large/front/c/d/cd81e438-e38f-42a1-b677-202dbcb3837c.jpg?1783909479",
     "date": "2024-09-27",
@@ -226618,6 +227604,42 @@
     "power": "1",
     "toughness": "1"
   },
+  "Locutus of Borg": {
+    "img": "https://cards.scryfall.io/large/front/a/0/a0527596-5f1b-45f3-9f8f-dd9ab7c4bb40.jpg?1792508071",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{W}{U}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Artifact Creature — Borg",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
+  "Locutus, the One Who Speaks": {
+    "img": "https://cards.scryfall.io/large/front/e/e/ee059c0f-eba9-4504-a92e-af762a510ee4.jpg?1792508708",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{W}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact Creature — Borg",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
   "Lodestone Bauble": {
     "img": "https://cards.scryfall.io/large/front/8/4/84d88a33-3990-4044-a5fe-4123d5781f18.jpg?1783947163",
     "date": "1996-06-10",
@@ -227882,6 +228904,23 @@
     "power": "2",
     "toughness": "2"
   },
+  "Lore, Positronic Provocateur": {
+    "img": "https://cards.scryfall.io/large/front/6/2/62afa55d-d4ba-48d5-9991-0f8408f9c92c.jpg?1792508378",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{1}{U/B}{U/B}",
+    "cmc": 3,
+    "type_line": "Legendary Artifact Creature — Android Rogue",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Lorehold Apprentice": {
     "img": "https://cards.scryfall.io/large/front/0/4/048157c6-4626-4881-ba19-deddd13622dc.jpg?1783927307",
     "date": "2021-04-23",
@@ -228074,7 +229113,7 @@
     ]
   },
   "Lose Focus": {
-    "img": "https://cards.scryfall.io/large/front/9/8/985bdb0c-ce6c-4506-8163-76f3b2fdf5fb.jpg?1783926877",
+    "img": "https://cards.scryfall.io/large/front/9/8/985bdb0c-ce6c-4506-8163-76f3b2fdf5fb.jpg?1792506017",
     "date": "2021-06-18",
     "colors": [
       "U"
@@ -229295,6 +230334,21 @@
       "U"
     ],
     "power": "4",
+    "toughness": "2"
+  },
+  "Lt. Cmdr. Geordi La Forge": {
+    "img": "https://cards.scryfall.io/large/front/f/0/f0028b63-3e33-47ab-88ed-bdbe5705ecf7.jpg?1792509251",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
     "toughness": "2"
   },
   "Lu Bu, Master-at-Arms": {
@@ -230703,6 +231757,21 @@
       "B",
       "R"
     ]
+  },
+  "Lwaxana Troi, Charming Guest": {
+    "img": "https://cards.scryfall.io/large/front/1/9/19bf2f2f-4be2-4958-bfab-eb46c9ca1995.jpg?1792892849",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Betazoid Advisor",
+    "color_identity": [
+      "R"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Lychguard": {
     "img": "https://cards.scryfall.io/large/front/c/e/cebafb28-d13c-4da2-96be-2be486d985df.jpg?1783920923",
@@ -234273,7 +235342,7 @@
     ]
   },
   "Malfunctioning Holodeck": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0faeffee-bb07-4b9d-8cdd-e9731bbd2396.jpg?1785981349",
+    "img": "https://cards.scryfall.io/large/front/1/f/1f564242-e841-4f70-9d48-36ff410a25c4.jpg?1792509183",
     "date": "2026-11-13",
     "colors": [
       "W"
@@ -244572,6 +245641,21 @@
       "W"
     ]
   },
+  "Miles O'Brien, Transporter Ops": {
+    "img": "https://cards.scryfall.io/large/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1792637029",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Militant Angel": {
     "img": "https://cards.scryfall.io/large/front/7/6/762fa38f-a760-4e84-bdd5-c14cbc21db72.jpg?1783933994",
     "date": "2018-11-16",
@@ -247387,6 +248471,21 @@
     "type_line": "Instant",
     "color_identity": [
       "W"
+    ]
+  },
+  "Mirror Universe Intrusion": {
+    "img": "https://cards.scryfall.io/large/front/d/d/ddfae5a3-7f3f-48f4-bcdf-6c7729504289.jpg?1792668630",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{1}{U}{B}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B",
+      "U"
     ]
   },
   "Mirror Universe": {
@@ -254469,6 +255568,21 @@
       "B",
       "G",
       "R"
+    ],
+    "power": "2",
+    "toughness": "4"
+  },
+  "Mr. Spock, Science Officer": {
+    "img": "https://cards.scryfall.io/large/front/e/8/e855f782-9221-4b6f-a182-b738da4b7d48.jpg?1792509132",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Vulcan Human Scientist",
+    "color_identity": [
+      "U"
     ],
     "power": "2",
     "toughness": "4"
@@ -266488,7 +267602,7 @@
     ]
   },
   "Notion Thief": {
-    "img": "https://cards.scryfall.io/large/front/7/2/728e660b-ad8b-49d2-a7e5-6588e496519b.jpg?1783940024",
+    "img": "https://cards.scryfall.io/large/front/a/9/a93fe85f-638c-4cfb-a7b7-7e85bf7ca726.jpg?1792757479",
     "date": "2013-05-03",
     "colors": [
       "B",
@@ -267626,6 +268740,21 @@
     ],
     "power": "1",
     "toughness": "6"
+  },
+  "Nyota Uhura, Communications": {
+    "img": "https://cards.scryfall.io/large/front/f/a/fa9755ba-831d-47a2-a172-d2bfb13edefe.jpg?1792508684",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Officer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
+    "toughness": "4"
   },
   "Nyssa of Traken": {
     "img": "https://cards.scryfall.io/large/front/b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1783914665",
@@ -269246,6 +270375,21 @@
     "cmc": 2,
     "type_line": "Artifact",
     "color_identity": []
+  },
+  "Obsidian Order Operative": {
+    "img": "https://cards.scryfall.io/large/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.jpg?1792672365",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Cardassian Officer Spy",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "5"
   },
   "Obstinate Baloth": {
     "img": "https://cards.scryfall.io/large/front/6/6/6694496c-45b9-4ddf-bfcd-b632441b8811.jpg?1783941795",
@@ -274729,6 +275873,18 @@
     ],
     "power": "1",
     "toughness": "3"
+  },
+  "Orion": {
+    "img": "https://cards.scryfall.io/large/front/d/e/dec37ff4-d6e9-4b87-865b-125b17162465.jpg?1792632952",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "G",
+      "R"
+    ]
   },
   "Oriq Loremage": {
     "img": "https://cards.scryfall.io/large/front/f/d/fd30d87e-552d-4b30-9123-2047e4e381a2.jpg?1783927255",
@@ -280696,6 +281852,19 @@
       "W"
     ]
   },
+  "Peace in Our Time": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f1c86545-0252-46cc-ac35-58d126f55997.jpg?1792509035",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Enchantment",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Peace of Mind": {
     "img": "https://cards.scryfall.io/large/front/c/3/c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c.jpg?1783946529",
     "date": "1998-06-15",
@@ -282599,6 +283768,21 @@
     "power": "4",
     "toughness": "4"
   },
+  "Pet Sehlat": {
+    "img": "https://cards.scryfall.io/large/front/4/7/477a6a46-7fda-4666-87d9-a35c953dd94d.jpg?1792672463",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Bear",
+    "color_identity": [
+      "W"
+    ],
+    "power": "4",
+    "toughness": "3"
+  },
   "Petalmane Baku": {
     "img": "https://cards.scryfall.io/large/front/7/c/7c7ba032-66d6-41bd-af4f-9853b031a474.jpg?1783944181",
     "date": "2005-02-04",
@@ -283032,7 +284216,7 @@
     ]
   },
   "Phantasmal Image": {
-    "img": "https://cards.scryfall.io/large/front/9/8/98e7bf8f-dba7-4005-8cee-634c9153931d.jpg?1783941088",
+    "img": "https://cards.scryfall.io/large/front/9/8/98e7bf8f-dba7-4005-8cee-634c9153931d.jpg?1792506383",
     "date": "2011-07-15",
     "colors": [
       "U"
@@ -283735,6 +284919,23 @@
     ],
     "power": "6",
     "toughness": "6"
+  },
+  "Phlox, Unorthodox Doctor": {
+    "img": "https://cards.scryfall.io/large/front/2/6/2695e76e-c27d-49fc-9ef2-d9eaff449f3d.jpg?1792508387",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{2}{G}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Denobulan Doctor",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "4"
   },
   "Phobian Phantasm": {
     "img": "https://cards.scryfall.io/large/front/a/1/a14802be-f9d4-4984-86e0-537467f37fd7.jpg?1783943347",
@@ -291970,6 +293171,21 @@
       "W"
     ]
   },
+  "Primary Unimatrix Adjunct": {
+    "img": "https://cards.scryfall.io/large/front/b/a/ba15432e-64a4-49fe-9f89-86129d332bcc.jpg?1792753945",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Artifact Creature — Borg",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Prime Speaker Vannifar": {
     "img": "https://cards.scryfall.io/large/front/8/4/84abfc59-10a7-4cb5-9cdd-81797116c810.jpg?1783933641",
     "date": "2019-01-25",
@@ -296084,6 +297300,19 @@
       "W"
     ]
   },
+  "Pure Energy": {
+    "img": "https://cards.scryfall.io/large/front/2/1/215709a8-044f-4fdb-b3ca-bd5a394b2a0f.jpg?1792591045",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
+    ]
+  },
   "Pure Intentions": {
     "img": "https://cards.scryfall.io/large/front/b/2/b231d818-df57-4e2d-9603-babe0c2c4568.jpg?1783944167",
     "date": "2005-06-03",
@@ -297495,6 +298724,21 @@
     "type_line": "Artifact",
     "color_identity": []
   },
+  "Q, Stacking the Deck": {
+    "img": "https://cards.scryfall.io/large/front/d/c/dcbe34db-0065-4960-92b8-3ea1d336e803.jpg?1792508237",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Q",
+    "color_identity": [
+      "R"
+    ],
+    "power": "4",
+    "toughness": "4"
+  },
   "Qal Sisma Behemoth": {
     "img": "https://cards.scryfall.io/large/front/e/a/ea70e96a-bebd-4ca4-aa24-e5fd0df38b8a.jpg?1783938587",
     "date": "2015-03-27",
@@ -297661,6 +298905,18 @@
     ],
     "power": "1",
     "toughness": "4"
+  },
+  "Qo'noS": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f1558d93-8a8a-45e0-bcdc-e6cd42f716dc.jpg?1792632963",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "B",
+      "R"
+    ]
   },
   "Quag Feast": {
     "img": "https://cards.scryfall.io/large/front/d/d/dd8b6033-63e6-484e-8efb-a4eb9ca59fbf.jpg?1783907891",
@@ -298013,6 +299269,32 @@
     "color_identity": [
       "W"
     ]
+  },
+  "Quark's Bar": {
+    "img": "https://cards.scryfall.io/large/front/b/8/b846d3f5-7937-4282-9fa3-95b2f134676b.jpg?1792508617",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "color_identity": [
+      "R"
+    ]
+  },
+  "Quark, Humble Proprietor": {
+    "img": "https://cards.scryfall.io/large/front/c/0/c06bc240-4dd2-4b77-be94-aecb882ea734.jpg?1792508663",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Ferengi Rogue",
+    "color_identity": [
+      "R"
+    ],
+    "power": "1",
+    "toughness": "2"
   },
   "Quarrel's End": {
     "img": "https://cards.scryfall.io/large/front/5/a/5a7e61a6-c602-4089-ae45-828d8e516a63.jpg?1783916280",
@@ -304977,6 +306259,21 @@
     "power": "2",
     "toughness": "2"
   },
+  "Ravenous Cosmozoan": {
+    "img": "https://cards.scryfall.io/large/front/8/e/8eeb471b-412d-4ea1-bec0-d7dd0a557d76.jpg?1792758700",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{5}{R}",
+    "cmc": 6,
+    "type_line": "Creature — Fish",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "Ravenous Daggertooth": {
     "img": "https://cards.scryfall.io/large/front/3/0/309b204b-774a-47bc-aead-c78db90f3be2.jpg?1783935720",
     "date": "2017-09-29",
@@ -311220,6 +312517,15 @@
       "U"
     ]
   },
+  "Replicator": {
+    "img": "https://cards.scryfall.io/large/front/e/7/e762c918-1c94-47a4-b141-ac16c5c9e073.jpg?1792508777",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact",
+    "color_identity": []
+  },
   "Repopulate": {
     "img": "https://cards.scryfall.io/large/front/a/a/aac77869-97bc-4976-9ee0-3d60e162b78a.jpg?1783946228",
     "date": "1999-02-15",
@@ -311910,7 +313216,7 @@
     "toughness": "1"
   },
   "Resistance Is Futile": {
-    "img": "https://cards.scryfall.io/large/front/8/1/81d88257-466d-4729-862f-591885b3d875.jpg?1785981518",
+    "img": "https://cards.scryfall.io/large/front/e/a/ea664a07-fac6-4703-8fd2-f3f3d7257b60.jpg?1792509085",
     "date": "2026-11-13",
     "colors": [
       "B"
@@ -316763,6 +318069,18 @@
       "U"
     ]
   },
+  "Risa": {
+    "img": "https://cards.scryfall.io/large/front/d/7/d7454d76-529f-4217-8490-cae65bec8543.jpg?1792509221",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
   "Rise // Fall": {
     "img": "https://cards.scryfall.io/large/front/a/6/a6bd585d-0155-4ed8-8b8a-9c0b7604e942.jpg?1783943383",
     "date": "2006-05-05",
@@ -319931,6 +321249,33 @@
     "type_line": "Sorcery",
     "color_identity": [
       "R"
+    ]
+  },
+  "Romulan Bird-of-Prey": {
+    "img": "https://cards.scryfall.io/large/front/c/5/c54b4e4a-72b3-481c-9eda-647fdcb04ff2.jpg?1792508914",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Artifact — Spacecraft",
+    "color_identity": [
+      "U"
+    ],
+    "power": "4",
+    "toughness": "4"
+  },
+  "Romulus": {
+    "img": "https://cards.scryfall.io/large/front/1/b/1bce111b-b07c-4589-9b6d-f0b5f320808c.jpg?1792632971",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "B",
+      "U"
     ]
   },
   "Rona's Vortex": {
@@ -324241,6 +325586,21 @@
     "power": "1",
     "toughness": "2"
   },
+  "Rutherford, Upgraded Ensign": {
+    "img": "https://cards.scryfall.io/large/front/1/6/16a4d8ed-a918-4dfe-9976-0b68adb26afa.jpg?1792753861",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Ruthless Cullblade": {
     "img": "https://cards.scryfall.io/large/front/1/d/1da2dc92-0352-4757-8249-67f08a2464d1.jpg?1783942054",
     "date": "2010-02-05",
@@ -324635,7 +325995,7 @@
     "toughness": "4"
   },
   "Saavik, Stoic Student": {
-    "img": "https://cards.scryfall.io/large/front/3/7/3783c530-a2da-4dc1-811a-0a9a412c8e78.jpg?1785981363",
+    "img": "https://cards.scryfall.io/large/front/a/f/af3c4a7f-c7cb-422f-8eab-730de8f5c599.jpg?1792508778",
     "date": "2026-11-13",
     "colors": [
       "W"
@@ -332799,6 +334159,21 @@
     "power": "3",
     "toughness": "3"
   },
+  "Scotty, Miracle Worker": {
+    "img": "https://cards.scryfall.io/large/front/d/9/d97123d6-8420-4400-8d6c-a3ed5c84ad5d.jpg?1792758882",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Artificer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "2",
+    "toughness": "3"
+  },
   "Scour All Possibilities": {
     "img": "https://cards.scryfall.io/large/front/7/c/7c6466cb-d1d0-4461-b48d-7497bdc9c474.jpg?1783933138",
     "date": "2019-06-14",
@@ -340445,6 +341820,21 @@
     ],
     "power": "2",
     "toughness": "2"
+  },
+  "Seven of Nine, Unassimilated": {
+    "img": "https://cards.scryfall.io/large/front/f/b/fbe692d2-e8ae-464b-84a9-fe7063e806c0.jpg?1792509052",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact Creature — Human Officer",
+    "color_identity": [
+      "U"
+    ],
+    "power": "0",
+    "toughness": "4"
   },
   "Seven of Nine": {
     "img": "https://cards.scryfall.io/large/front/8/c/8cbe8fea-9c49-4d11-be37-4bc9eb03a406.jpg?1784078057",
@@ -357490,7 +358880,7 @@
     "toughness": "1"
   },
   "Sneak Attack": {
-    "img": "https://cards.scryfall.io/large/front/d/0/d07dc95d-82a8-4a58-8ea2-d4513bd7316d.jpg?1783946324",
+    "img": "https://cards.scryfall.io/large/front/d/0/d07dc95d-82a8-4a58-8ea2-d4513bd7316d.jpg?1792506500",
     "date": "1998-10-12",
     "colors": [
       "R"
@@ -367808,6 +369198,23 @@
       "U"
     ]
   },
+  "Spock, Always Your Friend": {
+    "img": "https://cards.scryfall.io/large/front/1/b/1be731d5-8b21-4883-91c0-dd9070b1eadd.jpg?1792508391",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{U}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Vulcan Human Scientist",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Spock, Logical Choice": {
     "img": "https://cards.scryfall.io/large/front/5/a/5a741052-e92d-4e9c-8cfa-3b5ed1f432f5.jpg?1784065332",
     "date": "2026-11-13",
@@ -368229,6 +369636,21 @@
     ],
     "power": "4",
     "toughness": "4"
+  },
+  "Spot, Felis catus": {
+    "img": "https://cards.scryfall.io/large/front/f/e/fe5f0fe9-f063-4fb7-81c9-13f4e14d6ed1.jpg?1792508389",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Cat",
+    "color_identity": [
+      "W"
+    ],
+    "power": "1",
+    "toughness": "1"
   },
   "Spotcycle Scouter": {
     "img": "https://cards.scryfall.io/large/front/f/0/f0489108-75b7-441c-888d-12987c0c1080.jpg?1783907914",
@@ -370014,7 +371436,7 @@
     "toughness": "1"
   },
   "Stalwart Shield-Bearers": {
-    "img": "https://cards.scryfall.io/large/front/8/6/868256bb-d4e2-42eb-a43a-360148aec06f.jpg?1783942002",
+    "img": "https://cards.scryfall.io/large/front/8/8/8832ab43-317f-46a8-b391-2c6c42d342cc.jpg?1792893215",
     "date": "2010-04-23",
     "colors": [
       "W"
@@ -370639,6 +372061,24 @@
     "power": "2",
     "toughness": "2"
   },
+  "Starfleet Academy": {
+    "img": "https://cards.scryfall.io/large/front/e/e/eea2dc59-10e9-481b-b2c3-bbf44253ed56.jpg?1792508626",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Legendary Land",
+    "color_identity": []
+  },
+  "Starfleet Communicator": {
+    "img": "https://cards.scryfall.io/large/front/a/c/ac87fcef-019e-45d4-bc8a-0ccb3adaa3b5.jpg?1792507985",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact — Communicator Equipment",
+    "color_identity": []
+  },
   "Starfleet Crew": {
     "img": "https://cards.scryfall.io/large/front/e/c/ecf2358f-542d-45c9-b5c5-c57b2b0c1122.jpg?1785981010",
     "date": "2026-11-13",
@@ -370988,6 +372428,17 @@
     ],
     "power": "3",
     "toughness": "5"
+  },
+  "Starship Enterprise": {
+    "img": "https://cards.scryfall.io/large/front/f/7/f7fad2b9-0a2f-4921-85e2-54da59b4e686.jpg?1792645559",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{5}",
+    "cmc": 5,
+    "type_line": "Legendary Artifact — Spacecraft",
+    "color_identity": [],
+    "power": "4",
+    "toughness": "6"
   },
   "Starstorm": {
     "img": "https://cards.scryfall.io/large/front/b/5/b54d72ba-05ce-4299-a7c3-a9e9f126fffb.jpg?1783945047",
@@ -374289,7 +375740,7 @@
     "color_identity": []
   },
   "Stoneforge Mystic": {
-    "img": "https://cards.scryfall.io/large/front/1/9/19557351-b65f-4b04-b971-66abdc07000a.jpg?1783942065",
+    "img": "https://cards.scryfall.io/large/front/1/9/19557351-b65f-4b04-b971-66abdc07000a.jpg?1792506403",
     "date": "2010-02-05",
     "colors": [
       "W"
@@ -374663,6 +376114,21 @@
     "cmc": 3,
     "type_line": "Artifact",
     "color_identity": []
+  },
+  "Storied Veteran": {
+    "img": "https://cards.scryfall.io/large/front/c/1/c1b5426e-9ba1-40c0-9954-2fc00da8e04f.jpg?1792753928",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Creature — Klingon Advisor",
+    "color_identity": [
+      "B"
+    ],
+    "power": "2",
+    "toughness": "1"
   },
   "Storm Caller": {
     "img": "https://cards.scryfall.io/large/front/1/b/1b6d123c-c16d-43fa-b183-8a59c7e1a11e.jpg?1783930617",
@@ -377840,6 +379306,21 @@
     "color_identity": [],
     "power": "4",
     "toughness": "4"
+  },
+  "Subcommander T'Pol": {
+    "img": "https://cards.scryfall.io/large/front/7/d/7d90016d-c2cb-457b-9d97-c3b9411c46e3.jpg?1792808727",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Vulcan Scientist",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "1"
   },
   "Subdue": {
     "img": "https://cards.scryfall.io/large/front/1/2/123d6097-8021-46cd-a8c3-01013245e347.jpg?1783948043",
@@ -382559,6 +384040,21 @@
     "power": "*",
     "toughness": "*"
   },
+  "Suurok-Class Science Vessel": {
+    "img": "https://cards.scryfall.io/large/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.jpg?1792739758",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Artifact — Spacecraft",
+    "color_identity": [
+      "U"
+    ],
+    "power": "3",
+    "toughness": "2"
+  },
   "Svella, Ice Shaper": {
     "img": "https://cards.scryfall.io/large/front/a/7/a7054d48-5ed3-43a1-85e5-9f306b081b4f.jpg?1783928190",
     "date": "2021-02-05",
@@ -384790,7 +386286,7 @@
     "toughness": "3"
   },
   "Syndicate Liquidators": {
-    "img": "https://cards.scryfall.io/large/front/1/8/18bb2edd-8dee-4714-a707-6542b6ebbd53.jpg?1786005573",
+    "img": "https://cards.scryfall.io/large/front/d/1/d15242ea-4460-4804-ba0e-09cb7f24bc50.jpg?1792509201",
     "date": "2026-11-13",
     "colors": [
       "G"
@@ -388913,6 +390409,15 @@
     "power": "3",
     "toughness": "3"
   },
+  "Tea, Earl Grey, Hot": {
+    "img": "https://cards.scryfall.io/large/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1792591098",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact — Food",
+    "color_identity": []
+  },
   "Teach by Example": {
     "img": "https://cards.scryfall.io/large/front/a/a/aa7fbb9b-50a8-4d18-a667-fe965468ca16.jpg?1783927287",
     "date": "2021-04-23",
@@ -390793,6 +392298,21 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Temporal Conqueror": {
+    "img": "https://cards.scryfall.io/large/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1792672799",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Na'kuhl Warrior",
+    "color_identity": [
+      "G"
+    ],
+    "power": "2",
+    "toughness": "3"
   },
   "Temporal Distortion": {
     "img": "https://cards.scryfall.io/large/front/7/4/74bd0d14-8d26-403f-9405-d0dcdecd1a49.jpg?1783945702",
@@ -392694,6 +394214,32 @@
     "power": "2",
     "toughness": "2"
   },
+  "Test of Conviction": {
+    "img": "https://cards.scryfall.io/large/front/8/3/837d7cec-f3f8-4555-86f2-c5ea1849d7d1.jpg?1792668317",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
+    ]
+  },
+  "Test of Courage": {
+    "img": "https://cards.scryfall.io/large/front/6/c/6cd8c8e4-a32e-4644-a990-70c649ce8985.jpg?1792668515",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "color_identity": [
+      "G"
+    ]
+  },
   "Test of Endurance": {
     "img": "https://cards.scryfall.io/large/front/c/f/cf16bd6b-e99c-4da3-bd03-11f63b7ee85d.jpg?1783945131",
     "date": "2002-05-27",
@@ -392718,6 +394264,32 @@
     "type_line": "Instant",
     "color_identity": [
       "W"
+    ]
+  },
+  "Test of Loyalty": {
+    "img": "https://cards.scryfall.io/large/front/7/2/722eeb21-be3c-4ae6-abd2-c3281d53c035.jpg?1792753889",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "B"
+    ]
+  },
+  "Test of Priorities": {
+    "img": "https://cards.scryfall.io/large/front/8/9/89e3ec23-e4dc-4d58-aeda-9f73ed4504a5.jpg?1792892187",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "color_identity": [
+      "U"
     ]
   },
   "Test of Talents": {
@@ -394494,6 +396066,25 @@
       "B"
     ]
   },
+  "The Borg Queen": {
+    "img": "https://cards.scryfall.io/large/front/e/5/e5142756-4148-4205-9122-87cffb0d3341.jpg?1792507936",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{4}{W}{U}{B}",
+    "cmc": 7,
+    "type_line": "Legendary Artifact Creature — Borg Noble",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "power": "4",
+    "toughness": "4"
+  },
   "The Boulder, Ready to Rumble": {
     "img": "https://cards.scryfall.io/large/front/e/c/ec27a466-5457-44c6-a842-1de7d3788d66.jpg?1783904947",
     "date": "2025-11-21",
@@ -395009,6 +396600,23 @@
     "power": "2",
     "toughness": "3"
   },
+  "The Doctor, EMH": {
+    "img": "https://cards.scryfall.io/large/front/8/f/8fbad0dd-5f74-40c0-9e3e-c06be8eabb14.jpg?1792508313",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{3}{G/W}{G/W}",
+    "cmc": 5,
+    "type_line": "Legendary Artifact Creature — Illusion Doctor",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "3"
+  },
   "The Dominion Bracelet": {
     "img": "https://cards.scryfall.io/large/front/f/5/f5360880-2849-45d6-b1aa-08c7e01083af.jpg?1783905918",
     "date": "2025-08-01",
@@ -395052,6 +396660,23 @@
     ],
     "power": "0",
     "toughness": "1"
+  },
+  "The Duras Sisters": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fc44d954-dc08-4071-8e2b-e65090de65dc.jpg?1792508845",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{B/R}{B/R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Klingon Warrior",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "power": "3",
+    "toughness": "2"
   },
   "The Eagles Are Coming!": {
     "img": "https://cards.scryfall.io/large/front/6/2/62a7ff97-b940-4745-9e2e-3258fb51b846.jpg?1784797988",
@@ -396004,6 +397629,15 @@
     "type_line": "Artifact",
     "color_identity": []
   },
+  "The Holodeck": {
+    "img": "https://cards.scryfall.io/large/front/5/7/57e830f5-564d-4899-87c0-74192c561fc8.jpg?1792508432",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{7}",
+    "cmc": 7,
+    "type_line": "Legendary Artifact",
+    "color_identity": []
+  },
   "The Horus Heresy": {
     "img": "https://cards.scryfall.io/large/front/f/3/f3f96749-3536-4f3e-b5e6-bfc1e989c5d9.jpg?1783920846",
     "date": "2022-10-07",
@@ -396156,6 +397790,21 @@
     ],
     "power": "3",
     "toughness": "3"
+  },
+  "The Inner Light": {
+    "img": "https://cards.scryfall.io/large/front/a/f/af92a773-b237-4cd8-b50d-4f7c3b9290ed.jpg?1792753772",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{3}{G}{W}",
+    "cmc": 5,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "G",
+      "W"
+    ]
   },
   "The Invincible Iron Man": {
     "img": "https://cards.scryfall.io/large/back/8/1/81eaf2ee-edeb-4026-81bb-8766ffa61f0d.jpg?1783902843",
@@ -397978,6 +399627,15 @@
     "power": "2",
     "toughness": "3"
   },
+  "The Sword of Kahless": {
+    "img": "https://cards.scryfall.io/large/front/d/c/dcc0ee8a-3400-4cf8-888e-96c847ebc71b.jpg?1792507997",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{4}",
+    "cmc": 4,
+    "type_line": "Legendary Artifact — Equipment",
+    "color_identity": []
+  },
   "The Tabernacle at Pendrell Vale": {
     "img": "https://cards.scryfall.io/large/front/6/4/64bc9b1d-5818-4d9e-b771-e49af4ff9a5c.jpg?1783948022",
     "date": "1994-06-01",
@@ -398210,6 +399868,23 @@
       "B"
     ]
   },
+  "The Traveler": {
+    "img": "https://cards.scryfall.io/large/front/1/7/171932ba-26da-48e9-b8a2-c71aafe5c6a6.jpg?1792508396",
+    "date": "2026-11-13",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{G}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Scout",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "power": "*",
+    "toughness": "3"
+  },
   "The Trickster-God's Heist": {
     "img": "https://cards.scryfall.io/large/front/4/a/4aa19a68-0d71-4123-a64d-8cb76f93cd74.jpg?1783928189",
     "date": "2021-02-05",
@@ -398302,6 +399977,17 @@
     "cmc": 1,
     "type_line": "Artifact — Book",
     "color_identity": []
+  },
+  "The Unicomplex": {
+    "img": "https://cards.scryfall.io/large/front/7/5/751eedef-1d14-44cf-bb52-99f8ada888b9.jpg?1792508628",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "color_identity": [
+      "B"
+    ]
   },
   "The Unspeakable": {
     "img": "https://cards.scryfall.io/large/front/5/2/5212bd3e-e8d8-483e-871b-29fd378f817e.jpg?1783944319",
@@ -398718,6 +400404,19 @@
       "W"
     ]
   },
+  "The Wrath of Khan": {
+    "img": "https://cards.scryfall.io/large/front/4/2/426d627e-bb88-4879-8d9f-db1babf22b15.jpg?1792510667",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "R"
+    ]
+  },
   "The Wretched": {
     "img": "https://cards.scryfall.io/large/front/1/4/14c45416-a826-42e9-9967-8838158cf16d.jpg?1783948062",
     "date": "1994-06-01",
@@ -398999,6 +400698,19 @@
     "type_line": "Enchantment — Saga",
     "color_identity": [
       "R"
+    ]
+  },
+  "There's Coffee in that Nebula": {
+    "img": "https://cards.scryfall.io/large/front/8/d/8dd7e0c6-84f6-4570-af93-4c64e78c2868.jpg?1792668331",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "W"
     ]
   },
   "Thermal Blast": {
@@ -400433,6 +402145,19 @@
     "type_line": "Enchantment",
     "color_identity": [
       "W"
+    ]
+  },
+  "Those Old Scientists": {
+    "img": "https://cards.scryfall.io/large/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792753712",
+    "date": "2026-11-13",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "U"
     ]
   },
   "Those Who Serve": {
@@ -412364,6 +414089,15 @@
       "W"
     ]
   },
+  "Tricorder": {
+    "img": "https://cards.scryfall.io/large/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.jpg?1792508457",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{1}",
+    "cmc": 1,
+    "type_line": "Artifact — Equipment",
+    "color_identity": []
+  },
   "Trigon of Corruption": {
     "img": "https://cards.scryfall.io/large/front/2/6/26e215e0-836c-4b37-8f9a-9093a535bff1.jpg?1783941694",
     "date": "2010-10-01",
@@ -413151,6 +414885,21 @@
     ],
     "power": "3",
     "toughness": "4"
+  },
+  "Troubling Tribbles": {
+    "img": "https://cards.scryfall.io/large/front/6/5/65d09a80-440a-4686-a0bb-b2be19112f8e.jpg?1792509118",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Tribble",
+    "color_identity": [
+      "W"
+    ],
+    "power": "0",
+    "toughness": "1"
   },
   "Trove Tracker": {
     "img": "https://cards.scryfall.io/large/front/c/3/c3b74135-b8db-4485-a4b1-7aaa3ef28072.jpg?1783928847",
@@ -415848,6 +417597,15 @@
     "power": "1",
     "toughness": "3"
   },
+  "Type-2 Phaser": {
+    "img": "https://cards.scryfall.io/large/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792757435",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact — Equipment",
+    "color_identity": []
+  },
   "Typhoid Mary, Fractured": {
     "img": "https://cards.scryfall.io/large/front/f/8/f8c1f3b2-2365-42c2-9383-9a05318fb1ff.jpg?1783903139",
     "date": "2026-06-26",
@@ -416259,6 +418017,36 @@
     "power": "3",
     "toughness": "2"
   },
+  "U.S.S. Discovery, at Black Alert": {
+    "img": "https://cards.scryfall.io/large/front/f/0/f0a16d25-ab32-4744-8b61-3774dd28a2c1.jpg?1792508969",
+    "date": "2026-11-13",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Artifact — Spacecraft",
+    "color_identity": [
+      "G"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
+  "U.S.S. Enterprise-A, Free Spirit": {
+    "img": "https://cards.scryfall.io/large/front/b/1/b162c8cd-865d-40a8-9bc1-e11702ac27d2.jpg?1792509147",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5,
+    "type_line": "Legendary Artifact — Spacecraft",
+    "color_identity": [
+      "W"
+    ],
+    "power": "5",
+    "toughness": "5"
+  },
   "U.S.S. Enterprise-D, Galaxy-Class": {
     "img": "https://cards.scryfall.io/large/front/c/b/cb823267-b230-40f3-a1eb-140657df2b1e.jpg?1784078589",
     "date": "2026-11-13",
@@ -416269,6 +418057,21 @@
     "color_identity": [],
     "power": "4",
     "toughness": "5"
+  },
+  "U.S.S. Reliant, From Hell's Heart": {
+    "img": "https://cards.scryfall.io/large/front/d/c/dc9fa6b6-6cb9-4fc9-bda0-2bb9a1fe8313.jpg?1792509159",
+    "date": "2026-11-13",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Artifact — Spacecraft",
+    "color_identity": [
+      "B"
+    ],
+    "power": "4",
+    "toughness": "3"
   },
   "Uba Mask": {
     "img": "https://cards.scryfall.io/large/front/f/a/fa3ecb4e-d08f-4fac-8842-c3e772b95bd5.jpg?1783944275",
@@ -417413,6 +419216,21 @@
     "color_identity": [
       "B",
       "G"
+    ],
+    "power": "4",
+    "toughness": "5"
+  },
+  "Una Chin-Riley, Number One": {
+    "img": "https://cards.scryfall.io/large/front/5/5/5585c90d-3fe7-41f4-9728-36b9410ecc53.jpg?1792668590",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{4}{W}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Illyrian Officer",
+    "color_identity": [
+      "W"
     ],
     "power": "4",
     "toughness": "5"
@@ -419145,6 +420963,15 @@
     "color_identity": [
       "U"
     ]
+  },
+  "Unexplored Territory": {
+    "img": "https://cards.scryfall.io/large/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1792591180",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "color_identity": []
   },
   "Unfathomable Truths": {
     "img": "https://cards.scryfall.io/large/front/f/9/f95b8eb1-4dbb-4bb9-aa31-b7a12e3b4618.jpg?1783911285",
@@ -420933,7 +422760,7 @@
     ]
   },
   "Upheaval": {
-    "img": "https://cards.scryfall.io/large/front/9/e/9e201229-34a6-48c8-a07c-d8aefcf5f8a7.jpg?1783945252",
+    "img": "https://cards.scryfall.io/large/front/9/e/9e201229-34a6-48c8-a07c-d8aefcf5f8a7.jpg?1792506288",
     "date": "2001-10-01",
     "colors": [
       "U"
@@ -424321,6 +426148,23 @@
     ],
     "power": "2",
     "toughness": "3"
+  },
+  "Vash, Freelance Archaeologist": {
+    "img": "https://cards.scryfall.io/large/front/d/1/d1f51765-f336-4ca2-a0f5-e42dc352c0fa.jpg?1792508403",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Rogue Scientist",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "power": "2",
+    "toughness": "4"
   },
   "Vashta Nerada": {
     "img": "https://cards.scryfall.io/large/front/c/4/c4defc65-1473-4e4f-8b39-9d7e004170d3.jpg?1783914413",
@@ -427716,6 +429560,21 @@
     "power": "4",
     "toughness": "3"
   },
+  "Vexing Drone": {
+    "img": "https://cards.scryfall.io/large/front/6/f/6f4b2476-8f93-4d4e-b664-233e82fcf212.jpg?1792591213",
+    "date": "2026-11-13",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Borg",
+    "color_identity": [
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
+  },
   "Vexing Gull": {
     "img": "https://cards.scryfall.io/large/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg?1783931574",
     "date": "2020-01-24",
@@ -429383,7 +431242,7 @@
     "toughness": "3"
   },
   "Vindicate": {
-    "img": "https://cards.scryfall.io/large/front/2/a/2a1bfefd-dae8-49e9-9d56-cc852e3dc93b.jpg?1783945329",
+    "img": "https://cards.scryfall.io/large/front/2/a/2a1bfefd-dae8-49e9-9d56-cc852e3dc93b.jpg?1792506310",
     "date": "2001-06-04",
     "colors": [
       "B",
@@ -434346,6 +436205,18 @@
     "power": "3",
     "toughness": "4"
   },
+  "Vulcan": {
+    "img": "https://cards.scryfall.io/large/front/f/c/fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc.jpg?1792632981",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Planet",
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
   "Vulpikeet": {
     "img": "https://cards.scryfall.io/large/front/0/7/07bce816-3d18-4ca1-b88f-7307ec7c345d.jpg?1783931082",
     "date": "2020-04-24",
@@ -438034,6 +439905,15 @@
     "color_identity": [
       "B"
     ]
+  },
+  "Warp Core": {
+    "img": "https://cards.scryfall.io/large/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1792590999",
+    "date": "2026-11-13",
+    "colors": [],
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact",
+    "color_identity": []
   },
   "Warp World": {
     "img": "https://cards.scryfall.io/large/front/f/d/fdbf743a-6e28-47c4-acfe-1c5d42f80eee.jpg?1783943644",
@@ -449018,6 +450898,57 @@
     "power": "2",
     "toughness": "3"
   },
+  "Worf, Defiant Commander": {
+    "img": "https://cards.scryfall.io/large/front/d/a/da030114-a4ee-46d7-a6fd-6c0d8e779bcf.jpg?1792507927",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "R",
+      "W"
+    ],
+    "mana_cost": "{2}{R}{W}{B}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Klingon Warrior Officer",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ],
+    "power": "3",
+    "toughness": "4"
+  },
+  "Worf, Honor-Bound Warrior": {
+    "img": "https://cards.scryfall.io/large/front/f/2/f2abd2b6-c60f-4667-925b-423c0a135ebc.jpg?1792508863",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{R/W}{R/W}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Klingon Warrior Officer",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "power": "1",
+    "toughness": "1"
+  },
+  "Worf, Intelligence Contractor": {
+    "img": "https://cards.scryfall.io/large/front/f/1/f177de31-b7f0-46d3-a3a9-a708f8d4a95f.jpg?1792508843",
+    "date": "2026-11-13",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Klingon Warrior Spy",
+    "color_identity": [
+      "R"
+    ],
+    "power": "3",
+    "toughness": "2"
+  },
   "Workhorse": {
     "img": "https://cards.scryfall.io/large/front/c/2/c2571ff7-0287-4ba2-8365-5ff08de641a2.jpg?1783946497",
     "date": "1998-06-15",
@@ -451919,6 +453850,21 @@
     "power": "3",
     "toughness": "6"
   },
+  "Year of Hell": {
+    "img": "https://cards.scryfall.io/large/front/4/a/4ab931e9-fb07-4da2-a0d9-acfec2ac9e19.jpg?1792753960",
+    "date": "2026-11-13",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3,
+    "type_line": "Enchantment — Saga",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
   "Yedora, Grave Gardener": {
     "img": "https://cards.scryfall.io/large/front/a/7/a7d8f80e-ece1-49f1-8e14-589d579a568e.jpg?1783927451",
     "date": "2021-04-23",
@@ -454203,6 +456149,23 @@
     "color_identity": [
       "B"
     ]
+  },
+  "Zero, Incorporeal Sensate": {
+    "img": "https://cards.scryfall.io/large/front/9/3/93f616fe-6906-4e5d-b9fe-b432cccdb0ec.jpg?1792508418",
+    "date": "2026-11-13",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{1}{W/B}{W/B}",
+    "cmc": 3,
+    "type_line": "Legendary Artifact Creature — Medusan Scientist",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "power": "2",
+    "toughness": "2"
   },
   "Zetalpa, Primal Dawn": {
     "img": "https://cards.scryfall.io/large/front/3/d/3d10560f-199d-4d04-b573-90024f8aecc4.jpg?1783935331",
